@@ -1,0 +1,2001 @@
+account_id,company_name,email_domain,industry,state,size_class,n_employees,created_date
+ACC-00001,da Cruz,alvesefilhos.net.br,Financeiro,RS,pequena,93,2024-04-13
+ACC-00002,Pastor - ME,carvalhosous.com.br,Financeiro,RJ,pequena,126,2023-10-01
+ACC-00003,da Conceição Montenegro - EI,alvess/a.com.br,Saúde,MG,pequena,95,2023-05-05
+ACC-00004,Câmara,novaiss.a..org.br,Financeiro,DF,pequena,113,2023-09-01
+ACC-00005,Abreu,pastor.com.br,Serviços,RS,pequena,105,2023-03-26
+ACC-00006,Cassiano,sampaiolimal.com.br,Tecnologia,SP,media,216,2023-09-10
+ACC-00007,Garcia S/A,teixeirafern.com.br,Indústria,RS,pequena,66,2024-03-30
+ACC-00008,Aparecida,ferreira.com.br,Tecnologia,RS,,131,2023-12-14
+ACC-00009,Garcia S/A,nascimento.com.br,Financeiro,PR,media,245,2024-01-21
+ACC-00010,Oliveira,pires.com.br,Varejo,RJ,media,178,2024-04-11
+ACC-00011,Vargas da Rocha S/A,santosazeved.com.br,Serviços,SP,media,309,2023-06-15
+ACC-00012,Porto,britogarcial.com.br,Saúde,SP,pequena,91,2024-04-12
+ACC-00013,Fogaça,castro.com.br,Serviços,RJ,media,350,2023-12-29
+ACC-00014,Pereira e Filhos,riosdamataef.com.br,Varejo,RJ,media,155,2024-01-27
+ACC-00015,Martins Garcia Ltda.,nascimentosi.org.br,Financeiro,SP,pequena,66,2023-07-28
+ACC-00016,Andrade Dias - ME,rodriguesdua.net.br,Varejo,GO,grande,364,2023-09-28
+ACC-00017,Nunes Silva Ltda.,azevedo.com.br,Financeiro,SP,media,308,2023-09-03
+ACC-00018,Casa Grande,rezendemonte.com.br,Varejo,MG,pequena,96,2023-10-26
+ACC-00019,Souza Novais - EI,carvalho.net.br,Financeiro,MG,pequena,81,2023-12-09
+ACC-00020,Pacheco,souza.com.br,Varejo,SP,media,234,2023-12-27
+ACC-00021,Carvalho Moraes - ME,fonseca.com.br,Varejo,SP,,499,2023-11-14
+ACC-00022,Cassiano e Filhos,sás/a.com.br,Serviços,SP,media,342,2023-05-31
+ACC-00023,Gomes - ME,vieirarodrig.com.br,Indústria,SP,media,312,2023-05-26
+ACC-00024,Novaes,moura.com.br,Saúde,SP,grande,354,2023-06-14
+ACC-00025,Rodrigues - EI,rodriguesefi.org.br,Tecnologia,PR,media,297,2024-02-01
+ACC-00026,Camargo,vargas.org.br,Varejo,SP,media,197,2023-06-19
+ACC-00027,Marques Abreu e Filhos,lopes.com.br,Educação,SP,pequena,112,2023-10-09
+ACC-00028,Montenegro Caldeira e Filhos,montenegro.net.br,Serviços,GO,grande,357,2023-02-19
+ACC-00029,Cassiano Freitas S.A.,porto.net.br,Serviços,MG,pequena,52,2024-02-26
+ACC-00030,Almeida,peixotoltda..com.br,Tecnologia,SP,grande,463,2023-01-18
+ACC-00031,Araújo da Costa - EI,fonsecaltda..com.br,Varejo,SP,media,294,2024-04-22
+ACC-00032,Azevedo,barrosefilho.com.br,Serviços,SP,pequena,148,2023-04-06
+ACC-00033,da Luz Moura - EI,cardosoribei.com.br,Varejo,MG,media,336,2024-01-15
+ACC-00034,Silva das Neves - ME,cunha.org.br,Financeiro,SP,pequena,122,2023-11-06
+ACC-00035,Campos,macedo.com.br,Serviços,SP,,213,2024-06-05
+ACC-00036,Pastor - EI,câmaraazeved.com.br,Indústria,SP,pequena,106,2024-02-13
+ACC-00037,Santos e Filhos,pastorcâmara.com.br,,PR,media,237,2023-09-13
+ACC-00038,Farias S/A,daconceiçãos.net.br,Saúde,RJ,pequena,133,2024-02-22
+ACC-00039,Nogueira Cardoso e Filhos,damotarios-m.com.br,Serviços,MG,pequena,143,2023-08-21
+ACC-00040,Jesus,dacruz.com.br,Tecnologia,PR,media,200,2024-06-07
+ACC-00041,Fogaça,britobritoef.com.br,Varejo,SP,media,214,2023-06-19
+ACC-00042,Siqueira,jesus.com.br,Varejo,SP,pequena,78,2024-01-23
+ACC-00043,Araújo - ME,rochaefilhos.net.br,Indústria,SP,media,311,2023-08-03
+ACC-00044,Correia Correia - EI,caldeira.com.br,Varejo,SP,pequena,135,2023-05-05
+ACC-00045,Cirino,carvalho.com.br,Varejo,SP,pequena,143,2023-10-13
+ACC-00046,Barbosa Macedo - EI,martins.org.br,Varejo,GO,media,335,2023-05-11
+ACC-00047,Borges S.A.,aragãoefilho.org.br,Indústria,RJ,media,298,2023-03-15
+ACC-00048,Guerra Araújo S.A.,jesusmendonç.com.br,Tecnologia,SP,media,243,2023-02-03
+ACC-00049,da Luz,abreu.com.br,Tecnologia,SP,pequena,101,2023-07-20
+ACC-00050,Sampaio,dapaz.com.br,Educação,RJ,grande,395,2024-02-25
+ACC-00051,da Rocha Cunha S/A,cassiano.com.br,Indústria,MG,media,261,2023-10-18
+ACC-00052,Aragão - EI,souzaltda..net.br,Financeiro,SP,grande,381,2024-06-04
+ACC-00053,Araújo Moraes S/A,montenegro.com.br,Varejo,CE,grande,459,2023-03-17
+ACC-00054,Guerra Campos - EI,azevedopeixo.com.br,Saúde,SP,grande,468,2024-01-30
+ACC-00055,Leão e Filhos,pachecopeixo.org.br,Varejo,RJ,media,152,2023-11-09
+ACC-00056,Rios Silva Ltda.,daluz.com.br,Serviços,PE,media,310,2024-04-06
+ACC-00057,Marques,daluzgonçalv.org.br,Indústria,RS,pequena,143,2024-02-27
+ACC-00058,Albuquerque - ME,sá.com.br,Tecnologia,SP,pequena,127,2023-06-20
+ACC-00059,Montenegro da Luz S.A.,barbosa-ei.net.br,Serviços,MG,pequena,62,2024-02-03
+ACC-00060,Freitas da Paz S.A.,azevedo.org.br,Tecnologia,RS,grande,422,2024-04-07
+ACC-00061,Pimenta,nogueira.net.br,,RS,pequena,98,2023-11-18
+ACC-00062,Ribeiro,rios-ei.com.br,Tecnologia,RJ,media,316,2023-01-07
+ACC-00063,Caldeira e Filhos,carvalholtda.net.br,Varejo,SP,grande,357,2024-04-25
+ACC-00064,Silva Fernandes S.A.,damatadapaz-.org.br,,SP,media,350,2024-01-07
+ACC-00065,da Cunha,montenegro.com.br,Varejo,GO,,312,2023-04-19
+ACC-00066,da Mota,borgesefilho.com.br,Varejo,PR,media,152,2024-06-09
+ACC-00067,Porto da Luz S.A.,abreultda..com.br,Saúde,RS,grande,369,2024-02-26
+ACC-00068,Novais,novaes.net.br,Varejo,RS,media,191,2023-10-27
+ACC-00069,Nogueira Andrade Ltda.,camargos/a.com.br,Financeiro,RS,pequena,51,2023-05-28
+ACC-00070,Fonseca,lopescardoso.net.br,Indústria,BA,pequena,55,2023-09-08
+ACC-00071,Rios Caldeira Ltda.,fogaças.a..com.br,Varejo,PR,grande,439,2023-09-08
+ACC-00072,da Costa Castro S.A.,pinto.net.br,Educação,MG,pequena,64,2023-10-21
+ACC-00073,Sousa Farias - ME,alves.org.br,Varejo,RJ,media,289,2023-08-09
+ACC-00074,Garcia S/A,damatacastro.net.br,Tecnologia,MG,pequena,78,2023-08-07
+ACC-00075,Marques Ferreira Ltda.,câmara.com.br,Varejo,SP,media,271,2023-06-23
+ACC-00076,Guerra Farias Ltda.,câmaraalvese.net.br,Indústria,RS,media,196,2023-10-26
+ACC-00077,Ramos,vargasltda..org.br,Financeiro,MG,media,190,2023-08-24
+ACC-00078,Alves,rocha.com.br,Agronegócio,RJ,grande,461,2024-02-05
+ACC-00079,Andrade,daluzs.a..com.br,Saúde,SP,media,159,2023-03-05
+ACC-00080,Siqueira,peixoto-me.net.br,,SP,pequena,78,2023-02-06
+ACC-00081,Gomes - EI,lopes.com.br,Saúde,MG,pequena,121,2023-03-25
+ACC-00082,Abreu,dacunhaapare.net.br,Educação,SP,media,342,2024-02-25
+ACC-00083,Pinto,fonsecalopes.com.br,Indústria,RJ,pequena,118,2023-04-25
+ACC-00084,Silveira Ltda.,ribeiro.org.br,Educação,SC,media,318,2024-03-13
+ACC-00085,Duarte,rios.com.br,Tecnologia,RJ,pequena,134,2024-02-17
+ACC-00086,Novaes,sampaio.com.br,Agronegócio,SP,pequena,68,2023-04-16
+ACC-00087,Rocha,correialeãoe.com.br,Serviços,SC,pequena,77,2023-05-14
+ACC-00088,Novaes,pimentanunes.com.br,Financeiro,SP,pequena,117,2024-02-11
+ACC-00089,Lopes Viana - EI,darosaltda..com.br,Serviços,RJ,media,288,2024-04-10
+ACC-00090,Macedo,martins.com.br,Tecnologia,RJ,media,321,2023-10-10
+ACC-00091,Ribeiro Barros Ltda.,moraesmeloef.net.br,,SP,pequena,50,2023-07-05
+ACC-00092,Rocha das Neves S.A.,borges.com.br,Tecnologia,SP,media,240,2023-08-15
+ACC-00093,Melo Pimenta S/A,casagrandeal.com.br,Educação,PR,media,326,2023-09-18
+ACC-00094,Silva Sampaio - ME,leão.net.br,Financeiro,SP,grande,495,2023-10-04
+ACC-00095,Casa Grande Rezende e Filhos,guerra.net.br,Indústria,SP,grande,367,2024-06-21
+ACC-00096,Câmara,sás/a.com.br,Varejo,PR,pequena,84,2024-06-09
+ACC-00097,Novais S.A.,sampaiomorei.com.br,Educação,SP,pequena,57,2024-03-09
+ACC-00098,Rios,marquess.a..com.br,Saúde,SP,pequena,143,2024-06-04
+ACC-00099,Pimenta,sá.org.br,Financeiro,RS,media,152,2024-04-17
+ACC-00100,Castro,novaes.com.br,Indústria,SP,,386,2024-06-03
+ACC-00101,Sá,machado.net.br,Serviços,SP,grande,442,2024-01-02
+ACC-00102,Pires,portodamota-.com.br,Tecnologia,SP,media,321,2023-03-04
+ACC-00103,da Costa,damotamacedo.net.br,Varejo,PR,pequena,95,2024-01-27
+ACC-00104,Nogueira,farias.net.br,Varejo,outros,media,232,2024-04-12
+ACC-00105,Gomes Sales S.A.,carvalhos.a..com.br,Agronegócio,SP,media,219,2023-03-15
+ACC-00106,Nogueira,azevedoleão-.com.br,Serviços,SP,media,154,2023-09-03
+ACC-00107,Costela - ME,leão.com.br,Serviços,SP,pequena,85,2024-05-04
+ACC-00108,Teixeira - EI,vargas.com.br,Financeiro,MG,media,256,2023-01-14
+ACC-00109,Fogaça Ltda.,mendes.net.br,Varejo,MG,grande,351,2023-06-04
+ACC-00110,Mendonça Câmara Ltda.,leão.org.br,Serviços,RS,grande,416,2023-05-20
+ACC-00111,Gomes Ltda.,mendonça.org.br,Varejo,MG,media,214,2023-02-25
+ACC-00112,Martins Cardoso - EI,silveira.com.br,Varejo,SP,grande,415,2023-06-10
+ACC-00113,Barros e Filhos,gonçalves-ei.net.br,Serviços,SP,media,309,2023-06-20
+ACC-00114,Cirino,carvalho.com.br,Financeiro,SP,,56,2023-09-25
+ACC-00115,Cunha,daluz-me.com.br,Varejo,RJ,grande,375,2023-01-01
+ACC-00116,Teixeira,duarte.com.br,Financeiro,SP,media,237,2023-05-06
+ACC-00117,da Cunha,damota.org.br,,PE,pequena,125,2023-06-30
+ACC-00118,Ferreira S.A.,melos/a.org.br,,SP,pequena,121,2023-01-12
+ACC-00119,Sá S/A,vasconcelose.net.br,Varejo,SP,pequena,121,2023-12-05
+ACC-00120,da Costa Cardoso - ME,costaalmeida.com.br,Varejo,MG,grande,478,2023-09-07
+ACC-00121,Sampaio,nuness.a..net.br,Tecnologia,MG,grande,434,2023-09-06
+ACC-00122,Cavalcante,vargas.com.br,Tecnologia,MG,media,313,2023-06-11
+ACC-00123,Caldeira,vasconceloss.org.br,Varejo,SP,pequena,124,2023-07-09
+ACC-00124,Gonçalves,dasneves-ei.com.br,Financeiro,GO,pequena,121,2023-03-22
+ACC-00125,Caldeira Sampaio Ltda.,barbosapasto.com.br,,outros,,130,2023-10-04
+ACC-00126,Ferreira - EI,vieira-ei.org.br,Indústria,GO,pequena,150,2023-02-19
+ACC-00127,Azevedo,ribeiro.com.br,Tecnologia,SP,pequena,95,2023-11-21
+ACC-00128,Mendonça,albuquerque.com.br,Indústria,BA,pequena,51,2024-04-03
+ACC-00129,Santos,lopesltda..com.br,Tecnologia,MG,media,257,2024-02-01
+ACC-00130,Pimenta,lopescavalca.com.br,Serviços,PR,pequena,92,2023-07-15
+ACC-00131,Siqueira,martins.net.br,Agronegócio,SP,pequena,66,2024-01-08
+ACC-00132,Borges da Mota - ME,duarte.com.br,Saúde,SP,grande,380,2023-07-07
+ACC-00133,Fernandes,sámartins-ei.com.br,Tecnologia,RS,media,168,2024-02-09
+ACC-00134,Mendonça Cunha Ltda.,monteiroltda.com.br,Agronegócio,PR,grande,366,2023-10-02
+ACC-00135,Peixoto,fernandes.net.br,Varejo,RS,grande,499,2023-07-25
+ACC-00136,Moreira S.A.,novais.net.br,Indústria,RJ,media,214,2023-01-06
+ACC-00137,Mendonça,dacostaefilh.com.br,Varejo,SP,pequena,86,2023-08-04
+ACC-00138,Machado,salesmeloefi.net.br,Educação,SP,pequena,84,2023-09-16
+ACC-00139,Guerra Sales S.A.,borgesltda..com.br,Varejo,RJ,pequena,98,2023-10-13
+ACC-00140,Melo,ribeiro.com.br,Educação,RJ,media,247,2024-04-27
+ACC-00141,Fogaça,lima.com.br,Financeiro,DF,grande,466,2024-05-07
+ACC-00142,da Cunha,damata.com.br,Varejo,MG,pequena,57,2023-08-21
+ACC-00143,Campos,campossilvei.com.br,Serviços,SP,pequena,58,2023-05-19
+ACC-00144,da Mota,correiacunha.net.br,Tecnologia,RJ,pequena,124,2023-03-02
+ACC-00145,da Rocha da Conceição Ltda.,brito.net.br,Educação,SP,pequena,73,2024-05-04
+ACC-00146,da Mota Aparecida S/A,darosaalbuqu.net.br,Serviços,SP,pequena,68,2024-04-24
+ACC-00147,Porto Sá - ME,sampaio.com.br,Tecnologia,SP,media,294,2023-05-16
+ACC-00148,Melo,albuquerque-.com.br,Financeiro,RJ,media,328,2023-09-04
+ACC-00149,Cirino,macedo.com.br,Varejo,RJ,pequena,68,2024-06-03
+ACC-00150,Azevedo - ME,dacunha-me.com.br,Varejo,SP,pequena,105,2023-07-27
+ACC-00151,Cassiano S.A.,barbosa.com.br,Indústria,RJ,media,345,2023-08-07
+ACC-00152,Campos Novais - ME,barros.org.br,Financeiro,SP,media,314,2024-03-28
+ACC-00153,Macedo,vasconcelosm.com.br,Tecnologia,PR,media,282,2023-12-06
+ACC-00154,das Neves,pastor.org.br,Serviços,SP,media,335,2023-10-29
+ACC-00155,Teixeira S.A.,pimentaefilh.net.br,Serviços,MG,pequena,93,2023-03-25
+ACC-00156,da Costa Cavalcanti - EI,daluzribeiro.com.br,Financeiro,MG,media,214,2023-12-26
+ACC-00157,Machado,castros/a.com.br,,SC,pequena,59,2024-01-06
+ACC-00158,da Conceição Ltda.,darocha.net.br,Financeiro,RJ,grande,484,2024-02-15
+ACC-00159,Barbosa,sampaio.net.br,Tecnologia,MG,media,229,2023-08-09
+ACC-00160,Lima Camargo - EI,daluzvianaef.com.br,Serviços,SP,media,332,2024-01-16
+ACC-00161,Barbosa Araújo S.A.,ramoscassian.org.br,,MG,media,177,2023-12-24
+ACC-00162,Macedo,peixoto.net.br,Financeiro,SP,grande,380,2024-05-13
+ACC-00163,Sampaio,martinsefilh.com.br,Varejo,GO,pequena,78,2024-01-04
+ACC-00164,Macedo,damata.net.br,Educação,SP,media,291,2023-06-18
+ACC-00165,Sousa,peixotos/a.com.br,Tecnologia,RJ,media,259,2023-01-13
+ACC-00166,Alves,pereira.com.br,Agronegócio,SP,grande,417,2024-04-12
+ACC-00167,Teixeira e Filhos,daconceiçãoe.com.br,Tecnologia,PE,pequena,90,2024-05-13
+ACC-00168,Teixeira S.A.,oliveira.com.br,Financeiro,RJ,media,299,2023-12-08
+ACC-00169,da Mota,moreira.com.br,Tecnologia,RJ,pequena,96,2023-11-16
+ACC-00170,Borges,pachecolopes.net.br,Varejo,SP,pequena,136,2023-09-06
+ACC-00171,Farias,ferreira.com.br,Financeiro,outros,pequena,61,2023-08-01
+ACC-00172,Castro Ltda.,rios.com.br,Indústria,DF,grande,414,2023-12-12
+ACC-00173,da Paz,sales.com.br,Tecnologia,SP,grande,384,2023-12-29
+ACC-00174,Marques S/A,teixeira.net.br,Serviços,RS,media,235,2024-03-10
+ACC-00175,Camargo,dacunha.com.br,Serviços,DF,pequena,119,2024-02-02
+ACC-00176,Ribeiro - EI,moraes.net.br,Varejo,SP,media,235,2023-06-26
+ACC-00177,Correia - EI,jesus.com.br,Serviços,PR,pequena,73,2024-02-13
+ACC-00178,Pires,pinto.com.br,Agronegócio,SP,pequena,64,2023-06-18
+ACC-00179,Costela Ltda.,teixeira.com.br,Varejo,SP,pequena,135,2024-02-27
+ACC-00180,Campos,dapazmacedoe.com.br,Varejo,SC,grande,376,2023-10-30
+ACC-00181,Santos Castro Ltda.,pires-ei.net.br,Tecnologia,PR,media,268,2023-05-21
+ACC-00182,Câmara S/A,novaes-me.net.br,Tecnologia,SP,pequena,96,2023-12-21
+ACC-00183,Monteiro Silva Ltda.,campos.org.br,Varejo,SP,pequena,54,2024-03-25
+ACC-00184,Melo,leão.org.br,Serviços,BA,pequena,116,2024-06-04
+ACC-00185,Correia,marquesnovae.com.br,Tecnologia,RS,media,340,2023-06-07
+ACC-00186,Viana,azevedodamot.net.br,Financeiro,SP,pequena,133,2024-05-23
+ACC-00187,Silveira,abreu.com.br,Serviços,MG,media,171,2024-03-27
+ACC-00188,Cassiano,pastor.com.br,,RS,media,255,2024-04-05
+ACC-00189,Ferreira,nascimento.org.br,Agronegócio,GO,media,306,2023-04-04
+ACC-00190,Marques,novaes.com.br,Varejo,MG,pequena,144,2023-09-11
+ACC-00191,Oliveira Gomes S.A.,correia.com.br,Varejo,SP,pequena,60,2023-08-19
+ACC-00192,Souza,aparecida.com.br,Tecnologia,SP,pequena,82,2023-07-06
+ACC-00193,Gomes,santos.com.br,Agronegócio,SP,grande,455,2023-02-24
+ACC-00194,Brito,monteiroandr.com.br,Saúde,PR,media,175,2024-01-13
+ACC-00195,Albuquerque,brito.org.br,Serviços,MG,pequena,97,2024-06-01
+ACC-00196,Melo Ltda.,jesusrezende.com.br,Serviços,DF,media,346,2024-06-06
+ACC-00197,Rezende,pinto.com.br,Varejo,SP,pequena,71,2023-04-16
+ACC-00198,Dias,fariasefilho.org.br,Serviços,MG,pequena,86,2023-07-26
+ACC-00199,Pinto S/A,nogueira.com.br,Tecnologia,RJ,media,344,2023-11-07
+ACC-00200,Souza Borges - ME,piresrodrigu.com.br,Tecnologia,SP,pequena,82,2023-06-16
+ACC-00201,Macedo S.A.,teixeiraefil.com.br,Varejo,SP,media,302,2024-02-17
+ACC-00202,Duarte S/A,alves.com.br,Indústria,PE,pequena,110,2024-04-07
+ACC-00203,Lopes,fogaça.com.br,,MG,pequena,144,2024-01-07
+ACC-00204,Cavalcante Cavalcanti S/A,dacruzmoura-.net.br,Serviços,SP,media,321,2023-11-07
+ACC-00205,Monteiro Pacheco S.A.,pinto.com.br,Tecnologia,SP,media,162,2023-05-28
+ACC-00206,da Cunha,martinsporto.com.br,Educação,SC,grande,431,2024-04-09
+ACC-00207,Barbosa Macedo Ltda.,martinsltda..net.br,Tecnologia,RJ,pequena,89,2024-03-18
+ACC-00208,Sales,porto.com.br,Serviços,RJ,pequena,111,2023-03-12
+ACC-00209,Costa,marques.com.br,Tecnologia,SP,pequena,123,2024-04-22
+ACC-00210,da Costa - ME,mendes.net.br,,SP,media,289,2024-03-07
+ACC-00211,Sampaio,oliveira.com.br,Serviços,SP,pequena,95,2023-03-18
+ACC-00212,da Mota,almeida.com.br,Serviços,DF,media,340,2023-05-14
+ACC-00213,Pereira e Filhos,nunesefilhos.com.br,Indústria,SP,pequena,63,2023-08-24
+ACC-00214,Pereira Fogaça S.A.,dapaz.org.br,,SP,media,342,2023-10-13
+ACC-00215,Pires Brito e Filhos,pintodacunha.com.br,Saúde,SC,pequena,78,2023-02-02
+ACC-00216,Pacheco Ltda.,dasneves-me.com.br,Indústria,RJ,pequena,142,2024-06-24
+ACC-00217,Cavalcanti,borgesdaroch.com.br,Varejo,SP,pequena,69,2024-06-10
+ACC-00218,Moura,cardosoviana.com.br,Educação,PE,media,317,2023-12-08
+ACC-00219,Mendes,cavalcante.org.br,Serviços,RS,grande,383,2024-06-14
+ACC-00220,Camargo,souza.com.br,Tecnologia,SP,pequena,89,2024-01-31
+ACC-00221,Sá Câmara e Filhos,barbosa.org.br,Agronegócio,SP,media,168,2023-01-20
+ACC-00222,Borges,novais.com.br,,DF,grande,383,2023-01-23
+ACC-00223,Nascimento,albuquerque.net.br,Varejo,GO,pequena,65,2023-11-07
+ACC-00224,Pacheco,marquesltda..org.br,Saúde,BA,media,191,2023-12-08
+ACC-00225,Caldeira,porto.com.br,Tecnologia,SP,pequena,112,2024-05-31
+ACC-00226,Pimenta,meloalves-ei.com.br,Tecnologia,RS,media,187,2023-03-30
+ACC-00227,Sampaio,ramosazevedo.com.br,Varejo,SP,grande,465,2023-04-13
+ACC-00228,Camargo,rezende.com.br,Serviços,RJ,grande,427,2023-10-07
+ACC-00229,Camargo,aparecidaand.com.br,Indústria,SP,pequena,122,2023-12-15
+ACC-00230,Gomes Marques Ltda.,dacosta-ei.net.br,Serviços,SC,pequena,140,2024-01-28
+ACC-00231,Leão Rezende S/A,pastor.org.br,Indústria,SP,grande,466,2023-12-11
+ACC-00232,da Mota,pimenta.com.br,Tecnologia,PR,pequena,147,2023-07-21
+ACC-00233,Macedo Macedo S.A.,salesltda..com.br,Varejo,SP,media,220,2023-03-13
+ACC-00234,Nogueira,brito.com.br,Tecnologia,CE,pequena,140,2024-03-14
+ACC-00235,da Mota,araújo.net.br,Serviços,RS,grande,460,2024-02-20
+ACC-00236,Ramos Porto - EI,camposmarque.com.br,Varejo,SP,pequena,98,2023-07-28
+ACC-00237,Cardoso Viana - EI,aragãoltda..com.br,Varejo,RS,media,199,2024-03-03
+ACC-00238,Pastor Cunha S.A.,azevedoteixe.com.br,Tecnologia,SP,pequena,132,2023-05-07
+ACC-00239,Viana Peixoto S/A,vasconcelos.org.br,Financeiro,SP,pequena,68,2023-05-29
+ACC-00240,Nogueira da Cunha S.A.,casagrande.com.br,Tecnologia,PE,media,224,2023-07-19
+ACC-00241,Albuquerque Fogaça S.A.,ribeiros/a.net.br,Educação,GO,media,239,2024-04-30
+ACC-00242,da Luz Aragão S.A.,almeida.com.br,Varejo,RJ,media,167,2023-09-26
+ACC-00243,Souza S/A,moura.net.br,Saúde,PR,pequena,122,2023-05-03
+ACC-00244,Moraes,machado.com.br,Agronegócio,RJ,pequena,138,2024-02-13
+ACC-00245,Pimenta Aparecida e Filhos,machado-ei.net.br,Tecnologia,SP,media,273,2023-06-11
+ACC-00246,Araújo - ME,marques.com.br,Serviços,RS,media,340,2024-01-02
+ACC-00247,Mendonça e Filhos,lima.org.br,Tecnologia,RS,grande,466,2023-03-18
+ACC-00248,Duarte - EI,barbosa.com.br,Educação,RJ,pequena,77,2024-06-22
+ACC-00249,Garcia,azevedocardo.com.br,,SP,pequena,124,2024-03-31
+ACC-00250,Brito,marques.org.br,Varejo,RJ,pequena,150,2024-02-02
+ACC-00251,Lopes Machado S.A.,rezendeefilh.net.br,Financeiro,SP,pequena,73,2023-04-14
+ACC-00252,Guerra,fernandes.com.br,Indústria,DF,media,323,2023-03-31
+ACC-00253,Dias - ME,siqueira.com.br,Tecnologia,SP,media,168,2024-02-16
+ACC-00254,Freitas,rios.org.br,Serviços,PR,pequena,68,2023-04-26
+ACC-00255,Barros S/A,rodriguesmel.com.br,Tecnologia,PE,pequena,77,2023-03-15
+ACC-00256,Cardoso,brito.net.br,Tecnologia,SP,pequena,135,2024-03-05
+ACC-00257,Rios,pastor-ei.com.br,Agronegócio,SP,grande,388,2024-04-08
+ACC-00258,Silveira,jesusltda..net.br,Indústria,SP,media,212,2023-03-08
+ACC-00259,Fogaça,dapaz-ei.net.br,Serviços,RS,grande,379,2023-10-15
+ACC-00260,Cassiano Ribeiro - ME,oliveira-ei.com.br,Varejo,RJ,pequena,79,2024-01-03
+ACC-00261,Camargo,caldeiraferr.net.br,Financeiro,RS,grande,470,2023-05-15
+ACC-00262,Lima Novais - EI,oliveira.org.br,Saúde,RS,grande,379,2024-03-20
+ACC-00263,Alves,pereiraefilh.com.br,Indústria,SP,media,165,2024-06-22
+ACC-00264,Ferreira,damatasampai.org.br,Financeiro,DF,pequena,78,2023-09-20
+ACC-00265,Azevedo,cirinos.a..org.br,,SC,media,209,2023-12-26
+ACC-00266,Souza - EI,sousaportos/.com.br,Indústria,SP,,293,2023-09-05
+ACC-00267,Castro,garcialeão-m.com.br,Tecnologia,RS,grande,481,2023-01-28
+ACC-00268,Vasconcelos,dasneves.net.br,Agronegócio,RJ,pequena,125,2023-08-12
+ACC-00269,Sá Pinto S/A,aragãos.a..com.br,Varejo,MG,grande,417,2024-01-23
+ACC-00270,Mendonça,damata-me.org.br,Serviços,SP,media,246,2023-01-10
+ACC-00271,Cunha,leão.org.br,Indústria,GO,pequena,76,2024-06-14
+ACC-00272,da Paz e Filhos,ferreira-me.com.br,Varejo,SP,pequena,67,2023-07-27
+ACC-00273,Aparecida,moura.com.br,Varejo,PR,media,297,2023-11-13
+ACC-00274,Costela Ltda.,gonçalvespei.com.br,Serviços,RJ,media,278,2024-01-20
+ACC-00275,Duarte,vargascarval.org.br,Saúde,SP,pequena,92,2023-03-25
+ACC-00276,Cavalcanti,abreu-me.com.br,Saúde,PR,pequena,119,2023-04-23
+ACC-00277,Montenegro Novais e Filhos,garcianascim.com.br,Agronegócio,SP,pequena,149,2023-11-07
+ACC-00278,Sousa,barbosa.net.br,Indústria,RS,pequena,111,2023-12-04
+ACC-00279,Barbosa,lopess/a.net.br,Serviços,SP,pequena,93,2023-02-17
+ACC-00280,Oliveira,oliveira.com.br,Saúde,PR,media,198,2024-06-08
+ACC-00281,da Rocha,santos.com.br,Agronegócio,MG,media,342,2023-10-16
+ACC-00282,Cavalcante,guerras/a.com.br,Serviços,RJ,grande,428,2023-11-01
+ACC-00283,Borges,sales.com.br,Varejo,SP,pequena,64,2023-02-21
+ACC-00284,Lopes Pastor - ME,caldeira.org.br,Varejo,SP,media,297,2023-02-27
+ACC-00285,Câmara,gonçalvesltd.org.br,Tecnologia,PR,media,212,2023-08-14
+ACC-00286,Barbosa Moraes e Filhos,vasconcelos.com.br,Financeiro,outros,media,251,2024-03-16
+ACC-00287,Vasconcelos Ferreira Ltda.,moura-ei.net.br,Tecnologia,outros,media,301,2024-06-26
+ACC-00288,Costa,dacostacalde.org.br,Agronegócio,RJ,pequena,136,2023-12-31
+ACC-00289,Cavalcanti e Filhos,pereiracassi.net.br,Educação,PR,grande,488,2024-05-09
+ACC-00290,Rodrigues,martins.com.br,Indústria,MG,media,260,2023-08-14
+ACC-00291,Cassiano,pires.com.br,Tecnologia,SC,pequena,93,2023-04-14
+ACC-00292,Macedo,azevedo.com.br,Serviços,SP,pequena,126,2023-03-03
+ACC-00293,Pastor,vieira.com.br,Varejo,SP,pequena,143,2023-11-14
+ACC-00294,das Neves - ME,fogaça-ei.org.br,Serviços,SP,,111,2023-09-04
+ACC-00295,Freitas Ltda.,andrade.com.br,Varejo,SP,grande,401,2023-10-28
+ACC-00296,Martins,ramoss/a.com.br,Indústria,RJ,grande,459,2023-11-02
+ACC-00297,Duarte Pereira - ME,machado-ei.com.br,,RS,pequena,60,2023-07-12
+ACC-00298,Silva,araújomachad.net.br,Indústria,PR,media,279,2023-05-01
+ACC-00299,Aparecida da Cruz e Filhos,montenegroef.com.br,Indústria,SP,pequena,68,2023-01-24
+ACC-00300,Fonseca Freitas Ltda.,macedo.org.br,,SP,grande,377,2023-11-29
+ACC-00301,Rocha,jesus.com.br,Educação,DF,pequena,138,2024-02-21
+ACC-00302,Azevedo,vieiraefilho.net.br,Varejo,MG,media,261,2024-05-27
+ACC-00303,da Paz,brito.net.br,Varejo,RS,media,292,2023-02-10
+ACC-00304,Farias Barros - EI,silveira.com.br,Tecnologia,RS,grande,427,2023-01-13
+ACC-00305,Cardoso,ferreiradasn.com.br,Serviços,SP,grande,429,2024-02-05
+ACC-00306,Ramos,dasneves-ei.com.br,Tecnologia,PE,media,321,2023-03-09
+ACC-00307,Ramos e Filhos,cardoso.net.br,Varejo,SP,pequena,117,2024-01-04
+ACC-00308,Almeida,moraes.com.br,Tecnologia,SC,pequena,126,2024-02-04
+ACC-00309,Cunha Fernandes - ME,dasneves.com.br,Educação,BA,media,188,2023-03-05
+ACC-00310,da Rocha S/A,câmaracarval.com.br,Indústria,SP,pequena,65,2023-09-06
+ACC-00311,Peixoto Garcia S.A.,ribeiroltda..net.br,Serviços,MG,pequena,92,2023-01-18
+ACC-00312,Silveira Macedo S/A,cirinosales-.com.br,Varejo,RJ,pequena,60,2023-06-26
+ACC-00313,Macedo Pimenta Ltda.,fonseca.net.br,Serviços,RJ,media,179,2023-01-12
+ACC-00314,das Neves Viana - ME,daconceição.net.br,Financeiro,SP,grande,366,2024-06-19
+ACC-00315,Martins,freitasrocha.org.br,,DF,media,204,2024-05-22
+ACC-00316,Montenegro,vasconcelos.com.br,Varejo,DF,pequena,105,2023-04-14
+ACC-00317,Pereira Carvalho Ltda.,castro.net.br,Tecnologia,RJ,media,181,2024-06-18
+ACC-00318,Novaes,ramos-me.com.br,Tecnologia,SP,media,340,2023-10-27
+ACC-00319,da Paz S/A,silva-ei.com.br,Educação,SC,pequena,138,2023-10-03
+ACC-00320,Lopes Borges S.A.,damatamachad.com.br,Tecnologia,DF,,322,2023-05-04
+ACC-00321,Leão S/A,ferreira.com.br,Tecnologia,SP,pequena,122,2024-01-07
+ACC-00322,da Costa,montenegro.com.br,Tecnologia,RJ,media,222,2023-12-23
+ACC-00323,Câmara,barros.org.br,Varejo,SP,grande,415,2023-07-07
+ACC-00324,Vieira,diass/a.org.br,Financeiro,PR,pequena,74,2024-05-09
+ACC-00325,Sampaio,carvalhoandr.net.br,Financeiro,SP,grande,424,2023-07-06
+ACC-00326,Pimenta,teixeirasant.com.br,,PE,pequena,67,2023-11-27
+ACC-00327,Cunha,barross/a.com.br,Tecnologia,SP,pequena,133,2023-01-18
+ACC-00328,Camargo,novaessiquei.com.br,Tecnologia,SP,pequena,88,2023-11-26
+ACC-00329,Campos,dacosta.com.br,Educação,RJ,grande,357,2023-10-03
+ACC-00330,Azevedo,dacosta-me.net.br,Saúde,RJ,grande,465,2023-03-08
+ACC-00331,Pires - EI,monteiro-ei.com.br,Agronegócio,PR,pequena,143,2024-06-26
+ACC-00332,Abreu,silvacasagra.org.br,Financeiro,MG,media,157,2023-10-11
+ACC-00333,Cirino,dacosta.com.br,Serviços,SP,pequena,116,2023-09-02
+ACC-00334,Moura - EI,mouraltda..com.br,Tecnologia,RJ,grande,482,2024-02-18
+ACC-00335,Porto - ME,gomes-me.com.br,Tecnologia,SP,media,160,2023-03-24
+ACC-00336,Fogaça S/A,dacunha.org.br,Tecnologia,PR,grande,474,2023-09-29
+ACC-00337,Vargas - EI,dacosta.org.br,Serviços,MG,pequena,72,2024-03-22
+ACC-00338,Fogaça - EI,carvalho.com.br,Indústria,SP,media,174,2023-07-03
+ACC-00339,Vasconcelos Rodrigues - ME,ramos.com.br,Serviços,SP,pequena,57,2023-12-28
+ACC-00340,Carvalho Azevedo e Filhos,pires.com.br,Tecnologia,RS,media,188,2023-09-26
+ACC-00341,Costa,andrade.org.br,Educação,RJ,media,213,2024-04-21
+ACC-00342,Dias Ltda.,vieiras.a..com.br,Agronegócio,SP,grande,368,2023-06-28
+ACC-00343,da Cunha,nogueira.com.br,Varejo,RS,,479,2023-05-19
+ACC-00344,da Paz Fogaça S/A,sáefilhos.org.br,Tecnologia,SP,media,281,2024-03-12
+ACC-00345,Freitas - ME,damata.com.br,Varejo,RJ,pequena,144,2023-07-21
+ACC-00346,Gomes,souza.com.br,Tecnologia,SP,pequena,87,2024-01-16
+ACC-00347,Sales,cirino.com.br,Tecnologia,SP,media,350,2024-02-26
+ACC-00348,Barros,freitas.com.br,Agronegócio,SP,media,255,2024-01-24
+ACC-00349,Pereira,barros.com.br,Serviços,SP,pequena,94,2023-11-03
+ACC-00350,Barros Ltda.,nogueiradaro.net.br,Saúde,MG,media,295,2023-09-01
+ACC-00351,Pereira,dasneves.com.br,Varejo,BA,media,292,2023-04-29
+ACC-00352,Ferreira,cavalcante.com.br,Tecnologia,SP,media,188,2024-01-13
+ACC-00353,Pimenta,aparecida.net.br,Varejo,RS,pequena,69,2024-06-14
+ACC-00354,Barbosa e Filhos,damota.com.br,Varejo,SP,media,210,2024-05-05
+ACC-00355,Alves Casa Grande - EI,fonseca.com.br,Financeiro,RJ,media,199,2023-09-23
+ACC-00356,Azevedo da Costa e Filhos,andrade.com.br,Indústria,outros,grande,415,2024-03-27
+ACC-00357,Nunes,fonseca.org.br,Tecnologia,PR,pequena,77,2023-04-06
+ACC-00358,Freitas,pereiras.a..com.br,Varejo,SP,pequena,53,2023-06-09
+ACC-00359,Oliveira S.A.,macedo.com.br,Varejo,MG,media,235,2023-09-29
+ACC-00360,Rezende,gonçalves.com.br,Serviços,BA,media,178,2024-03-30
+ACC-00361,Alves e Filhos,dacruz.org.br,Varejo,SP,pequena,102,2024-02-02
+ACC-00362,da Luz Ltda.,monteiromore.com.br,Saúde,SP,pequena,137,2024-04-30
+ACC-00363,Sales,cunha.com.br,Serviços,RJ,pequena,78,2024-03-10
+ACC-00364,Carvalho S/A,costa.org.br,Saúde,RJ,pequena,65,2023-02-23
+ACC-00365,Borges,cavalcanti.net.br,Tecnologia,RJ,pequena,56,2023-07-20
+ACC-00366,Santos,rios.org.br,Tecnologia,SP,pequena,80,2024-03-16
+ACC-00367,da Rosa,novaes-ei.com.br,,SP,media,170,2023-05-10
+ACC-00368,Vieira Fonseca - EI,silvasantose.com.br,Educação,RS,pequena,126,2023-02-28
+ACC-00369,Vieira Monteiro S/A,camposcostas.com.br,Tecnologia,outros,pequena,80,2023-11-21
+ACC-00370,Martins,novaes.net.br,Serviços,PR,media,175,2024-01-13
+ACC-00371,Gonçalves,pimentaborge.org.br,Tecnologia,SP,media,300,2023-06-12
+ACC-00372,Vargas,moura.com.br,Serviços,RJ,media,345,2023-07-10
+ACC-00373,Cardoso Ltda.,oliveira.com.br,Varejo,SP,grande,465,2023-03-09
+ACC-00374,Cardoso,machado-me.net.br,Financeiro,RS,pequena,140,2024-04-06
+ACC-00375,Campos - EI,vargascardos.com.br,Financeiro,RS,media,244,2023-06-26
+ACC-00376,Santos,darosacavalc.com.br,Serviços,outros,media,283,2023-09-30
+ACC-00377,da Cunha S.A.,ferreiramore.com.br,Serviços,RJ,media,162,2023-01-27
+ACC-00378,Pimenta,cardoso.net.br,Financeiro,PR,media,282,2024-03-11
+ACC-00379,Pastor Pacheco S.A.,montenegroef.com.br,Varejo,BA,pequena,135,2023-10-15
+ACC-00380,Nunes,ribeiropinto.com.br,Tecnologia,SC,media,269,2023-07-27
+ACC-00381,Ramos - EI,alvess/a.net.br,Serviços,RJ,grande,356,2024-01-30
+ACC-00382,Vargas Oliveira - ME,rezende.com.br,Varejo,PE,pequena,64,2023-07-28
+ACC-00383,Ramos,monteiroefil.org.br,Tecnologia,PR,media,322,2023-07-29
+ACC-00384,Rodrigues Guerra Ltda.,mendes.org.br,Educação,SP,pequena,111,2024-06-11
+ACC-00385,Castro - ME,barbosa.net.br,,RJ,pequena,125,2024-03-23
+ACC-00386,Costela,mendes.org.br,Saúde,SP,pequena,146,2023-11-23
+ACC-00387,Dias Silva Ltda.,pereira.com.br,Indústria,SP,media,287,2023-08-18
+ACC-00388,Teixeira Freitas - EI,guerra.com.br,Varejo,RJ,pequena,134,2024-06-27
+ACC-00389,Campos,diass.a..org.br,Tecnologia,SP,media,209,2024-05-13
+ACC-00390,Casa Grande Brito S/A,machado.net.br,,MG,media,316,2023-10-08
+ACC-00391,da Cruz,gomes.com.br,Indústria,SP,media,179,2023-07-25
+ACC-00392,Correia,duarteolivei.com.br,Tecnologia,RJ,pequena,94,2024-04-29
+ACC-00393,das Neves,monteiromora.com.br,Tecnologia,RJ,pequena,105,2023-10-24
+ACC-00394,Gonçalves - EI,almeida.com.br,,SP,pequena,78,2023-05-20
+ACC-00395,Pacheco Fogaça S/A,dacosta.net.br,Indústria,MG,media,200,2023-10-10
+ACC-00396,da Paz,dapaz-me.com.br,Indústria,SP,grande,365,2023-12-26
+ACC-00397,da Luz Siqueira Ltda.,caldeira-me.com.br,Serviços,SC,media,203,2024-01-16
+ACC-00398,Guerra S/A,fonseca.com.br,Saúde,SP,pequena,52,2023-07-12
+ACC-00399,Gomes - EI,fonsecanovae.org.br,Varejo,PR,media,168,2023-08-08
+ACC-00400,Pinto,teixeira.com.br,Tecnologia,SP,grande,369,2023-07-22
+ACC-00401,Freitas,cardosos/a.com.br,,PR,media,255,2023-09-07
+ACC-00402,Sá,novais.org.br,Tecnologia,SP,media,273,2023-06-15
+ACC-00403,Montenegro,costapereira.org.br,Financeiro,SP,pequena,63,2023-09-27
+ACC-00404,Silva Farias - ME,aparecidas/a.org.br,Agronegócio,SP,grande,486,2023-11-16
+ACC-00405,Duarte Pimenta Ltda.,cassiano.org.br,Indústria,SP,pequena,56,2023-06-07
+ACC-00406,Pastor,gonçalvespim.com.br,Indústria,RJ,media,328,2023-05-12
+ACC-00407,Santos,montenegro.org.br,Varejo,MG,media,316,2024-02-19
+ACC-00408,Freitas Ltda.,melo.org.br,Financeiro,MG,media,327,2023-04-03
+ACC-00409,Vieira,leão-ei.com.br,Saúde,PE,media,164,2023-09-05
+ACC-00410,Rezende,peixoto-me.com.br,Tecnologia,SP,media,172,2024-05-13
+ACC-00411,Cavalcante,silveiraarag.com.br,Saúde,MG,grande,442,2023-02-08
+ACC-00412,Andrade Oliveira e Filhos,casagrande.com.br,Tecnologia,MG,media,240,2023-05-04
+ACC-00413,Dias,correias/a.net.br,Financeiro,SC,pequena,116,2024-03-13
+ACC-00414,Sales,cassiano.com.br,Financeiro,RS,pequena,78,2023-04-04
+ACC-00415,Sousa,jesusmontene.com.br,Tecnologia,BA,grande,386,2024-06-22
+ACC-00416,Novais Duarte e Filhos,santoss.a..com.br,Tecnologia,RS,grande,355,2024-01-03
+ACC-00417,Dias,moura.org.br,Financeiro,SP,media,252,2024-05-02
+ACC-00418,Rocha,marquesnasci.org.br,Tecnologia,SP,pequena,148,2023-01-17
+ACC-00419,Correia,pimenta.net.br,Educação,RJ,pequena,92,2023-10-31
+ACC-00420,da Rosa Vargas Ltda.,damotanovais.com.br,Varejo,PR,media,233,2023-06-18
+ACC-00421,Mendes,salessantos-.net.br,Varejo,SP,pequena,69,2023-10-31
+ACC-00422,da Paz,novais.com.br,Serviços,MG,media,187,2024-06-24
+ACC-00423,Gonçalves,oliveiraefil.org.br,Financeiro,SP,pequena,97,2024-03-03
+ACC-00424,da Rocha Aparecida Ltda.,vargas.com.br,Tecnologia,SC,media,157,2023-03-01
+ACC-00425,Souza,ferreira-me.net.br,Saúde,RJ,media,256,2024-01-04
+ACC-00426,Nascimento da Mata - EI,cunha.com.br,Tecnologia,PE,pequena,60,2023-10-04
+ACC-00427,Pimenta e Filhos,carvalho.net.br,,BA,pequena,80,2024-03-12
+ACC-00428,Porto da Conceição S/A,dacruzaragão.com.br,Indústria,SP,media,221,2023-10-16
+ACC-00429,Brito,jesusltda..com.br,Indústria,RS,pequena,81,2023-04-29
+ACC-00430,Rezende,abreunovaess.net.br,Tecnologia,SP,media,337,2023-09-08
+ACC-00431,Sá da Paz Ltda.,mendes.com.br,Indústria,RS,media,321,2023-07-12
+ACC-00432,Vargas S/A,ramos.com.br,Varejo,SP,media,249,2023-06-01
+ACC-00433,Cavalcanti - ME,nascimentoso.com.br,Varejo,BA,,52,2023-01-25
+ACC-00434,Souza da Rocha S/A,andradegonça.com.br,Serviços,MG,pequena,52,2023-05-20
+ACC-00435,Farias Ltda.,darosa-ei.com.br,Indústria,DF,pequena,138,2024-06-05
+ACC-00436,Carvalho,ramos.com.br,Saúde,SP,media,194,2024-04-14
+ACC-00437,Camargo Farias S.A.,damata.com.br,Indústria,SP,media,341,2023-12-21
+ACC-00438,Silva,ramos.com.br,Serviços,SP,pequena,129,2024-02-19
+ACC-00439,Nunes,albuquerques.com.br,Varejo,SP,media,294,2023-07-25
+ACC-00440,Lima,cavalcantipi.com.br,Financeiro,MG,grande,399,2024-06-06
+ACC-00441,Rios,borges.org.br,Serviços,SP,media,193,2023-06-23
+ACC-00442,Duarte,cirinos.a..net.br,Serviços,SP,,412,2024-02-14
+ACC-00443,Machado Sá Ltda.,abreudaluz-m.com.br,Tecnologia,SP,pequena,138,2023-04-29
+ACC-00444,da Luz e Filhos,darosa.com.br,Varejo,RJ,pequena,50,2023-06-18
+ACC-00445,Araújo Rios S/A,sales.com.br,Varejo,SP,grande,410,2023-03-01
+ACC-00446,Guerra Rodrigues - EI,dasneves.org.br,Indústria,SP,grande,443,2023-08-03
+ACC-00447,Porto Ltda.,sales.net.br,Serviços,SP,pequena,94,2024-05-23
+ACC-00448,Câmara Carvalho - ME,pimenta.com.br,Educação,PE,pequena,115,2023-08-03
+ACC-00449,Leão,marquessouza.org.br,Serviços,SP,media,174,2023-09-07
+ACC-00450,Teixeira da Cruz e Filhos,sá.com.br,Financeiro,SP,grande,356,2024-04-22
+ACC-00451,Barbosa,moura-me.com.br,Indústria,SP,media,233,2023-11-18
+ACC-00452,Oliveira Nascimento S.A.,araújo-ei.com.br,Indústria,MG,grande,382,2024-03-05
+ACC-00453,Rodrigues S.A.,duartemoreir.net.br,Tecnologia,SP,pequena,65,2024-06-22
+ACC-00454,Araújo,borges.org.br,Serviços,PR,pequena,78,2023-01-12
+ACC-00455,Marques,cardoso.com.br,Financeiro,RJ,pequena,97,2024-05-13
+ACC-00456,Silveira,novais-me.org.br,Tecnologia,PR,grande,352,2023-12-25
+ACC-00457,Souza S.A.,gonçalvesltd.com.br,Tecnologia,SP,media,218,2023-06-24
+ACC-00458,Sampaio,aparecida-me.com.br,Indústria,PE,pequena,97,2024-05-25
+ACC-00459,Melo S/A,nogueiras/a.net.br,Financeiro,MG,media,273,2024-04-22
+ACC-00460,Vargas Carvalho e Filhos,jesus.com.br,Varejo,SP,pequena,111,2024-06-10
+ACC-00461,Machado,freitas.org.br,Saúde,RJ,media,179,2023-06-19
+ACC-00462,Rodrigues e Filhos,garcia.org.br,Varejo,SP,grande,449,2023-12-05
+ACC-00463,Nascimento Gonçalves - EI,rezendeferre.net.br,Financeiro,MG,pequena,90,2024-02-27
+ACC-00464,da Rosa - ME,siqueiracâma.net.br,Tecnologia,PR,grande,463,2023-09-03
+ACC-00465,da Conceição,nascimento.com.br,Educação,SP,pequena,108,2023-06-28
+ACC-00466,Correia,marquesferre.com.br,Indústria,SP,pequena,97,2023-08-01
+ACC-00467,Pimenta,andradeefilh.com.br,Tecnologia,SP,media,226,2023-02-05
+ACC-00468,Brito - EI,dacostas.a..net.br,Indústria,SP,pequena,121,2023-11-12
+ACC-00469,da Cruz e Filhos,machado-ei.net.br,Financeiro,DF,pequena,89,2024-02-14
+ACC-00470,Nogueira Cunha S/A,guerra-me.net.br,Tecnologia,SP,grande,488,2024-03-26
+ACC-00471,Oliveira,montenegroda.org.br,Serviços,SP,media,190,2023-03-24
+ACC-00472,Casa Grande,dacosta.com.br,Tecnologia,SP,grande,417,2023-02-08
+ACC-00473,Novais - EI,jesusdarosal.com.br,Financeiro,CE,pequena,81,2023-01-09
+ACC-00474,Aragão,piresrocha-m.net.br,Agronegócio,MG,pequena,137,2023-02-17
+ACC-00475,Viana,ramos.com.br,Varejo,PR,media,211,2024-03-02
+ACC-00476,Jesus,sampaio.org.br,Serviços,BA,grande,419,2023-04-03
+ACC-00477,da Costa,darosagarcia.org.br,Serviços,SP,pequena,76,2023-02-15
+ACC-00478,Araújo,darosasantos.net.br,Varejo,PR,grande,493,2023-06-08
+ACC-00479,Gomes da Cruz Ltda.,leão.com.br,Indústria,SP,pequena,52,2024-05-26
+ACC-00480,Freitas,fariasramoss.net.br,Serviços,SP,media,282,2024-02-21
+ACC-00481,Aragão da Mata - ME,nascimentoef.com.br,Varejo,RJ,pequena,131,2023-06-30
+ACC-00482,Mendes Costela Ltda.,barbosas.a..com.br,Varejo,PE,media,259,2023-03-09
+ACC-00483,Correia Sousa S/A,albuquerque.com.br,Varejo,SC,media,252,2024-02-20
+ACC-00484,Gonçalves da Costa - EI,dacruz.com.br,Tecnologia,outros,pequena,88,2023-02-08
+ACC-00485,Garcia,vasconcelos.com.br,,SP,media,180,2024-04-13
+ACC-00486,das Neves,nascimento.com.br,Varejo,SP,pequena,85,2023-01-26
+ACC-00487,Martins,fonseca.com.br,Tecnologia,SP,grande,369,2024-06-10
+ACC-00488,Costela,silveira-me.net.br,Varejo,SP,pequena,119,2024-03-14
+ACC-00489,Aparecida,dias.net.br,Financeiro,SP,grande,422,2024-01-06
+ACC-00490,Novaes,sousacasagra.com.br,Serviços,SP,grande,351,2024-03-21
+ACC-00491,Costa Farias S.A.,darocha.net.br,Varejo,SP,media,180,2024-04-16
+ACC-00492,Monteiro Novaes e Filhos,nunes.com.br,Serviços,MG,media,156,2024-02-19
+ACC-00493,Silveira,dacunha.com.br,Varejo,PE,grande,431,2024-02-20
+ACC-00494,Siqueira Vieira Ltda.,marques.com.br,Serviços,SP,pequena,143,2023-04-26
+ACC-00495,Cirino,carvalhosilv.net.br,Financeiro,SP,media,346,2023-11-19
+ACC-00496,Rios S/A,mouras/a.org.br,Tecnologia,SP,pequena,51,2023-10-22
+ACC-00497,Azevedo Santos S.A.,jesuss.a..com.br,Varejo,SP,media,347,2024-01-05
+ACC-00498,Freitas,cunha-ei.com.br,Varejo,SP,media,238,2023-10-08
+ACC-00499,Ribeiro,pintoefilhos.net.br,Tecnologia,GO,pequena,122,2023-06-25
+ACC-00500,Nascimento - EI,almeida.org.br,Varejo,SP,media,210,2023-06-03
+ACC-00501,Moura e Filhos,albuquerque.com.br,,RJ,media,233,2023-05-28
+ACC-00502,Almeida,nascimento.com.br,Tecnologia,SP,media,171,2023-01-03
+ACC-00503,Brito - EI,cavalcanti.com.br,Serviços,SP,pequena,56,2023-05-05
+ACC-00504,Fogaça,dacostacorre.net.br,Educação,MG,media,179,2024-01-12
+ACC-00505,Barros,vieira.com.br,Serviços,SP,,179,2023-06-26
+ACC-00506,Nunes,guerra.net.br,Varejo,MG,pequena,77,2023-01-17
+ACC-00507,Rezende e Filhos,sampaiocâmar.com.br,Serviços,MG,pequena,112,2024-01-29
+ACC-00508,Garcia,borges-me.com.br,Financeiro,RJ,media,344,2023-03-14
+ACC-00509,Sampaio S.A.,araújo.com.br,Tecnologia,SP,,363,2024-01-28
+ACC-00510,Nunes,monteiro-me.com.br,Varejo,PE,grande,440,2023-10-17
+ACC-00511,Cunha Sales - EI,mouras/a.org.br,Varejo,SP,,324,2023-02-25
+ACC-00512,Barbosa e Filhos,damata.org.br,Financeiro,MG,media,237,2023-04-20
+ACC-00513,Cavalcanti Ltda.,nogueira.com.br,,SP,pequena,56,2024-05-30
+ACC-00514,Sá Silva - ME,costela-ei.com.br,Tecnologia,BA,media,224,2024-03-16
+ACC-00515,Nunes Gomes e Filhos,darosas.a..com.br,Saúde,RJ,pequena,69,2023-02-26
+ACC-00516,Vieira Sales e Filhos,gomes.com.br,,SP,pequena,109,2023-10-14
+ACC-00517,Aragão,montenegroef.org.br,Serviços,RJ,pequena,107,2023-11-03
+ACC-00518,Fernandes - EI,lopess.a..com.br,Tecnologia,MG,media,214,2023-03-10
+ACC-00519,Alves,vasconcelos.com.br,,GO,pequena,87,2023-08-29
+ACC-00520,Mendonça,viana.org.br,Serviços,SP,pequena,66,2023-12-26
+ACC-00521,Cirino,fogaçanovaes.org.br,Tecnologia,MG,grande,423,2024-05-18
+ACC-00522,da Cruz,barros.com.br,Educação,SP,pequena,105,2024-04-24
+ACC-00523,Garcia Silva e Filhos,barrosltda..com.br,Varejo,SP,media,323,2024-05-21
+ACC-00524,Caldeira,sousagomeslt.org.br,Varejo,RJ,media,280,2023-09-29
+ACC-00525,Fonseca,abreultda..com.br,Serviços,SP,pequena,138,2023-10-04
+ACC-00526,Borges Cirino - ME,caldeira.net.br,Varejo,SP,pequena,101,2023-08-26
+ACC-00527,Caldeira,novais.com.br,Saúde,MG,grande,425,2023-07-06
+ACC-00528,Peixoto - EI,borgesltda..org.br,Varejo,PE,grande,430,2023-08-22
+ACC-00529,da Rocha - ME,gomes.com.br,Educação,MG,pequena,125,2023-02-11
+ACC-00530,Silveira - EI,vasconcelos.com.br,Indústria,SP,pequena,50,2023-01-26
+ACC-00531,Cavalcante,oliveiramore.org.br,Tecnologia,SP,media,290,2024-02-18
+ACC-00532,Casa Grande,damatadarosa.net.br,Varejo,outros,pequena,106,2023-12-13
+ACC-00533,Leão,cavalcante-m.net.br,,PR,media,202,2023-09-04
+ACC-00534,Fonseca Ltda.,mendes.com.br,Saúde,SP,media,301,2023-09-21
+ACC-00535,Marques Caldeira S.A.,silveirapire.com.br,Serviços,MG,media,244,2023-08-12
+ACC-00536,Farias,abreu.net.br,Agronegócio,RJ,media,332,2023-07-05
+ACC-00537,Farias,farias.com.br,Financeiro,RS,media,194,2024-01-05
+ACC-00538,da Rosa Duarte - EI,rezende.com.br,Varejo,MG,grande,439,2023-07-21
+ACC-00539,Dias,mendesdiass..net.br,Financeiro,RJ,,92,2024-04-11
+ACC-00540,Oliveira,sousa.org.br,Financeiro,RJ,media,279,2023-08-23
+ACC-00541,Fonseca,duartegarcia.org.br,Educação,DF,media,175,2024-06-23
+ACC-00542,Rodrigues Vargas - EI,nuness.a..com.br,Varejo,PR,media,272,2023-10-16
+ACC-00543,Macedo da Rocha e Filhos,siqueira-me.org.br,Tecnologia,SP,media,349,2023-08-25
+ACC-00544,Carvalho,vieira-me.com.br,Varejo,RJ,pequena,98,2023-01-02
+ACC-00545,Ribeiro,dacosta.com.br,Tecnologia,SP,media,313,2023-03-26
+ACC-00546,Machado - EI,silvalima-me.com.br,Tecnologia,RJ,pequena,139,2023-08-19
+ACC-00547,Nascimento,pacheco.com.br,Saúde,SP,grande,448,2023-10-30
+ACC-00548,Vieira Ltda.,nogueira.com.br,Serviços,MG,grande,470,2023-08-22
+ACC-00549,Cavalcante,caldeiras.a..com.br,Agronegócio,PR,pequena,79,2024-06-15
+ACC-00550,Sá,nunesefilhos.com.br,Tecnologia,SP,media,318,2023-05-08
+ACC-00551,Caldeira,vieira.net.br,Tecnologia,RS,media,235,2023-05-21
+ACC-00552,Moraes Souza - EI,britoltda..org.br,Serviços,GO,media,309,2024-05-06
+ACC-00553,Vargas,machadofreit.com.br,Financeiro,SP,pequena,94,2024-03-14
+ACC-00554,da Rocha - ME,ferreiraalve.org.br,Educação,BA,grande,357,2023-06-19
+ACC-00555,Ferreira das Neves Ltda.,camargoefilh.com.br,,PE,media,348,2023-05-01
+ACC-00556,Moreira Mendes Ltda.,viana.com.br,Varejo,MG,pequena,74,2023-08-07
+ACC-00557,Silveira,brito.com.br,Indústria,SP,media,239,2023-07-19
+ACC-00558,da Rosa S/A,dias.net.br,Tecnologia,SC,media,275,2023-08-08
+ACC-00559,Rocha S.A.,almeidaltda..net.br,Indústria,SP,media,179,2023-04-14
+ACC-00560,Farias Novais - ME,moreiracaval.com.br,Indústria,SC,pequena,91,2023-02-09
+ACC-00561,Pires,daconceição.com.br,Tecnologia,SP,pequena,61,2024-03-21
+ACC-00562,Gonçalves,cirinoportoe.com.br,Tecnologia,SC,pequena,85,2024-02-21
+ACC-00563,Machado Pastor - ME,sousa-ei.com.br,Varejo,SP,pequena,138,2023-02-15
+ACC-00564,Costela da Mota e Filhos,abreu.net.br,Varejo,GO,grande,359,2023-05-15
+ACC-00565,Fonseca Duarte S.A.,oliveiras/a.net.br,Varejo,MG,pequena,147,2023-07-27
+ACC-00566,Rios,camargo.com.br,Tecnologia,BA,media,210,2023-07-23
+ACC-00567,Peixoto,moura.net.br,Varejo,RJ,media,151,2023-04-04
+ACC-00568,Pastor,pimenta.com.br,,MG,grande,365,2023-07-11
+ACC-00569,Pinto,ferreiraltda.com.br,Varejo,RJ,media,198,2024-02-15
+ACC-00570,Rocha S.A.,rochasantosl.com.br,Serviços,SP,grande,354,2023-08-19
+ACC-00571,das Neves Camargo S.A.,campos.com.br,Varejo,RJ,pequena,74,2024-01-01
+ACC-00572,Moraes Gomes - ME,sales.org.br,Educação,SC,media,302,2024-05-05
+ACC-00573,Mendonça Porto - EI,oliveiragome.net.br,Agronegócio,RJ,media,184,2023-12-15
+ACC-00574,Carvalho,novaiscavalc.net.br,Saúde,SP,grande,473,2023-11-04
+ACC-00575,Fogaça S/A,diasmachado-.com.br,Agronegócio,SP,media,283,2023-11-13
+ACC-00576,Gomes Novais - EI,carvalho.com.br,Saúde,SP,pequena,123,2023-09-10
+ACC-00577,Leão,jesus.org.br,Varejo,BA,media,191,2023-05-17
+ACC-00578,Barros Nunes S/A,mendonça.com.br,Serviços,PR,media,167,2023-12-11
+ACC-00579,Nascimento da Paz S.A.,darochaandra.com.br,Tecnologia,DF,grande,386,2023-04-01
+ACC-00580,Novaes,nunes.com.br,Varejo,RJ,media,200,2023-05-02
+ACC-00581,Vasconcelos,oliveiras/a.com.br,Agronegócio,PR,grande,411,2024-01-07
+ACC-00582,Teixeira e Filhos,nogueira.com.br,Varejo,CE,media,291,2023-12-27
+ACC-00583,Lima Caldeira e Filhos,nogueira.net.br,Tecnologia,CE,media,288,2024-05-21
+ACC-00584,Ferreira,darosaandrad.com.br,Tecnologia,SP,pequena,120,2024-03-27
+ACC-00585,Costela Sousa - EI,macedos/a.com.br,,SP,media,279,2023-08-15
+ACC-00586,Cavalcante,santos.net.br,Varejo,SP,pequena,81,2023-09-05
+ACC-00587,Nunes Ltda.,vianacostela.com.br,Saúde,MG,media,319,2023-03-17
+ACC-00588,Duarte Santos Ltda.,peixoto.org.br,Serviços,RS,pequena,89,2024-03-13
+ACC-00589,Moraes,oliveira.org.br,Serviços,RJ,pequena,105,2024-01-30
+ACC-00590,da Mota e Filhos,carvalho-me.com.br,Indústria,MG,media,338,2024-03-04
+ACC-00591,Silva Duarte S.A.,sampaiocardo.org.br,Serviços,PR,media,348,2023-01-22
+ACC-00592,Oliveira Pires Ltda.,mendonça.com.br,Indústria,CE,media,279,2024-04-30
+ACC-00593,Barbosa,garcia.com.br,Tecnologia,SP,pequena,103,2023-08-20
+ACC-00594,Sales,guerra-ei.net.br,Varejo,RJ,media,271,2024-01-02
+ACC-00595,Duarte,marques.com.br,Varejo,PE,media,152,2023-07-07
+ACC-00596,Siqueira - ME,vasconcelose.com.br,Indústria,SP,media,202,2024-04-05
+ACC-00597,Cunha,azevedo.com.br,,CE,pequena,70,2023-01-02
+ACC-00598,da Mata,cunha.org.br,,RJ,media,294,2023-06-05
+ACC-00599,Novaes,dapaz.net.br,Saúde,SP,grande,414,2023-05-20
+ACC-00600,Aparecida S/A,nunesmendonç.com.br,Agronegócio,SP,media,255,2023-01-21
+ACC-00601,Castro - ME,almeida.com.br,Varejo,RJ,media,302,2024-01-20
+ACC-00602,Costa,abreu.com.br,Agronegócio,PR,media,313,2023-03-28
+ACC-00603,Borges,rezendedaros.net.br,Tecnologia,RJ,pequena,67,2023-06-16
+ACC-00604,Freitas e Filhos,dacunha.org.br,Varejo,SP,grande,415,2023-05-29
+ACC-00605,Silveira,aragãogonçal.com.br,Serviços,GO,media,170,2023-03-17
+ACC-00606,Abreu S.A.,limarezendes.com.br,Varejo,SP,media,253,2023-09-02
+ACC-00607,Pastor Câmara - EI,barbosa.com.br,Varejo,SP,pequena,143,2023-04-12
+ACC-00608,Sampaio Ltda.,albuquerque.com.br,Varejo,BA,pequena,139,2024-04-12
+ACC-00609,Mendes Barbosa S.A.,limaefilhos.net.br,Educação,MG,media,173,2023-02-07
+ACC-00610,Caldeira Ltda.,borges.net.br,Tecnologia,SP,pequena,60,2023-03-12
+ACC-00611,Garcia Vasconcelos S.A.,darosa.com.br,Varejo,RJ,media,283,2023-03-28
+ACC-00612,Pimenta e Filhos,azevedomoura.com.br,Serviços,SP,pequena,64,2023-12-08
+ACC-00613,Pires Souza S.A.,macedoferrei.com.br,Serviços,RJ,media,225,2023-02-17
+ACC-00614,Cunha,pimenta.org.br,Varejo,RJ,pequena,87,2023-02-04
+ACC-00615,Pastor e Filhos,britos.a..org.br,,SP,pequena,134,2023-06-26
+ACC-00616,Dias,ferreira.com.br,Tecnologia,RS,pequena,95,2023-05-27
+ACC-00617,da Cruz - EI,dacruzdamota.com.br,Serviços,SP,pequena,56,2023-09-28
+ACC-00618,Ribeiro Ltda.,vasconcelos.com.br,Varejo,SP,grande,390,2023-08-21
+ACC-00619,Souza Gonçalves Ltda.,moreiraperei.com.br,Serviços,SP,pequena,82,2024-01-29
+ACC-00620,Gomes,vianas.a..net.br,Saúde,MG,grande,486,2024-01-16
+ACC-00621,Moura S/A,dacosta-me.net.br,Serviços,RJ,pequena,127,2023-12-16
+ACC-00622,Gomes Nunes - ME,dias.com.br,Saúde,SC,pequena,81,2024-05-03
+ACC-00623,Teixeira Melo S/A,nogueira.com.br,Agronegócio,SP,media,255,2023-05-22
+ACC-00624,da Luz S.A.,pastors/a.com.br,Educação,RJ,media,294,2023-09-26
+ACC-00625,Pires,araújo-me.net.br,Tecnologia,PR,grande,368,2023-08-04
+ACC-00626,Barros,lima.com.br,Indústria,PR,pequena,66,2023-12-25
+ACC-00627,Moraes S.A.,damotabarros.org.br,Varejo,RJ,,90,2023-12-20
+ACC-00628,das Neves e Filhos,nascimentodu.com.br,Indústria,SP,media,232,2024-05-23
+ACC-00629,Araújo da Cruz S/A,siqueira.com.br,Financeiro,PE,pequena,97,2023-10-22
+ACC-00630,Pimenta,camargo.org.br,Varejo,PR,pequena,57,2023-11-10
+ACC-00631,Campos Albuquerque e Filhos,dasnevesefil.com.br,Tecnologia,RS,media,180,2023-12-06
+ACC-00632,Ferreira,sampaioalbuq.com.br,Serviços,GO,pequena,116,2024-01-04
+ACC-00633,Cardoso,cavalcante.com.br,Agronegócio,SC,media,213,2023-06-25
+ACC-00634,Vargas S/A,siqueira.com.br,Tecnologia,BA,media,304,2024-06-09
+ACC-00635,Moura,lima.org.br,Saúde,outros,grande,411,2023-07-30
+ACC-00636,Monteiro - ME,daluzefilhos.net.br,Saúde,RS,grande,422,2024-03-02
+ACC-00637,Nunes,araújo.net.br,Serviços,SC,pequena,62,2023-10-02
+ACC-00638,Oliveira e Filhos,freitascastr.com.br,Serviços,SP,,89,2023-10-07
+ACC-00639,Aparecida S/A,daconceiçãoe.com.br,Financeiro,SP,pequena,57,2023-08-15
+ACC-00640,Cassiano,aparecidamel.com.br,Indústria,GO,pequena,97,2023-01-21
+ACC-00641,Câmara,andradenovae.net.br,Serviços,SP,pequena,103,2024-04-14
+ACC-00642,Silveira,dacruz.org.br,Serviços,RJ,media,154,2024-04-27
+ACC-00643,Oliveira Ltda.,damata.net.br,Tecnologia,MG,media,176,2023-10-31
+ACC-00644,Cavalcanti S.A.,montenegroef.com.br,Financeiro,RS,pequena,140,2023-07-09
+ACC-00645,da Paz,guerras/a.org.br,Varejo,RJ,pequena,66,2023-02-08
+ACC-00646,Novaes - ME,duarte.com.br,Saúde,RJ,pequena,105,2024-05-22
+ACC-00647,Nunes,freitass.a..org.br,Varejo,SP,pequena,57,2024-03-16
+ACC-00648,Martins Freitas - EI,sousa.com.br,Varejo,RJ,pequena,125,2024-02-11
+ACC-00649,Siqueira Nogueira S.A.,vargas.com.br,Serviços,SP,pequena,106,2023-11-06
+ACC-00650,Nogueira Ferreira e Filhos,abreujesuss/.com.br,Indústria,SP,pequena,148,2024-02-12
+ACC-00651,Sousa,fariass/a.net.br,Agronegócio,MG,media,328,2023-04-07
+ACC-00652,Moura da Costa - ME,caldeira.com.br,Financeiro,SP,media,157,2023-11-01
+ACC-00653,Silva da Mota S/A,araújo.com.br,Serviços,SC,media,278,2024-03-03
+ACC-00654,Sampaio,daconceição-.com.br,Tecnologia,SP,grande,458,2024-06-17
+ACC-00655,Pacheco S/A,marques.com.br,Varejo,SC,,96,2023-10-17
+ACC-00656,Lopes e Filhos,portogonçalv.org.br,Educação,CE,pequena,96,2024-02-02
+ACC-00657,Gonçalves,dacostadaroc.com.br,Indústria,PR,media,214,2023-08-19
+ACC-00658,da Mata,dias.com.br,,BA,media,350,2023-02-20
+ACC-00659,Cassiano S/A,barbosacosta.net.br,Saúde,SP,pequena,109,2024-01-18
+ACC-00660,Campos,machadomarti.com.br,Agronegócio,GO,pequena,63,2024-06-28
+ACC-00661,Machado das Neves - ME,vargas.com.br,Varejo,MG,pequena,69,2023-02-10
+ACC-00662,Castro e Filhos,campos.com.br,Indústria,RS,media,239,2024-03-23
+ACC-00663,Cunha Ltda.,santos.com.br,Tecnologia,MG,pequena,70,2023-03-10
+ACC-00664,Gonçalves,borgessilvas.org.br,,SP,media,276,2024-03-03
+ACC-00665,Cavalcanti,rochaltda..com.br,Agronegócio,SP,media,155,2024-04-11
+ACC-00666,Brito Martins S/A,guerra-me.com.br,Varejo,MG,pequena,112,2023-06-25
+ACC-00667,Cardoso Costa - ME,camposalbuqu.net.br,Agronegócio,SP,pequena,115,2024-05-28
+ACC-00668,Pacheco - EI,rodrigues.org.br,Varejo,RJ,pequena,57,2023-11-15
+ACC-00669,Azevedo S.A.,barbosa.net.br,Indústria,PE,pequena,104,2024-02-03
+ACC-00670,Farias S/A,cardoso.net.br,Saúde,SP,pequena,102,2024-01-15
+ACC-00671,Oliveira Lopes e Filhos,martinss/a.net.br,Financeiro,RJ,grande,428,2023-06-21
+ACC-00672,Garcia e Filhos,monteiro.com.br,Indústria,RS,grande,432,2023-11-23
+ACC-00673,Cunha,cavalcanti.org.br,Varejo,SP,pequena,53,2023-06-05
+ACC-00674,Andrade Pimenta - EI,damotadamota.org.br,,SP,media,269,2024-02-01
+ACC-00675,Novaes,ramosdarocha.com.br,Tecnologia,SC,pequena,71,2023-09-15
+ACC-00676,da Mota - ME,araújo.net.br,Financeiro,SP,media,181,2023-03-08
+ACC-00677,Pires Nogueira S/A,leãocostaefi.net.br,Tecnologia,PR,pequena,111,2023-04-09
+ACC-00678,Mendes,viana.com.br,Financeiro,SP,pequena,130,2024-02-27
+ACC-00679,Gomes,ferreira.com.br,Tecnologia,SP,grande,464,2023-03-31
+ACC-00680,Dias - EI,cirino.com.br,,RJ,media,181,2024-05-27
+ACC-00681,Melo - EI,alvesvasconc.com.br,Tecnologia,SP,pequena,101,2023-12-02
+ACC-00682,Castro Brito S.A.,vargas.com.br,Varejo,SP,pequena,68,2024-06-09
+ACC-00683,Teixeira S.A.,damatanascim.com.br,Tecnologia,SC,media,152,2023-11-06
+ACC-00684,Cavalcanti da Costa - EI,fogaça.org.br,Varejo,BA,pequena,80,2024-01-04
+ACC-00685,Pastor,sousa.net.br,Tecnologia,SP,media,207,2023-10-30
+ACC-00686,Nunes,santosefilho.com.br,Indústria,SP,media,281,2024-01-07
+ACC-00687,Cavalcanti,nunescorreia.org.br,Saúde,SP,pequena,116,2023-08-15
+ACC-00688,Araújo S.A.,andrade.com.br,Varejo,outros,media,181,2024-05-03
+ACC-00689,Farias - EI,almeidamoura.net.br,Indústria,MG,pequena,144,2023-09-28
+ACC-00690,Duarte Araújo S/A,cardosoferna.net.br,Educação,MG,media,316,2024-04-19
+ACC-00691,Moura Ltda.,pastorsantos.org.br,Tecnologia,SP,media,186,2023-03-03
+ACC-00692,Pastor,freitasefilh.com.br,Educação,SP,pequena,135,2023-01-09
+ACC-00693,Carvalho,fernandesltd.com.br,Saúde,RJ,media,240,2023-01-11
+ACC-00694,Rezende,siqueiralope.net.br,Tecnologia,SP,pequena,63,2023-07-30
+ACC-00695,Câmara,cavalcanti.org.br,Serviços,SP,grande,497,2023-03-08
+ACC-00696,Cardoso,garciadasnev.com.br,Financeiro,SP,pequena,80,2023-10-24
+ACC-00697,Vargas,siqueiraabre.net.br,Financeiro,RS,media,160,2024-01-31
+ACC-00698,Pimenta,cirino-ei.com.br,Tecnologia,RJ,media,305,2023-10-01
+ACC-00699,Casa Grande,portonuness/.net.br,,SP,pequena,60,2023-07-19
+ACC-00700,da Costa Ltda.,souza.com.br,Tecnologia,DF,pequena,99,2023-04-23
+ACC-00701,Santos e Filhos,cavalcante.org.br,Varejo,RS,media,198,2023-01-01
+ACC-00702,da Luz S.A.,machado.org.br,Financeiro,RS,pequena,127,2023-12-20
+ACC-00703,Viana,salesazevedo.org.br,,PR,pequena,106,2023-12-27
+ACC-00704,Gomes - ME,silveiras/a.com.br,Tecnologia,SP,grande,437,2024-01-20
+ACC-00705,Monteiro,cavalcante.org.br,Saúde,SP,pequena,134,2023-09-25
+ACC-00706,Brito,ferreira.com.br,Educação,PR,media,320,2023-02-08
+ACC-00707,Castro Machado S/A,viana.com.br,Agronegócio,RS,pequena,138,2023-09-29
+ACC-00708,da Luz,darochas/a.com.br,Serviços,SP,pequena,148,2023-01-07
+ACC-00709,Garcia Castro e Filhos,barbosaltda..net.br,Educação,SP,media,224,2024-01-18
+ACC-00710,Peixoto,novaess/a.net.br,Educação,SP,grande,366,2023-02-10
+ACC-00711,Lopes e Filhos,santos.net.br,Tecnologia,RJ,pequena,98,2023-10-27
+ACC-00712,Brito Ltda.,pereiralopes.net.br,Indústria,SP,grande,491,2023-12-13
+ACC-00713,Ribeiro,correiajesus.net.br,Varejo,RJ,pequena,86,2023-05-30
+ACC-00714,Brito Aragão - ME,darosa.com.br,Varejo,RS,pequena,115,2023-04-04
+ACC-00715,Fonseca S/A,cassiano.com.br,Varejo,SP,media,237,2023-01-22
+ACC-00716,Ribeiro,borges.org.br,Tecnologia,SC,media,194,2023-10-28
+ACC-00717,Alves S.A.,costa.com.br,Serviços,SP,grande,412,2024-04-26
+ACC-00718,Camargo,portodarocha.com.br,Agronegócio,SP,media,288,2023-08-28
+ACC-00719,Melo,viana.org.br,Tecnologia,SP,,454,2023-05-30
+ACC-00720,Borges,ribeiro.com.br,Indústria,SP,pequena,78,2023-08-12
+ACC-00721,Garcia,cirino.com.br,Educação,RS,pequena,84,2024-02-19
+ACC-00722,Aparecida,cirino.com.br,Serviços,RS,grande,393,2023-01-03
+ACC-00723,da Luz,macedo.org.br,Saúde,RJ,pequena,88,2024-01-01
+ACC-00724,Sá Sampaio e Filhos,damatanuness.com.br,Educação,SP,pequena,128,2024-04-24
+ACC-00725,Nogueira,barrosefilho.com.br,Varejo,SP,pequena,94,2023-04-02
+ACC-00726,Novaes Araújo - ME,sá.com.br,Agronegócio,SP,media,273,2024-04-09
+ACC-00727,Oliveira,nascimento.net.br,Varejo,SP,pequena,68,2023-10-24
+ACC-00728,Silva,melodarosas/.com.br,Saúde,MG,pequena,83,2024-02-27
+ACC-00729,Campos Sá - ME,montenegro-e.com.br,Tecnologia,RS,pequena,139,2024-05-11
+ACC-00730,Aparecida Lima S/A,cavalcantecu.net.br,Indústria,SP,pequena,63,2023-09-06
+ACC-00731,Peixoto da Luz Ltda.,costa.com.br,Varejo,BA,pequena,108,2023-12-03
+ACC-00732,Novaes,borges-me.com.br,Tecnologia,PE,media,256,2023-04-26
+ACC-00733,Albuquerque,damota.com.br,Varejo,RJ,grande,399,2023-10-01
+ACC-00734,Cassiano,camargo.com.br,Tecnologia,MG,media,238,2024-02-07
+ACC-00735,Caldeira - EI,nunespastor-.com.br,Tecnologia,SP,pequena,51,2023-09-01
+ACC-00736,Jesus,vianaltda..org.br,Tecnologia,SP,media,167,2023-12-23
+ACC-00737,Oliveira,gomes.com.br,Educação,RS,grande,375,2023-06-24
+ACC-00738,da Mota Guerra S.A.,andrade.com.br,Varejo,CE,pequena,99,2023-10-02
+ACC-00739,Farias,andrade.com.br,Serviços,RJ,media,262,2024-02-18
+ACC-00740,Freitas,aragãosouza-.com.br,Saúde,RJ,media,243,2024-02-03
+ACC-00741,da Mota,fernandesltd.com.br,Serviços,PE,,323,2023-10-05
+ACC-00742,da Conceição S.A.,sampaio.net.br,Serviços,MG,media,198,2023-07-15
+ACC-00743,Vasconcelos,souza.net.br,Financeiro,SP,pequena,79,2023-08-08
+ACC-00744,Pereira,damata.net.br,Indústria,RS,pequena,141,2023-11-28
+ACC-00745,Jesus Sousa - ME,correia-me.net.br,Varejo,SP,pequena,132,2023-03-09
+ACC-00746,Azevedo das Neves e Filhos,araújo.com.br,Serviços,SP,pequena,77,2023-11-19
+ACC-00747,Cavalcanti S.A.,carvalho.com.br,Financeiro,PR,pequena,87,2024-02-04
+ACC-00748,Aragão,araújodacruz.com.br,Serviços,SP,media,340,2023-10-29
+ACC-00749,da Mota Freitas - ME,santos.com.br,Tecnologia,SP,media,322,2023-12-28
+ACC-00750,Rodrigues S/A,porto.net.br,Indústria,SP,pequena,94,2023-10-12
+ACC-00751,Cavalcanti,freitasmendo.org.br,Serviços,SP,pequena,108,2024-01-07
+ACC-00752,Ferreira,pastor.org.br,Indústria,SC,pequena,110,2023-03-11
+ACC-00753,da Paz S/A,daluzsouzaef.net.br,Tecnologia,SP,grande,399,2023-05-03
+ACC-00754,Oliveira Vasconcelos S.A.,aragão.org.br,Serviços,RJ,pequena,119,2023-12-07
+ACC-00755,da Mata Rezende - ME,ramoscâmarae.com.br,Tecnologia,RS,pequena,139,2024-04-24
+ACC-00756,Melo S.A.,vasconcelose.com.br,Indústria,SP,pequena,62,2023-04-30
+ACC-00757,Pereira,peixotoalbuq.org.br,Tecnologia,MG,media,225,2024-02-13
+ACC-00758,Lima,silva.com.br,Varejo,BA,pequena,89,2023-12-27
+ACC-00759,da Cunha,ferreira.com.br,Serviços,PR,media,223,2023-06-06
+ACC-00760,Pacheco,martinsdaros.net.br,Indústria,SP,pequena,75,2024-04-24
+ACC-00761,Novais,abreu-ei.com.br,Saúde,DF,pequena,74,2023-11-21
+ACC-00762,Mendes S/A,darosa.com.br,Financeiro,RS,media,270,2023-11-13
+ACC-00763,da Mota,damota.net.br,Educação,SC,pequena,144,2023-05-10
+ACC-00764,Correia,rezende.com.br,Varejo,RJ,,122,2023-11-08
+ACC-00765,Peixoto - ME,moreirateixe.com.br,Tecnologia,MG,pequena,108,2023-01-18
+ACC-00766,Silveira Alves e Filhos,rodrigues.com.br,Agronegócio,RJ,media,214,2023-02-02
+ACC-00767,Leão,darocha.com.br,Agronegócio,SP,grande,466,2023-05-03
+ACC-00768,Pacheco e Filhos,gomes.com.br,,GO,pequena,83,2023-05-18
+ACC-00769,Rodrigues Nascimento e Filhos,fernandessil.org.br,Financeiro,SP,pequena,116,2023-11-22
+ACC-00770,Montenegro,rios.net.br,Indústria,MG,pequena,85,2023-05-23
+ACC-00771,da Rocha Brito - ME,cavalcante.net.br,Serviços,RS,media,288,2023-12-22
+ACC-00772,Rodrigues Farias e Filhos,sousadaluzef.com.br,Varejo,SP,media,257,2023-02-05
+ACC-00773,Souza das Neves - ME,câmaraltda..com.br,Indústria,SC,pequena,110,2024-05-17
+ACC-00774,Pacheco,freitas.com.br,,SP,,114,2024-02-03
+ACC-00775,Melo S/A,martins.net.br,Saúde,MG,pequena,128,2023-10-14
+ACC-00776,Rodrigues - ME,melos.a..com.br,Agronegócio,SP,media,189,2023-04-30
+ACC-00777,Cassiano S.A.,jesus.org.br,Tecnologia,SC,grande,440,2023-05-06
+ACC-00778,Casa Grande,fernandesjes.org.br,Serviços,SP,media,196,2023-10-22
+ACC-00779,Vasconcelos Barros - ME,silva.com.br,Serviços,SP,media,252,2023-01-31
+ACC-00780,Dias Porto S/A,pires.com.br,Agronegócio,MG,media,179,2023-01-23
+ACC-00781,Teixeira Vasconcelos S.A.,machadoltda..com.br,Tecnologia,RJ,pequena,73,2023-09-05
+ACC-00782,Pimenta Lopes e Filhos,mendonçavian.com.br,Varejo,RS,pequena,99,2024-04-04
+ACC-00783,Mendes,guerra.org.br,Varejo,PR,grande,363,2023-08-14
+ACC-00784,Nascimento S.A.,abreu.com.br,Serviços,SP,media,209,2023-09-04
+ACC-00785,Sá,albuquerque.net.br,Indústria,BA,media,272,2024-03-28
+ACC-00786,Câmara Sales Ltda.,almeidarocha.com.br,Indústria,RJ,media,155,2024-04-13
+ACC-00787,Gomes - EI,cardoso.com.br,Saúde,PR,pequena,92,2023-12-01
+ACC-00788,Aparecida Ltda.,cavalcante.com.br,Indústria,SP,media,336,2023-08-11
+ACC-00789,Lopes,marques.net.br,Serviços,SP,media,310,2023-10-29
+ACC-00790,Cavalcante Guerra S/A,fernandesmen.com.br,Educação,SP,pequena,142,2023-12-27
+ACC-00791,Siqueira Almeida - EI,câmarasiquei.com.br,Serviços,SP,pequena,73,2023-01-22
+ACC-00792,Garcia e Filhos,camposfonsec.org.br,Tecnologia,SP,grande,435,2023-06-25
+ACC-00793,Peixoto S/A,vargas.com.br,Agronegócio,SP,pequena,55,2023-12-26
+ACC-00794,Sales S/A,rezendes/a.com.br,Varejo,MG,pequena,56,2023-06-18
+ACC-00795,Campos,macedo.com.br,Agronegócio,MG,pequena,137,2023-08-15
+ACC-00796,Costela Sales e Filhos,melo.net.br,Varejo,RS,pequena,125,2024-04-02
+ACC-00797,Ribeiro - EI,darosa-me.com.br,Varejo,SP,pequena,74,2023-04-15
+ACC-00798,Leão Caldeira - EI,pinto.com.br,Tecnologia,RS,,116,2023-07-06
+ACC-00799,Monteiro S.A.,dapazs/a.com.br,Serviços,MG,grande,398,2023-11-09
+ACC-00800,Fogaça Santos - ME,vasconcelosd.com.br,Agronegócio,RJ,grande,452,2023-05-27
+ACC-00801,Novaes - ME,castro.org.br,Tecnologia,RJ,,134,2023-04-03
+ACC-00802,Abreu Albuquerque e Filhos,salesmendesl.com.br,Agronegócio,SP,pequena,55,2024-05-06
+ACC-00803,Cassiano,camargo-ei.com.br,,SP,pequena,108,2023-09-03
+ACC-00804,Silveira e Filhos,vasconcelos-.com.br,Varejo,SP,media,175,2023-08-26
+ACC-00805,Marques da Rocha Ltda.,dacunhaefilh.com.br,Varejo,SP,pequena,86,2023-04-16
+ACC-00806,Cavalcanti S/A,aragão.com.br,Serviços,MG,media,232,2024-02-02
+ACC-00807,Lima,fonseca.org.br,Indústria,SP,pequena,148,2023-06-10
+ACC-00808,Carvalho e Filhos,britos/a.org.br,Serviços,SP,pequena,115,2024-01-17
+ACC-00809,Siqueira,fariasfogaça.org.br,Tecnologia,BA,media,239,2024-02-15
+ACC-00810,Camargo Guerra - ME,freitasltda..com.br,Varejo,MG,media,236,2023-08-08
+ACC-00811,Sales,damata.net.br,Varejo,GO,pequena,140,2024-04-19
+ACC-00812,Camargo Cardoso e Filhos,leão.net.br,Saúde,SP,grande,482,2024-06-21
+ACC-00813,Pastor,castros/a.org.br,Varejo,SP,media,303,2024-06-06
+ACC-00814,Cirino,nunes.com.br,Varejo,MG,media,190,2024-04-12
+ACC-00815,Pimenta,vasconcelos.net.br,Serviços,PR,grande,410,2023-12-31
+ACC-00816,Mendes Mendonça S/A,rodriguesefi.net.br,Tecnologia,MG,pequena,74,2023-02-10
+ACC-00817,Azevedo Ltda.,macedo.com.br,Varejo,SP,media,158,2024-06-29
+ACC-00818,Rios Fernandes - EI,albuquerque.com.br,Tecnologia,MG,pequena,92,2024-01-14
+ACC-00819,Mendes Ferreira e Filhos,lopesefilhos.com.br,Agronegócio,SP,pequena,127,2023-06-29
+ACC-00820,Albuquerque e Filhos,cassiano.org.br,Varejo,MG,pequena,54,2023-05-19
+ACC-00821,Barbosa Sá - ME,montenegrome.com.br,Financeiro,SP,media,207,2023-05-15
+ACC-00822,da Mota,dacosta.com.br,,SP,media,290,2024-04-22
+ACC-00823,Guerra,montenegros..net.br,Indústria,RS,pequena,88,2023-02-07
+ACC-00824,Borges,barrosmarque.net.br,Agronegócio,MG,media,191,2023-12-09
+ACC-00825,Campos,machado.org.br,Indústria,PR,pequena,115,2023-07-18
+ACC-00826,Caldeira - ME,souza.com.br,Agronegócio,CE,grande,372,2023-05-10
+ACC-00827,Borges - EI,andrade.com.br,Tecnologia,SP,pequena,99,2024-06-28
+ACC-00828,Rezende Rios - ME,moraes.org.br,Tecnologia,SP,media,287,2023-11-17
+ACC-00829,Câmara - ME,fonseca.com.br,Financeiro,PR,pequena,77,2023-05-10
+ACC-00830,Silva,novais.org.br,Agronegócio,SP,media,242,2024-03-26
+ACC-00831,Camargo,silva.com.br,,RS,pequena,80,2023-06-27
+ACC-00832,Abreu Fernandes Ltda.,teixeiraefil.net.br,Tecnologia,MG,pequena,70,2023-08-03
+ACC-00833,Sampaio,novaes.net.br,Tecnologia,PR,media,330,2023-05-27
+ACC-00834,Carvalho,aparecidas.a.com.br,Serviços,CE,pequena,123,2023-09-06
+ACC-00835,Pimenta,caldeira.com.br,Serviços,PE,media,156,2023-01-04
+ACC-00836,Marques Viana S.A.,correiacampo.com.br,Agronegócio,SP,media,314,2023-01-07
+ACC-00837,Aparecida,caldeira.com.br,Financeiro,SP,pequena,101,2024-03-29
+ACC-00838,Ribeiro,vargas-me.org.br,Saúde,RS,media,176,2023-06-04
+ACC-00839,Novaes - ME,monteiroabre.org.br,Tecnologia,SP,media,283,2023-09-01
+ACC-00840,Sales Pacheco S.A.,moraes.net.br,Agronegócio,SP,media,185,2023-01-11
+ACC-00841,Montenegro,caldeiragome.com.br,Indústria,RS,pequena,54,2023-02-27
+ACC-00842,da Mota Gonçalves Ltda.,leão.net.br,Varejo,SP,media,310,2023-07-22
+ACC-00843,Carvalho Jesus - EI,machado.net.br,Varejo,SP,media,162,2023-03-12
+ACC-00844,Silva,sampaio.com.br,Varejo,SP,pequena,150,2024-05-24
+ACC-00845,Rodrigues,costacostela.org.br,Agronegócio,RS,pequena,113,2023-08-14
+ACC-00846,Santos Rezende S.A.,rocha.org.br,Tecnologia,SP,,386,2024-05-14
+ACC-00847,Teixeira Ltda.,santos.com.br,Tecnologia,SP,pequena,114,2023-10-04
+ACC-00848,Rocha,pacheco.com.br,Varejo,PR,pequena,86,2023-03-28
+ACC-00849,Moreira S/A,lima.com.br,Serviços,DF,pequena,86,2023-03-02
+ACC-00850,Rios S/A,garcias.a..com.br,Indústria,SP,pequena,64,2023-04-28
+ACC-00851,Rodrigues,damatasás.a..com.br,Agronegócio,CE,pequena,63,2023-04-19
+ACC-00852,Sales Ltda.,casagrande.net.br,Serviços,SC,pequena,134,2023-07-25
+ACC-00853,Machado,sánogueiras/.com.br,Tecnologia,RJ,pequena,59,2024-06-09
+ACC-00854,Souza Ramos - EI,pimentaefilh.net.br,Tecnologia,MG,grande,433,2024-02-23
+ACC-00855,Sales,dacosta.com.br,Varejo,MG,pequena,112,2023-04-07
+ACC-00856,Viana,garcia-me.com.br,Indústria,PE,pequena,83,2023-05-22
+ACC-00857,Albuquerque e Filhos,novaes.com.br,Agronegócio,SP,pequena,112,2023-12-28
+ACC-00858,Câmara,costa.com.br,Varejo,BA,media,180,2024-04-08
+ACC-00859,Vasconcelos Silveira S.A.,sá.org.br,Indústria,RS,grande,459,2024-02-15
+ACC-00860,Rodrigues Barbosa S.A.,machado.com.br,Financeiro,MG,grande,458,2023-02-07
+ACC-00861,Aparecida,sousamoraess.net.br,Serviços,SP,media,206,2023-11-16
+ACC-00862,Cardoso,damota.com.br,Serviços,RJ,media,334,2024-06-20
+ACC-00863,Martins,pachecodacun.com.br,Agronegócio,SP,media,236,2023-10-31
+ACC-00864,Vasconcelos e Filhos,aparecidacas.net.br,Varejo,SP,media,292,2024-05-20
+ACC-00865,Barbosa,mendonça.com.br,Serviços,SP,media,345,2023-11-27
+ACC-00866,Cirino Moreira S/A,moura.net.br,Indústria,MG,pequena,114,2023-07-06
+ACC-00867,Borges,leãonogueira.com.br,Tecnologia,RJ,pequena,123,2023-04-09
+ACC-00868,Ribeiro Farias Ltda.,câmara.com.br,Tecnologia,SP,media,284,2023-04-09
+ACC-00869,Sá Pinto - EI,darocha.org.br,Financeiro,SP,pequena,77,2023-12-07
+ACC-00870,Camargo e Filhos,novais.com.br,Varejo,RJ,grande,416,2024-02-05
+ACC-00871,Ramos Pimenta - EI,machado.com.br,Varejo,SP,grande,470,2024-03-12
+ACC-00872,Vieira,aparecidarod.net.br,Serviços,SP,pequena,51,2024-06-26
+ACC-00873,Alves,gomesltda..com.br,Indústria,BA,media,344,2023-12-02
+ACC-00874,Mendonça,moraes.net.br,Agronegócio,MG,pequena,102,2023-06-06
+ACC-00875,Duarte Moraes S/A,darochaefilh.net.br,,RJ,pequena,125,2023-11-15
+ACC-00876,Pires S/A,cavalcante-e.com.br,Financeiro,RJ,grande,380,2023-02-16
+ACC-00877,Caldeira,riospiress.a.com.br,Financeiro,GO,pequena,67,2023-03-09
+ACC-00878,Ramos,nascimentosa.com.br,Varejo,PR,pequena,133,2023-12-30
+ACC-00879,Alves Marques e Filhos,souzaefilhos.org.br,Saúde,PR,pequena,112,2023-12-03
+ACC-00880,Barbosa S/A,andrade.org.br,Varejo,SC,pequena,119,2023-05-03
+ACC-00881,Oliveira S.A.,vieiradacunh.net.br,Financeiro,BA,pequena,81,2023-02-07
+ACC-00882,Machado,jesus.com.br,Tecnologia,SP,grande,448,2023-03-25
+ACC-00883,Almeida,lopes.com.br,Agronegócio,MG,pequena,99,2024-06-03
+ACC-00884,Nascimento S/A,rocha.org.br,Financeiro,PR,media,227,2023-06-17
+ACC-00885,Sampaio S/A,sáefilhos.com.br,,CE,grande,412,2024-06-12
+ACC-00886,da Rocha e Filhos,montenegro.com.br,Financeiro,MG,pequena,126,2023-05-03
+ACC-00887,da Paz - ME,pereira.net.br,Varejo,RS,pequena,74,2024-05-12
+ACC-00888,Melo S.A.,gonçalves.net.br,Tecnologia,SP,media,233,2024-03-30
+ACC-00889,Porto,carvalhosouz.com.br,Tecnologia,SP,media,215,2023-05-03
+ACC-00890,Albuquerque,darosarochae.com.br,Varejo,outros,grande,459,2023-04-11
+ACC-00891,Nascimento,camposaparec.com.br,Financeiro,PR,grande,496,2024-03-20
+ACC-00892,Cunha,dasnevess.a..net.br,Varejo,PR,pequena,119,2023-02-25
+ACC-00893,Castro Cirino S.A.,ramos.net.br,Indústria,MG,pequena,139,2023-08-15
+ACC-00894,Cirino e Filhos,correia.com.br,Financeiro,SC,media,252,2023-07-20
+ACC-00895,Ramos,sá-ei.com.br,Varejo,RJ,media,252,2024-01-27
+ACC-00896,da Cunha S/A,darochaefilh.org.br,Tecnologia,RS,pequena,70,2023-06-15
+ACC-00897,Fogaça,silveirapach.com.br,Tecnologia,SP,pequena,97,2024-01-10
+ACC-00898,da Paz - EI,riosrezendes.com.br,Tecnologia,MG,pequena,117,2023-12-06
+ACC-00899,Machado,correialtda..net.br,Serviços,SP,media,166,2023-04-19
+ACC-00900,Sales,pimenta.com.br,Serviços,PE,grande,436,2024-04-23
+ACC-00901,Lima,nunesnuneslt.org.br,,SP,grande,366,2023-01-13
+ACC-00902,Silva Sousa e Filhos,abreudiass.a.net.br,,SP,media,267,2023-09-14
+ACC-00903,Carvalho,damota.com.br,Financeiro,SC,media,266,2023-07-01
+ACC-00904,Machado,mendes.com.br,Indústria,SP,pequena,69,2023-09-16
+ACC-00905,Mendonça,vasconcelos.com.br,Indústria,SP,pequena,52,2024-01-25
+ACC-00906,da Mota S.A.,cavalcantief.com.br,Educação,SP,media,308,2023-08-01
+ACC-00907,Siqueira S/A,daluzsiqueir.net.br,Varejo,RJ,,478,2023-11-18
+ACC-00908,Pacheco - EI,montenegroef.com.br,Varejo,RJ,,306,2024-06-08
+ACC-00909,Andrade Novaes Ltda.,vargas.com.br,Varejo,BA,media,315,2023-09-11
+ACC-00910,Fonseca Gonçalves S.A.,rezende.com.br,Varejo,SP,grande,394,2023-10-30
+ACC-00911,Montenegro,carvalho.net.br,Indústria,BA,media,327,2024-02-29
+ACC-00912,Ribeiro S.A.,gonçalvesltd.com.br,Financeiro,MG,pequena,50,2023-09-18
+ACC-00913,Castro,sámoraess.a..com.br,Agronegócio,SP,pequena,61,2024-06-25
+ACC-00914,Sousa Siqueira - ME,nunesnunesef.net.br,Serviços,SP,pequena,77,2023-12-14
+ACC-00915,Teixeira Mendonça S.A.,aparecida.com.br,Indústria,SP,pequena,87,2024-03-21
+ACC-00916,Aparecida Rios S.A.,daluzltda..com.br,Tecnologia,SP,media,284,2023-05-11
+ACC-00917,Marques,gomes.org.br,Serviços,SP,media,311,2023-10-26
+ACC-00918,Caldeira,aparecidaefi.net.br,Varejo,SP,media,153,2024-06-13
+ACC-00919,Pacheco,sousa.com.br,,SP,media,272,2024-03-12
+ACC-00920,Pastor,garciarezend.com.br,Educação,PR,pequena,150,2023-07-17
+ACC-00921,Câmara,moreiraltda..com.br,Serviços,SP,media,201,2024-03-27
+ACC-00922,Mendonça,fogaça.com.br,Tecnologia,RJ,grande,357,2023-12-19
+ACC-00923,Montenegro S.A.,pereira.com.br,Agronegócio,MG,media,169,2023-07-25
+ACC-00924,Barbosa Moraes e Filhos,cavalcante.com.br,Serviços,MG,pequena,132,2023-10-30
+ACC-00925,Cirino Castro Ltda.,cunha.org.br,Indústria,SC,grande,407,2024-03-03
+ACC-00926,Farias,ribeiros.a..com.br,Indústria,SP,pequena,51,2024-06-24
+ACC-00927,Mendes,mendesefilho.com.br,Educação,SP,grande,428,2024-05-02
+ACC-00928,Almeida,pastorcastro.com.br,Varejo,PE,pequena,137,2023-04-23
+ACC-00929,Carvalho Pires - EI,aparecidacar.net.br,Varejo,BA,pequena,142,2024-06-26
+ACC-00930,Cavalcante Ltda.,oliveiras.a..net.br,Serviços,SP,media,195,2024-02-14
+ACC-00931,Silveira e Filhos,moreiraguerr.com.br,Tecnologia,SP,pequena,107,2023-02-22
+ACC-00932,Machado Pereira - ME,barros.com.br,Saúde,SP,pequena,105,2023-07-18
+ACC-00933,Jesus Peixoto S.A.,cavalcante.org.br,Saúde,RJ,grande,462,2023-12-13
+ACC-00934,Cavalcante,pintoribeiro.com.br,Agronegócio,SP,media,217,2023-01-13
+ACC-00935,da Conceição - ME,marques.net.br,Varejo,PR,pequena,52,2023-04-10
+ACC-00936,Almeida S.A.,cardoso.com.br,Varejo,SP,grande,404,2023-04-05
+ACC-00937,Cavalcanti - ME,cassiano.net.br,Varejo,SP,media,255,2023-09-26
+ACC-00938,Borges - ME,viana-ei.org.br,Varejo,MG,media,164,2023-04-07
+ACC-00939,Moreira,pereiranogue.com.br,Serviços,MG,media,227,2023-03-18
+ACC-00940,Sampaio - EI,freitas.com.br,Serviços,DF,grande,476,2023-01-02
+ACC-00941,Vieira,daconceição.com.br,Varejo,CE,pequena,98,2023-05-23
+ACC-00942,Lima S.A.,ferreira.com.br,Varejo,SP,grande,409,2023-05-06
+ACC-00943,Barros da Paz - EI,mendes.com.br,,SP,pequena,75,2023-06-23
+ACC-00944,Abreu Santos e Filhos,dacunha.com.br,Tecnologia,RS,media,174,2023-06-10
+ACC-00945,Moreira S/A,oliveira-ei.net.br,Educação,RJ,pequena,137,2023-04-11
+ACC-00946,Sales Dias - ME,rezende.net.br,Indústria,MG,media,170,2023-08-05
+ACC-00947,Lima Rezende - EI,caldeira.com.br,Financeiro,SP,media,208,2024-01-29
+ACC-00948,Nunes,daluz.org.br,Serviços,SP,pequena,59,2023-06-15
+ACC-00949,Rodrigues,pimenta.org.br,Tecnologia,MG,media,206,2024-05-01
+ACC-00950,Jesus Novaes - EI,sá.com.br,Financeiro,RJ,grande,402,2023-11-03
+ACC-00951,Novais,cavalcanti.org.br,Educação,SP,,269,2023-07-16
+ACC-00952,Oliveira,dacunha.net.br,Saúde,SP,media,256,2023-02-18
+ACC-00953,Sousa,vasconcelos.net.br,Indústria,SP,media,160,2024-04-03
+ACC-00954,Machado Viana e Filhos,ribeirocampo.com.br,Serviços,SP,media,159,2024-06-18
+ACC-00955,Viana,britocunha-e.com.br,Serviços,SP,media,249,2023-04-12
+ACC-00956,Castro - ME,novaes.net.br,Varejo,SP,media,208,2023-09-25
+ACC-00957,Peixoto,borgess.a..com.br,Tecnologia,RS,pequena,117,2023-10-19
+ACC-00958,da Luz S.A.,borges.com.br,Varejo,SP,media,239,2023-11-06
+ACC-00959,Silveira - ME,barros.org.br,Tecnologia,GO,media,244,2023-08-25
+ACC-00960,Silva,pimenta.net.br,Tecnologia,RJ,pequena,72,2024-03-26
+ACC-00961,Macedo,vasconceloss.com.br,Indústria,PR,pequena,93,2023-01-21
+ACC-00962,Correia,costaefilhos.org.br,Educação,SP,media,338,2023-04-06
+ACC-00963,Pimenta Cavalcante e Filhos,viana-ei.net.br,Tecnologia,MG,grande,438,2024-05-17
+ACC-00964,Castro S/A,fonsecas.a..net.br,Agronegócio,SP,pequena,74,2023-09-03
+ACC-00965,Fogaça,vasconcelos.net.br,Varejo,SP,media,244,2023-01-21
+ACC-00966,Moreira Albuquerque e Filhos,guerra.com.br,Varejo,RS,pequena,109,2023-12-29
+ACC-00967,Silveira,borges-ei.com.br,Varejo,SP,media,290,2023-05-27
+ACC-00968,Câmara,ferreira.org.br,Serviços,SP,grande,435,2023-07-22
+ACC-00969,da Luz S.A.,marquesguerr.net.br,Agronegócio,PR,grande,447,2023-03-13
+ACC-00970,Novais S/A,montenegro.com.br,Educação,RJ,pequena,78,2024-04-05
+ACC-00971,Moraes Ltda.,fernandes.com.br,Varejo,SP,media,240,2024-04-08
+ACC-00972,Garcia,sales.com.br,Educação,RS,pequena,135,2023-01-06
+ACC-00973,Sá Fernandes - ME,vargas.net.br,Serviços,SP,media,347,2023-05-07
+ACC-00974,Mendes S/A,pastor.com.br,Varejo,MG,media,270,2023-05-23
+ACC-00975,Porto,azevedo.com.br,Educação,RS,media,244,2023-09-14
+ACC-00976,Jesus,rochasampaio.org.br,Varejo,BA,media,218,2024-06-27
+ACC-00977,Sampaio Ltda.,moreira.org.br,Tecnologia,RS,media,344,2024-06-05
+ACC-00978,Barbosa,dapazborges-.com.br,Agronegócio,RJ,media,305,2024-03-02
+ACC-00979,Oliveira da Mata S.A.,melodiasltda.com.br,Educação,SP,media,318,2023-09-15
+ACC-00980,Sousa da Costa Ltda.,monteirosous.com.br,Saúde,RJ,pequena,63,2023-05-09
+ACC-00981,Cassiano,daconceiçãoc.com.br,Agronegócio,RS,pequena,81,2024-06-15
+ACC-00982,Pimenta,camposs/a.net.br,Agronegócio,RJ,pequena,79,2023-10-08
+ACC-00983,Mendes Ltda.,teixeira-ei.com.br,Financeiro,SP,pequena,68,2024-04-24
+ACC-00984,Mendonça,monteiro.com.br,Varejo,SP,media,191,2023-04-19
+ACC-00985,Câmara,teixeiramora.com.br,Saúde,PR,pequena,52,2023-11-01
+ACC-00986,Nogueira,aragãomoura-.org.br,Serviços,RS,pequena,50,2023-12-14
+ACC-00987,Rodrigues,montenegrolt.org.br,Varejo,RJ,pequena,89,2024-02-19
+ACC-00988,Dias,marquescampo.net.br,Serviços,BA,pequena,65,2023-12-02
+ACC-00989,Garcia Pacheco S/A,albuquerquee.com.br,Indústria,SP,media,202,2023-02-13
+ACC-00990,Cirino,fonseca.com.br,Varejo,RJ,pequena,97,2023-06-22
+ACC-00991,Melo,dacosta.net.br,Tecnologia,SC,media,324,2023-06-21
+ACC-00992,Monteiro Lima S.A.,fonseca.com.br,Saúde,SP,media,333,2023-01-11
+ACC-00993,Fonseca,sampaio.com.br,Indústria,SP,media,173,2023-06-11
+ACC-00994,Cirino,damota.com.br,Financeiro,RS,media,284,2024-03-17
+ACC-00995,Silveira Ltda.,oliveirarodr.org.br,Financeiro,MG,media,291,2023-05-26
+ACC-00996,Casa Grande Sousa S.A.,novaislopes-.net.br,Educação,RJ,grande,461,2023-02-04
+ACC-00997,Leão Monteiro S.A.,albuquerque.net.br,Varejo,RJ,pequena,141,2024-03-07
+ACC-00998,da Rosa,viana.org.br,Serviços,RS,grande,464,2023-01-03
+ACC-00999,Gonçalves S/A,novais.com.br,Indústria,SP,pequena,77,2024-06-25
+ACC-01000,Pires,araújocunhal.com.br,Saúde,RJ,pequena,66,2023-05-19
+ACC-01001,da Luz,machadoefilh.org.br,Agronegócio,BA,pequena,76,2023-11-13
+ACC-01002,Ferreira,fonseca.net.br,Varejo,MG,media,339,2024-02-20
+ACC-01003,Rocha,jesuss/a.com.br,Financeiro,RS,pequena,51,2023-09-14
+ACC-01004,Vasconcelos da Paz Ltda.,oliveiraoliv.com.br,Educação,SP,pequena,80,2024-05-08
+ACC-01005,Vasconcelos,rocha.com.br,Tecnologia,SP,pequena,51,2023-10-08
+ACC-01006,Pimenta,barros.com.br,Varejo,SP,pequena,121,2023-09-11
+ACC-01007,Cavalcante Porto Ltda.,martins.com.br,Financeiro,PE,grande,378,2023-05-15
+ACC-01008,Barbosa,pires.com.br,Varejo,RS,media,320,2024-05-31
+ACC-01009,Dias Dias e Filhos,castroltda..com.br,Saúde,SP,pequena,131,2023-03-29
+ACC-01010,Pereira,santos.com.br,Tecnologia,SP,media,326,2023-03-01
+ACC-01011,Vasconcelos,damata.com.br,Financeiro,MG,media,303,2023-10-01
+ACC-01012,Jesus,souza.net.br,Indústria,RJ,media,257,2023-05-05
+ACC-01013,Ribeiro da Cunha e Filhos,cirinoalmeid.com.br,Educação,MG,grande,403,2024-03-24
+ACC-01014,Caldeira,costelas.a..org.br,Tecnologia,CE,pequena,98,2024-04-09
+ACC-01015,Alves - ME,azevedo-me.org.br,Financeiro,outros,pequena,81,2024-03-14
+ACC-01016,Barros Rezende - ME,caldeiraltda.com.br,Varejo,SP,pequena,77,2024-04-07
+ACC-01017,Sousa da Paz - ME,daconceição.com.br,Financeiro,SP,,111,2024-04-17
+ACC-01018,Andrade e Filhos,cardosomoura.org.br,Tecnologia,SP,media,294,2023-04-10
+ACC-01019,Martins,duarte.com.br,Saúde,PR,,51,2023-05-26
+ACC-01020,Carvalho,novaes.com.br,Varejo,MG,grande,415,2023-10-12
+ACC-01021,Moura,pastorpeixot.com.br,Indústria,MG,pequena,113,2024-04-25
+ACC-01022,Nogueira,ferreira.com.br,Financeiro,SP,media,175,2023-12-22
+ACC-01023,Jesus,borgesmacedo.com.br,,SP,media,169,2023-02-24
+ACC-01024,Albuquerque,cassiano.com.br,Indústria,MG,grande,397,2023-10-02
+ACC-01025,da Paz,moreiras.a..com.br,Indústria,RJ,grande,432,2024-03-06
+ACC-01026,Sales - ME,nascimento.org.br,Saúde,RS,pequena,63,2024-03-07
+ACC-01027,Vargas - ME,darosa.com.br,Saúde,RJ,pequena,74,2023-06-25
+ACC-01028,Vieira Abreu - EI,peixoto.com.br,Serviços,SP,grande,371,2023-02-24
+ACC-01029,Novais,correia.com.br,Indústria,SP,media,259,2023-05-02
+ACC-01030,Castro Silva e Filhos,gonçalves.org.br,Serviços,SP,media,262,2023-04-16
+ACC-01031,da Luz Barros - ME,garcia.com.br,Tecnologia,RS,pequena,98,2023-03-09
+ACC-01032,da Paz,moreirateixe.com.br,Educação,RJ,pequena,112,2024-05-01
+ACC-01033,Azevedo Cirino S.A.,jesus.com.br,Indústria,SC,pequena,65,2023-03-26
+ACC-01034,Pinto,camargo.net.br,Saúde,SC,media,276,2023-10-14
+ACC-01035,Correia,damata.com.br,Tecnologia,RJ,,57,2023-03-12
+ACC-01036,Aragão Nascimento S/A,almeida.com.br,Financeiro,PR,media,206,2023-10-25
+ACC-01037,Silva Macedo e Filhos,caldeiradapa.com.br,Varejo,MG,grande,372,2023-01-09
+ACC-01038,Albuquerque Monteiro S.A.,daconceiçãos.com.br,Tecnologia,SP,pequena,110,2024-06-08
+ACC-01039,Viana,leão.com.br,Serviços,SP,media,173,2024-01-13
+ACC-01040,Sampaio,freitas.org.br,Serviços,PR,pequena,141,2023-06-09
+ACC-01041,Araújo da Mata - ME,fariass/a.com.br,Varejo,RS,media,269,2024-05-11
+ACC-01042,Correia da Cunha - ME,nogueira-me.com.br,Serviços,SP,media,317,2023-01-22
+ACC-01043,Gomes Vargas - ME,camposefilho.com.br,Educação,SP,media,256,2023-07-30
+ACC-01044,Sousa,sousaandrade.com.br,Tecnologia,MG,pequena,123,2023-06-10
+ACC-01045,Melo Gomes e Filhos,moreiraefilh.com.br,Serviços,SC,media,293,2024-02-19
+ACC-01046,Pires Siqueira S/A,duarte.net.br,Indústria,MG,media,293,2023-10-05
+ACC-01047,Costa,dacunha-me.com.br,Varejo,RJ,pequena,82,2023-12-29
+ACC-01048,Camargo da Costa e Filhos,aragão.net.br,Serviços,RJ,grande,466,2024-04-11
+ACC-01049,Cavalcante Ltda.,duarte.com.br,Tecnologia,SP,pequena,123,2023-10-01
+ACC-01050,Aparecida - EI,gonçalvess.a.com.br,,PE,media,175,2023-06-25
+ACC-01051,Freitas Vargas S/A,sales.com.br,Serviços,MG,pequena,115,2024-04-15
+ACC-01052,Teixeira,castromontei.com.br,Tecnologia,RJ,grande,443,2024-05-14
+ACC-01053,Sampaio Nascimento S/A,araújoltda..com.br,Educação,outros,grande,459,2024-01-19
+ACC-01054,Macedo,mendonçadaco.com.br,Varejo,RJ,pequena,110,2023-11-14
+ACC-01055,Silveira,almeidasales.com.br,Tecnologia,SP,media,243,2023-08-11
+ACC-01056,Novais,dacunhaapare.org.br,Varejo,SP,pequena,83,2024-03-29
+ACC-01057,Correia,nogueira.com.br,Serviços,SP,pequena,78,2023-10-10
+ACC-01058,da Mota,nogueiraferr.com.br,Indústria,SP,,118,2023-03-19
+ACC-01059,da Rocha,azevedomoura.com.br,Tecnologia,SP,media,345,2023-03-01
+ACC-01060,Marques,nogueira.com.br,Agronegócio,RJ,grande,471,2024-01-20
+ACC-01061,Siqueira,vasconcelose.org.br,Indústria,SP,pequena,148,2023-02-04
+ACC-01062,Duarte Silveira S/A,almeidapinto.com.br,Varejo,PE,media,336,2023-08-12
+ACC-01063,Vargas,correia.net.br,Tecnologia,RS,media,280,2024-03-22
+ACC-01064,Ramos,pimentadapaz.net.br,Financeiro,MG,media,225,2023-08-19
+ACC-01065,Moreira e Filhos,camargo.com.br,Tecnologia,MG,media,169,2023-06-03
+ACC-01066,Andrade Costa S/A,aparecidas.a.com.br,Serviços,SP,pequena,92,2023-07-06
+ACC-01067,Andrade - EI,correia.com.br,Educação,MG,pequena,91,2024-01-30
+ACC-01068,Moura,ribeiro.com.br,Agronegócio,SP,media,292,2024-04-22
+ACC-01069,Câmara,aragão.org.br,Serviços,PR,media,343,2023-07-28
+ACC-01070,Barros,albuquerques.com.br,Agronegócio,CE,media,294,2023-07-27
+ACC-01071,Fonseca - EI,porto.com.br,Serviços,SP,pequena,147,2023-10-28
+ACC-01072,Pimenta Ltda.,freitas.com.br,Indústria,SP,pequena,67,2024-05-23
+ACC-01073,Barbosa,siqueiras/a.com.br,Indústria,SP,media,298,2024-02-27
+ACC-01074,Nascimento Gomes S.A.,moreirabrito.net.br,Varejo,SP,media,263,2024-02-18
+ACC-01075,Novais Souza - EI,mouraribeiro.org.br,Educação,SP,pequena,89,2024-02-23
+ACC-01076,Vargas e Filhos,souza.com.br,Varejo,SP,pequena,55,2023-02-09
+ACC-01077,Sampaio,rocha.com.br,Saúde,SP,media,324,2024-02-06
+ACC-01078,Vieira Cirino - EI,caldeira.org.br,Agronegócio,RJ,media,299,2023-01-02
+ACC-01079,Ribeiro,montenegro.com.br,Varejo,SP,,107,2023-10-16
+ACC-01080,Dias,nascimentope.com.br,,SP,grande,458,2023-10-15
+ACC-01081,Teixeira,freitas.com.br,Educação,RJ,grande,472,2023-07-04
+ACC-01082,Pereira,silveira.com.br,Tecnologia,GO,media,270,2024-03-18
+ACC-01083,Vargas,nunesnogueir.com.br,Varejo,SP,pequena,100,2023-12-08
+ACC-01084,Machado,fonseca.com.br,Indústria,SP,pequena,143,2023-09-07
+ACC-01085,da Paz - EI,abreu.com.br,Tecnologia,SP,pequena,92,2023-10-06
+ACC-01086,Abreu,moreiras.a..org.br,Serviços,SP,pequena,87,2023-06-22
+ACC-01087,Dias Almeida e Filhos,câmara.com.br,Serviços,SP,pequena,137,2023-01-07
+ACC-01088,Brito Andrade - ME,novaes.net.br,Financeiro,RJ,grande,472,2023-01-09
+ACC-01089,da Luz Fonseca - EI,cassiano.com.br,Tecnologia,RJ,media,200,2024-03-10
+ACC-01090,Oliveira - ME,daconceiçãod.net.br,Educação,SC,media,174,2023-08-03
+ACC-01091,Vieira,siqueirabarb.net.br,Financeiro,SP,media,193,2023-05-29
+ACC-01092,Sales,cavalcanti.com.br,Saúde,RS,media,265,2023-01-20
+ACC-01093,Andrade,peixotoefilh.net.br,Tecnologia,SP,pequena,134,2023-07-05
+ACC-01094,Vargas Ltda.,barros.com.br,Varejo,MG,media,205,2023-03-28
+ACC-01095,Campos,lopes.com.br,Indústria,PR,media,163,2023-10-18
+ACC-01096,Porto e Filhos,souzarezende.com.br,Tecnologia,SP,media,289,2023-12-18
+ACC-01097,Moura,aragão.org.br,Tecnologia,RJ,grande,482,2023-06-23
+ACC-01098,Duarte Montenegro e Filhos,dias-ei.com.br,Indústria,RJ,pequena,95,2023-01-14
+ACC-01099,Machado,cassianoarag.com.br,Tecnologia,RJ,media,311,2023-03-27
+ACC-01100,Viana,câmara-me.net.br,Saúde,SP,media,169,2023-07-11
+ACC-01101,Fernandes Barros - ME,casagrande.com.br,Serviços,MG,media,156,2024-06-29
+ACC-01102,Barros,novaes-me.com.br,Educação,SP,pequena,136,2024-06-25
+ACC-01103,Vasconcelos,montenegro.com.br,Saúde,RS,grande,360,2023-08-16
+ACC-01104,Mendonça Gonçalves e Filhos,teixeiracarv.net.br,Serviços,RS,,155,2023-04-13
+ACC-01105,da Cruz Barbosa Ltda.,novaispiment.com.br,Varejo,SP,grande,498,2024-05-18
+ACC-01106,Camargo e Filhos,duarte.com.br,Tecnologia,RJ,pequena,119,2024-06-27
+ACC-01107,Ferreira,lima.com.br,Indústria,MG,media,246,2023-05-28
+ACC-01108,Vargas Ltda.,duarteferrei.net.br,Varejo,RS,grande,494,2024-03-03
+ACC-01109,Macedo Aparecida S.A.,ferreirapime.org.br,Varejo,RJ,grande,482,2023-11-28
+ACC-01110,Camargo e Filhos,rodriguesfre.net.br,Indústria,PR,media,185,2024-05-29
+ACC-01111,da Paz Albuquerque Ltda.,dacruz-ei.com.br,Varejo,SP,media,330,2024-01-26
+ACC-01112,Almeida,dasneves-me.com.br,,MG,pequena,70,2024-01-21
+ACC-01113,Costela Nogueira - EI,costela.net.br,Varejo,SP,grande,494,2023-06-15
+ACC-01114,Pinto,novaes.com.br,Financeiro,MG,pequena,111,2024-03-25
+ACC-01115,Garcia - EI,salessampaio.com.br,Tecnologia,RJ,media,284,2024-03-23
+ACC-01116,da Paz S.A.,dacunhas.a..com.br,Financeiro,RJ,media,190,2023-10-07
+ACC-01117,Rezende,aragão.net.br,Serviços,GO,pequena,81,2023-09-02
+ACC-01118,Ribeiro,azevedo-me.com.br,Saúde,SP,media,327,2024-02-18
+ACC-01119,da Rocha e Filhos,caldeira.org.br,Indústria,BA,,453,2023-07-15
+ACC-01120,Moraes,daconceição.net.br,Financeiro,SP,media,198,2023-07-14
+ACC-01121,Cirino S.A.,dias-me.com.br,Financeiro,SP,pequena,123,2023-03-28
+ACC-01122,Aparecida S.A.,novais.com.br,Varejo,SP,media,310,2023-04-12
+ACC-01123,Gonçalves,farias.com.br,Varejo,RS,media,276,2024-06-21
+ACC-01124,Fogaça,almeidaferre.com.br,Serviços,BA,media,279,2024-05-21
+ACC-01125,Araújo,dacosta.com.br,Varejo,SP,media,305,2023-03-11
+ACC-01126,Novais Ltda.,gomes.org.br,Indústria,SP,pequena,90,2024-03-31
+ACC-01127,Borges Siqueira - ME,cassianofern.com.br,Tecnologia,SP,pequena,123,2023-01-21
+ACC-01128,Lima das Neves - EI,leãodacosta-.com.br,Educação,SP,pequena,85,2023-12-13
+ACC-01129,Costela Rezende S.A.,machado.com.br,Tecnologia,GO,media,263,2023-08-01
+ACC-01130,Lopes Vargas S.A.,carvalhodasn.org.br,Agronegócio,SP,media,177,2023-12-11
+ACC-01131,Cirino Ltda.,diasazevedo-.net.br,Serviços,SP,,124,2023-09-18
+ACC-01132,Jesus,siqueiraalve.com.br,Educação,RJ,media,182,2024-05-01
+ACC-01133,Cassiano,macedo.com.br,Tecnologia,PR,media,265,2023-09-19
+ACC-01134,Teixeira - EI,caldeiracard.org.br,Varejo,PR,pequena,68,2023-08-28
+ACC-01135,Peixoto da Conceição S.A.,pereira.org.br,Saúde,RJ,media,165,2024-03-25
+ACC-01136,Carvalho,fogaças/a.com.br,Serviços,SP,pequena,146,2023-12-03
+ACC-01137,Cirino,silva.org.br,,SP,media,234,2023-10-27
+ACC-01138,Carvalho,mendonça.org.br,Varejo,RS,pequena,76,2024-04-29
+ACC-01139,Teixeira,correiacâmar.net.br,Tecnologia,RJ,grande,380,2024-02-25
+ACC-01140,Souza Rios S.A.,damata-me.com.br,Serviços,CE,pequena,102,2024-02-13
+ACC-01141,Sales,azevedocaval.com.br,Financeiro,MG,media,296,2023-02-21
+ACC-01142,Lima Guerra S/A,marques.com.br,Agronegócio,SP,media,192,2023-03-25
+ACC-01143,Gonçalves,silveira.org.br,Serviços,outros,media,248,2023-04-12
+ACC-01144,Marques,moreiras/a.com.br,,RS,media,336,2023-12-15
+ACC-01145,Sousa,dacruz-ei.org.br,Varejo,GO,pequena,59,2023-05-03
+ACC-01146,Correia Ltda.,novais-me.net.br,Varejo,MG,pequena,122,2024-02-18
+ACC-01147,Vasconcelos,gonçalves.com.br,Serviços,RJ,pequena,114,2023-06-21
+ACC-01148,Lima da Rocha - EI,martins.net.br,Financeiro,SP,media,258,2023-07-13
+ACC-01149,Martins Ramos - ME,sales-ei.org.br,Varejo,SP,grande,437,2024-06-04
+ACC-01150,Cirino - EI,silveira-ei.com.br,Indústria,PR,pequena,128,2023-07-18
+ACC-01151,Alves,gonçalvesjes.com.br,Serviços,RJ,media,238,2023-05-30
+ACC-01152,Marques Borges Ltda.,marquespasto.net.br,Serviços,SP,,334,2023-02-01
+ACC-01153,Silva Siqueira S/A,sales.com.br,Varejo,outros,pequena,68,2024-06-01
+ACC-01154,Porto,camargoefilh.net.br,,RJ,pequena,140,2023-10-24
+ACC-01155,Siqueira,barros.net.br,Financeiro,RJ,pequena,87,2023-08-31
+ACC-01156,Vargas S.A.,garcianovaes.com.br,Indústria,MG,media,320,2024-01-18
+ACC-01157,Castro Casa Grande S.A.,nunes.org.br,Financeiro,RS,,160,2024-04-20
+ACC-01158,Siqueira,leãoltda..com.br,Tecnologia,SP,media,162,2023-06-09
+ACC-01159,Campos Cardoso S.A.,dapaz.net.br,Financeiro,SP,pequena,140,2023-04-05
+ACC-01160,Marques - ME,pintoltda..org.br,Tecnologia,RJ,grande,357,2023-07-03
+ACC-01161,Pereira - ME,nogueira.com.br,Educação,DF,pequena,71,2023-12-21
+ACC-01162,Marques,cunhapastore.org.br,Varejo,SP,pequena,103,2023-06-22
+ACC-01163,Peixoto - EI,macedo.com.br,Tecnologia,SP,media,326,2024-05-17
+ACC-01164,Pinto,dacruz-ei.com.br,Agronegócio,SP,pequena,140,2023-01-30
+ACC-01165,Rezende Ltda.,aragãocirino.net.br,Varejo,DF,media,177,2024-05-09
+ACC-01166,Farias,casagrandes/.org.br,,DF,,57,2023-10-20
+ACC-01167,Cavalcanti,aragãos/a.org.br,Tecnologia,SP,pequena,119,2024-04-07
+ACC-01168,Marques Souza - EI,rochadapaz-e.com.br,Varejo,MG,grande,407,2023-06-26
+ACC-01169,Vargas Ltda.,andrade.com.br,Saúde,BA,media,194,2023-12-03
+ACC-01170,Azevedo,freitas.com.br,Indústria,DF,grande,411,2023-01-20
+ACC-01171,da Rocha - ME,novaes.com.br,Educação,SP,media,178,2023-02-05
+ACC-01172,Moura,campossalesl.org.br,Indústria,RJ,pequena,124,2024-04-22
+ACC-01173,Sampaio Costela - EI,moura.org.br,Financeiro,RS,media,260,2023-06-24
+ACC-01174,Mendes e Filhos,caldeira-ei.com.br,Varejo,GO,grande,413,2024-06-05
+ACC-01175,da Luz,lima.net.br,,SP,grande,444,2023-11-12
+ACC-01176,Moreira,cardoso.org.br,Indústria,SP,pequena,145,2024-01-30
+ACC-01177,Pimenta da Conceição e Filhos,monteiro.net.br,Financeiro,SP,pequena,97,2023-02-04
+ACC-01178,Campos S/A,correia.com.br,Tecnologia,SP,media,314,2023-09-18
+ACC-01179,Sousa S.A.,pires.net.br,Financeiro,RJ,pequena,94,2023-10-28
+ACC-01180,Farias Ltda.,jesus.com.br,Varejo,PR,media,338,2023-09-15
+ACC-01181,da Cunha,albuquerquep.com.br,Educação,RJ,pequena,130,2024-05-25
+ACC-01182,Vargas,dasnevesltda.org.br,Educação,DF,grande,390,2023-07-28
+ACC-01183,Fernandes,camargoefilh.com.br,Saúde,RJ,pequena,120,2024-03-31
+ACC-01184,Cavalcanti S.A.,silveira.com.br,Varejo,RJ,pequena,87,2024-06-05
+ACC-01185,Melo,fernandes.org.br,Tecnologia,MG,media,193,2023-03-02
+ACC-01186,Cassiano,ramoss.a..com.br,Indústria,RJ,pequena,105,2023-04-17
+ACC-01187,Martins,nascimento.net.br,Indústria,RJ,pequena,87,2024-03-01
+ACC-01188,Moreira Ltda.,souza.com.br,Serviços,PR,media,160,2023-09-07
+ACC-01189,Costela - EI,novais.org.br,Varejo,SP,pequena,130,2024-04-12
+ACC-01190,Azevedo,vieira.com.br,Varejo,RJ,media,271,2023-03-23
+ACC-01191,Pires,damotaalvesl.net.br,Tecnologia,SP,media,151,2023-08-29
+ACC-01192,Peixoto Camargo Ltda.,oliveirapere.com.br,Saúde,PR,grande,419,2024-01-16
+ACC-01193,da Mata - ME,santos.org.br,Tecnologia,SP,media,239,2024-04-12
+ACC-01194,Machado,monteiros.a..com.br,Agronegócio,SP,pequena,92,2023-06-08
+ACC-01195,Cavalcanti,cunha.com.br,,MG,pequena,118,2023-06-03
+ACC-01196,Borges Macedo - EI,freitass/a.com.br,Educação,SP,media,226,2023-05-15
+ACC-01197,Correia Fernandes - ME,mendes-ei.com.br,Indústria,BA,pequena,95,2023-04-20
+ACC-01198,Casa Grande,vasconcelos.com.br,Tecnologia,SP,media,303,2023-05-20
+ACC-01199,Costela Silveira S/A,moreiraefilh.org.br,Saúde,RS,media,347,2023-05-11
+ACC-01200,Abreu Ltda.,gomes.org.br,Indústria,SP,media,233,2024-04-30
+ACC-01201,Farias - ME,rodrigues-ei.com.br,Varejo,RJ,media,327,2023-07-13
+ACC-01202,Almeida,caldeira-ei.com.br,Tecnologia,SP,grande,468,2024-03-07
+ACC-01203,Duarte Costa S.A.,porto.net.br,Tecnologia,MG,media,260,2023-06-23
+ACC-01204,Vargas,damota.com.br,Indústria,SP,media,242,2023-08-25
+ACC-01205,da Mata S.A.,rios.com.br,Saúde,SP,pequena,90,2024-03-15
+ACC-01206,Costela - EI,damotacamarg.com.br,Financeiro,SP,media,169,2023-05-20
+ACC-01207,da Mata,novaes.com.br,Tecnologia,SP,grande,411,2023-05-27
+ACC-01208,Cavalcante Barbosa Ltda.,santosdapaz-.net.br,Serviços,SP,pequena,77,2023-01-25
+ACC-01209,Aragão,nogueira.net.br,Indústria,PR,media,159,2023-05-23
+ACC-01210,Caldeira - ME,alvesmeloefi.com.br,Financeiro,SP,media,319,2024-01-18
+ACC-01211,Cavalcanti,borges-me.org.br,Serviços,MG,,141,2023-04-11
+ACC-01212,das Neves,pimenta.com.br,Tecnologia,RJ,pequena,54,2024-06-05
+ACC-01213,Sá - ME,costa.com.br,Educação,SP,grande,369,2023-05-30
+ACC-01214,Marques Ltda.,borgessampai.net.br,Tecnologia,SP,pequena,56,2023-05-26
+ACC-01215,Câmara Casa Grande - EI,melo.com.br,Agronegócio,SP,pequena,120,2023-03-23
+ACC-01216,Cirino,fonseca.net.br,Educação,SP,pequena,57,2024-01-19
+ACC-01217,Marques,viana.org.br,Educação,SC,pequena,88,2023-12-04
+ACC-01218,Melo S/A,alves.org.br,Varejo,BA,pequena,149,2024-05-17
+ACC-01219,Cavalcante,mendes.org.br,Varejo,MG,grande,397,2023-08-22
+ACC-01220,Pereira,vargas.com.br,,SP,pequena,108,2024-01-31
+ACC-01221,Duarte - EI,moraescaldei.com.br,Tecnologia,SP,media,307,2023-02-08
+ACC-01222,Guerra,vieiraltda..com.br,Tecnologia,MG,pequena,71,2024-06-15
+ACC-01223,Novaes Castro - ME,dacosta.com.br,Serviços,PE,media,177,2023-05-17
+ACC-01224,Costela,azevedo.com.br,Indústria,BA,media,331,2023-01-19
+ACC-01225,Nunes,viana.com.br,Tecnologia,PE,pequena,92,2023-02-27
+ACC-01226,Cavalcanti Ribeiro e Filhos,nogueira.com.br,Financeiro,PR,pequena,119,2024-01-05
+ACC-01227,Camargo,sousaefilhos.net.br,,RJ,media,192,2023-03-23
+ACC-01228,Macedo S.A.,duarte.com.br,Saúde,GO,grande,485,2023-08-02
+ACC-01229,Peixoto S/A,guerra.org.br,Agronegócio,SP,grande,441,2024-02-24
+ACC-01230,Ramos,duarte.com.br,Saúde,PE,media,284,2023-05-26
+ACC-01231,Pacheco Sá e Filhos,borgess.a..com.br,Tecnologia,SP,pequena,99,2023-09-19
+ACC-01232,Machado Nascimento Ltda.,sás.a..net.br,Tecnologia,PR,pequena,140,2023-01-12
+ACC-01233,Costa,pimenta.com.br,Saúde,RS,media,213,2024-06-11
+ACC-01234,Lopes,rodriguesdia.com.br,Tecnologia,RS,media,151,2023-06-12
+ACC-01235,Pimenta - EI,borges.org.br,Tecnologia,SP,grande,366,2023-08-14
+ACC-01236,Araújo,cardoso.com.br,Educação,MG,media,296,2024-01-13
+ACC-01237,Abreu e Filhos,novaes.com.br,Varejo,RJ,grande,467,2023-08-23
+ACC-01238,Alves,camargo.org.br,Serviços,RJ,media,185,2023-08-19
+ACC-01239,Pires,lopessampaio.net.br,Educação,SP,media,249,2024-01-13
+ACC-01240,Guerra,silva.com.br,Agronegócio,MG,media,291,2023-08-04
+ACC-01241,Ribeiro Cavalcanti - ME,lopes.com.br,Indústria,PR,pequena,68,2023-10-25
+ACC-01242,Leão,correianovai.com.br,Serviços,DF,pequena,62,2023-01-16
+ACC-01243,Albuquerque Barbosa e Filhos,dapazrioss.a.net.br,Serviços,SP,grande,365,2023-09-24
+ACC-01244,Ribeiro,casagrandeef.com.br,Varejo,SP,media,348,2023-12-20
+ACC-01245,Carvalho e Filhos,carvalho.com.br,Agronegócio,SP,pequena,108,2023-09-10
+ACC-01246,Pinto,marques.com.br,Educação,SC,pequena,76,2023-08-31
+ACC-01247,Gomes,marquesmorae.com.br,Agronegócio,RS,pequena,124,2023-04-09
+ACC-01248,Lima Pereira S/A,câmara.net.br,Tecnologia,MG,media,156,2023-07-17
+ACC-01249,Silva Montenegro Ltda.,siqueira.com.br,Educação,PE,media,336,2023-03-11
+ACC-01250,Andrade,nogueira.net.br,Financeiro,MG,pequena,90,2024-05-22
+ACC-01251,Camargo,nunes-me.org.br,Tecnologia,MG,pequena,128,2024-01-17
+ACC-01252,Casa Grande e Filhos,sales.com.br,Saúde,SP,media,331,2023-02-06
+ACC-01253,Moreira - EI,martins.net.br,Financeiro,SP,pequena,66,2023-06-04
+ACC-01254,Rodrigues e Filhos,dacruz-me.org.br,Indústria,SP,pequena,111,2023-03-17
+ACC-01255,Fernandes - EI,pimenta.net.br,Serviços,MG,media,254,2024-04-28
+ACC-01256,Oliveira,melo-me.com.br,Tecnologia,SP,pequena,71,2023-11-07
+ACC-01257,da Rocha,leão.org.br,Tecnologia,DF,media,308,2024-01-11
+ACC-01258,Sales - EI,cavalcante.com.br,Financeiro,RJ,media,343,2023-04-16
+ACC-01259,Araújo,siqueira.com.br,Indústria,SP,media,207,2023-08-02
+ACC-01260,Oliveira Aragão e Filhos,pacheco.com.br,Tecnologia,SP,grande,356,2023-12-31
+ACC-01261,da Paz - ME,sousa.net.br,Indústria,PE,grande,357,2023-03-04
+ACC-01262,Viana Ltda.,cardoso-ei.com.br,Varejo,SP,pequena,113,2023-06-28
+ACC-01263,da Mota,cardoso.com.br,Indústria,SP,pequena,150,2023-07-22
+ACC-01264,Pereira S.A.,albuquerque.net.br,Serviços,MG,grande,495,2024-03-30
+ACC-01265,da Luz Viana e Filhos,ribeiromacha.com.br,Saúde,PR,media,175,2023-08-15
+ACC-01266,Fernandes S/A,mendonçaciri.net.br,Agronegócio,SP,pequena,83,2024-03-16
+ACC-01267,Vargas,peixotocassi.com.br,Indústria,PE,pequena,104,2023-04-25
+ACC-01268,Silveira,dacosta.com.br,Agronegócio,MG,media,173,2024-02-14
+ACC-01269,Aragão,costelaolive.com.br,Educação,SP,pequena,52,2024-05-30
+ACC-01270,Aragão S.A.,sá.net.br,Varejo,SP,pequena,89,2024-03-15
+ACC-01271,da Rosa,guerra.com.br,Varejo,PR,media,271,2023-05-17
+ACC-01272,Garcia Rodrigues e Filhos,souza.org.br,Saúde,MG,grande,363,2023-11-14
+ACC-01273,Casa Grande,melo.org.br,Financeiro,SP,pequena,137,2023-09-24
+ACC-01274,Machado,albuquerque.org.br,Tecnologia,RS,pequena,76,2024-02-26
+ACC-01275,Moura,rocha.com.br,Indústria,SP,pequena,61,2023-10-03
+ACC-01276,Lopes,brito-ei.org.br,Tecnologia,RS,,142,2024-05-31
+ACC-01277,da Mata,farias.org.br,,SP,pequena,137,2024-01-03
+ACC-01278,Martins,dacunhaefilh.net.br,Tecnologia,RJ,pequena,121,2024-02-20
+ACC-01279,Moreira Fernandes e Filhos,siqueiraroch.com.br,Indústria,GO,,60,2024-06-13
+ACC-01280,Azevedo S/A,diasnovaess/.org.br,Varejo,GO,media,212,2023-02-20
+ACC-01281,Rodrigues - ME,brito.org.br,Varejo,PE,media,337,2023-02-04
+ACC-01282,da Cunha,câmara.com.br,Indústria,RJ,media,290,2023-06-13
+ACC-01283,Araújo - EI,andradealves.com.br,Indústria,SC,pequena,78,2024-01-09
+ACC-01284,Borges - EI,peixotoporto.com.br,Varejo,RS,media,297,2024-05-18
+ACC-01285,Camargo Sampaio S.A.,garciaribeir.net.br,Indústria,SP,pequena,68,2023-01-13
+ACC-01286,Ribeiro,darocha.net.br,Varejo,PR,media,312,2023-03-03
+ACC-01287,Vargas,porto-me.org.br,Varejo,RJ,pequena,120,2024-05-06
+ACC-01288,da Cunha,sales.com.br,Varejo,SP,media,347,2023-06-19
+ACC-01289,Garcia - ME,vasconcelosb.com.br,Varejo,MG,pequena,75,2023-12-14
+ACC-01290,da Luz,araújo.com.br,Serviços,MG,media,232,2023-05-26
+ACC-01291,Pimenta Gonçalves S.A.,macedoazeved.com.br,Tecnologia,RJ,grande,397,2023-11-15
+ACC-01292,Nogueira Vargas - ME,caldeira.com.br,Serviços,SP,media,237,2023-01-02
+ACC-01293,Silva,pimentaramos.net.br,Educação,SP,media,237,2023-10-03
+ACC-01294,Barbosa S/A,caldeira.org.br,Saúde,RS,pequena,144,2024-04-16
+ACC-01295,Almeida,vasconcelos.org.br,Serviços,SP,media,278,2023-06-10
+ACC-01296,Andrade e Filhos,cassiano.org.br,Tecnologia,SP,pequena,136,2023-01-09
+ACC-01297,Sampaio Farias - ME,damata.com.br,Tecnologia,SP,media,256,2024-03-07
+ACC-01298,Mendes,moraesefilho.net.br,Varejo,MG,grande,352,2024-04-12
+ACC-01299,Nogueira S.A.,guerra.com.br,Saúde,PR,grande,378,2023-04-05
+ACC-01300,Campos,gomesefilhos.net.br,Saúde,RJ,pequena,91,2023-12-06
+ACC-01301,Guerra,farias.com.br,Educação,DF,pequena,147,2023-03-25
+ACC-01302,Fonseca - EI,piresefilhos.org.br,Agronegócio,MG,media,341,2023-01-19
+ACC-01303,Teixeira,barros.net.br,Saúde,SP,media,266,2023-10-03
+ACC-01304,Cavalcanti Novaes S/A,ramos.com.br,Serviços,RJ,media,223,2024-03-08
+ACC-01305,da Rosa Sampaio - ME,ribeiro.com.br,,PR,pequena,56,2023-06-03
+ACC-01306,Mendonça,piresefilhos.org.br,Serviços,SC,media,316,2023-10-08
+ACC-01307,Carvalho Andrade S.A.,pires-me.net.br,Financeiro,RJ,pequena,104,2024-05-23
+ACC-01308,Mendonça Gomes S/A,silveira-ei.com.br,,MG,grande,430,2023-07-18
+ACC-01309,Almeida,monteiro.com.br,Varejo,SP,media,231,2024-01-07
+ACC-01310,Viana,fernandess/a.com.br,Saúde,RJ,pequena,145,2024-03-01
+ACC-01311,Rezende Rios - EI,guerras/a.com.br,Indústria,MG,grande,385,2023-03-30
+ACC-01312,Sousa Pacheco S.A.,rocha.org.br,Educação,SP,pequena,86,2023-01-29
+ACC-01313,Mendonça Rezende S/A,andradeefilh.com.br,Financeiro,SP,pequena,110,2023-12-17
+ACC-01314,da Cruz e Filhos,pinto.com.br,Tecnologia,PE,pequena,124,2024-02-10
+ACC-01315,das Neves S/A,albuquerquec.org.br,Varejo,SP,pequena,148,2024-06-15
+ACC-01316,Pastor Azevedo S/A,pimenta.net.br,Financeiro,MG,media,261,2023-07-14
+ACC-01317,Azevedo Costa - ME,monteiro-ei.org.br,Saúde,RS,pequena,85,2024-01-06
+ACC-01318,Duarte,sousa.com.br,Tecnologia,SP,grande,396,2023-10-29
+ACC-01319,Duarte Vieira S.A.,rodrigues-ei.com.br,Serviços,MG,media,190,2024-03-09
+ACC-01320,Azevedo,pastors.a..com.br,Educação,SP,media,231,2023-12-13
+ACC-01321,Cavalcante,damotas.a..com.br,Indústria,SP,pequena,81,2023-10-19
+ACC-01322,Macedo da Cruz - EI,novaes.com.br,,MG,media,179,2023-01-13
+ACC-01323,Vasconcelos,carvalhos/a.com.br,Serviços,MG,pequena,82,2024-02-26
+ACC-01324,Abreu S.A.,almeidamendo.org.br,Serviços,SP,pequena,91,2023-07-16
+ACC-01325,Leão,santosefilho.net.br,Tecnologia,SP,media,281,2023-05-23
+ACC-01326,Costela Casa Grande e Filhos,sales.com.br,Varejo,MG,pequena,114,2024-02-19
+ACC-01327,Jesus,moreira.org.br,Financeiro,SP,grande,378,2023-11-25
+ACC-01328,Peixoto S.A.,cavalcantipi.org.br,Tecnologia,RJ,grande,358,2024-03-28
+ACC-01329,Pires Ltda.,pimenta.com.br,Varejo,RJ,media,243,2023-02-28
+ACC-01330,Novais S.A.,leão.com.br,Varejo,DF,pequena,104,2023-04-30
+ACC-01331,Teixeira,camposmouras.net.br,Tecnologia,RJ,media,177,2023-05-16
+ACC-01332,da Mota Aragão S.A.,martinsvarga.com.br,Educação,SP,pequena,145,2023-06-13
+ACC-01333,Monteiro,vieiras.a..org.br,Indústria,SP,pequena,82,2023-05-29
+ACC-01334,Ramos Ltda.,castrorioss/.com.br,Indústria,RS,media,166,2023-06-10
+ACC-01335,da Cunha,costela.com.br,Tecnologia,SP,grande,419,2023-04-10
+ACC-01336,Aparecida,pimenta.net.br,Financeiro,SP,media,285,2023-07-28
+ACC-01337,Castro Viana S/A,sousas/a.net.br,,SP,pequena,90,2024-03-02
+ACC-01338,Barbosa S.A.,moraes.net.br,Tecnologia,SP,pequena,101,2023-02-27
+ACC-01339,Leão,pastor.net.br,Tecnologia,SP,pequena,73,2023-03-03
+ACC-01340,Vasconcelos Camargo Ltda.,souzarochalt.com.br,,SP,pequena,84,2023-11-05
+ACC-01341,Costa,britodacosta.com.br,,RS,,89,2024-03-05
+ACC-01342,Melo - EI,câmara.org.br,Varejo,SP,media,190,2023-09-09
+ACC-01343,Casa Grande,aragão.org.br,Financeiro,outros,media,239,2024-05-20
+ACC-01344,Freitas,pimentamarqu.com.br,Tecnologia,SP,media,223,2024-02-11
+ACC-01345,da Mata,marquessilve.net.br,,MG,pequena,53,2024-03-04
+ACC-01346,da Mota S.A.,fariascardos.net.br,Financeiro,RJ,media,185,2024-01-16
+ACC-01347,Cavalcante,martins-me.org.br,Serviços,PR,media,242,2023-08-14
+ACC-01348,Pereira,câmara.com.br,Tecnologia,SP,pequena,74,2023-04-29
+ACC-01349,Oliveira Novaes S.A.,vieiravieira.com.br,Tecnologia,RJ,media,318,2023-08-06
+ACC-01350,Cunha,jesus-ei.net.br,Varejo,CE,pequena,107,2023-10-31
+ACC-01351,Albuquerque,martins.com.br,Varejo,BA,pequena,65,2024-03-11
+ACC-01352,da Cruz Duarte - ME,sousa.com.br,Educação,RS,pequena,65,2023-03-16
+ACC-01353,Leão S/A,pastorcassia.com.br,Tecnologia,SC,media,311,2024-04-28
+ACC-01354,Lima - EI,meloefilhos.com.br,Indústria,MG,media,262,2023-06-30
+ACC-01355,Machado - ME,mendes.com.br,Tecnologia,PR,,148,2023-04-27
+ACC-01356,Cunha,barrosnovais.org.br,Agronegócio,SC,grande,469,2023-07-29
+ACC-01357,Almeida - ME,fogaçadaroch.com.br,Educação,PR,pequena,102,2024-04-16
+ACC-01358,Oliveira,castro.org.br,Serviços,RS,media,227,2024-06-25
+ACC-01359,Santos Guerra S.A.,marques-me.com.br,Educação,SP,pequena,123,2024-06-02
+ACC-01360,Santos,pires.net.br,Tecnologia,MG,pequena,107,2023-06-03
+ACC-01361,Sales,piress/a.net.br,Varejo,MG,pequena,85,2023-03-22
+ACC-01362,da Rocha - ME,moura.com.br,Indústria,DF,media,312,2023-05-30
+ACC-01363,Viana Rodrigues S/A,sampaio.com.br,Indústria,BA,media,271,2023-04-11
+ACC-01364,Moraes e Filhos,sousa.com.br,Varejo,SC,pequena,70,2023-08-08
+ACC-01365,Gomes Ltda.,aragão.com.br,Varejo,MG,pequena,97,2023-08-09
+ACC-01366,Fonseca Ltda.,pinto.org.br,Financeiro,SP,pequena,51,2024-06-17
+ACC-01367,Novais e Filhos,ramosnovaise.net.br,,MG,media,206,2024-05-26
+ACC-01368,Rezende - ME,carvalhofari.com.br,Varejo,PR,media,181,2023-10-18
+ACC-01369,Fogaça,sásouzas.a..org.br,Financeiro,SP,pequena,70,2023-08-03
+ACC-01370,da Mota,montenegro.net.br,Varejo,GO,pequena,82,2023-04-07
+ACC-01371,Machado,azevedoltda..com.br,Tecnologia,RJ,pequena,58,2024-03-20
+ACC-01372,Melo e Filhos,montenegro.com.br,Indústria,RJ,pequena,100,2024-06-13
+ACC-01373,Rocha,machado.net.br,,RS,media,245,2023-08-13
+ACC-01374,Barros - ME,correia-me.com.br,Serviços,CE,media,239,2024-03-26
+ACC-01375,da Mota Camargo e Filhos,dapazbarbosa.org.br,Tecnologia,PR,pequena,103,2024-06-09
+ACC-01376,da Rocha - ME,monteirocass.com.br,Serviços,SP,grande,353,2023-03-18
+ACC-01377,Sousa,meloferreira.com.br,Financeiro,RS,media,339,2023-01-30
+ACC-01378,Almeida S.A.,darochas.a..com.br,Serviços,CE,pequena,79,2024-01-06
+ACC-01379,Rezende,jesus.com.br,Indústria,SP,pequena,114,2023-12-04
+ACC-01380,Marques,mendonça.com.br,Tecnologia,RJ,pequena,106,2023-08-16
+ACC-01381,Vieira das Neves S.A.,nunes.com.br,Saúde,SP,pequena,147,2024-03-27
+ACC-01382,Freitas,daconceição.com.br,Agronegócio,MG,media,157,2024-03-01
+ACC-01383,Casa Grande Ltda.,vargas.com.br,Saúde,SP,,346,2024-02-13
+ACC-01384,Pinto Castro e Filhos,marques.com.br,Agronegócio,SP,pequena,89,2024-03-05
+ACC-01385,Santos Sales e Filhos,cirino.com.br,Saúde,MG,media,172,2024-06-15
+ACC-01386,Dias - EI,castrodacost.com.br,Varejo,RS,pequena,99,2024-03-21
+ACC-01387,Costela Novais e Filhos,macedodaluzl.com.br,Varejo,BA,pequena,135,2024-01-09
+ACC-01388,Casa Grande,riosltda..org.br,Indústria,RS,pequena,135,2024-04-21
+ACC-01389,Nascimento da Rosa S/A,machado.org.br,Agronegócio,RJ,media,316,2024-01-30
+ACC-01390,Marques Dias S.A.,guerra-me.com.br,Varejo,GO,pequena,52,2023-09-10
+ACC-01391,Ramos,sousa-ei.com.br,,SP,grande,400,2023-11-03
+ACC-01392,Sá,melo.com.br,Tecnologia,SP,media,178,2023-01-03
+ACC-01393,Sales,nunessiqueir.com.br,Educação,MG,pequena,97,2023-02-18
+ACC-01394,Carvalho e Filhos,siqueira-me.com.br,Agronegócio,outros,media,318,2023-04-16
+ACC-01395,Pinto,dasnevess/a.com.br,Agronegócio,SP,media,187,2024-03-06
+ACC-01396,Araújo,machadofogaç.com.br,Indústria,SP,pequena,110,2023-02-07
+ACC-01397,Costa,pachecomoura.net.br,,RS,pequena,85,2024-03-22
+ACC-01398,Rocha,barros-ei.com.br,Tecnologia,SP,pequena,97,2024-04-27
+ACC-01399,Mendonça Dias - EI,moraes-me.org.br,Saúde,MG,media,298,2023-08-20
+ACC-01400,Casa Grande,riosltda..com.br,Tecnologia,RJ,media,195,2023-03-05
+ACC-01401,Freitas,freitas.com.br,Tecnologia,RS,media,185,2023-09-20
+ACC-01402,das Neves,dapazltda..org.br,Serviços,SP,media,191,2024-01-07
+ACC-01403,Cunha e Filhos,novais.org.br,Serviços,SP,pequena,90,2024-04-06
+ACC-01404,Macedo,sousa.com.br,Indústria,BA,grande,478,2024-06-21
+ACC-01405,Siqueira,castro.com.br,Tecnologia,MG,media,229,2023-06-03
+ACC-01406,Casa Grande S.A.,carvalho.com.br,Indústria,RS,pequena,92,2023-03-01
+ACC-01407,Azevedo,melo.org.br,Varejo,SP,pequena,53,2024-05-30
+ACC-01408,Jesus e Filhos,borges.com.br,Tecnologia,SP,media,294,2023-04-29
+ACC-01409,Novais Martins e Filhos,leão.com.br,Serviços,GO,grande,460,2023-09-14
+ACC-01410,Novaes,costacirino-.net.br,Serviços,BA,pequena,73,2023-01-05
+ACC-01411,Pacheco,aparecida.com.br,Tecnologia,SP,media,237,2023-03-10
+ACC-01412,Câmara,monteiro.org.br,Varejo,GO,pequena,118,2024-06-09
+ACC-01413,da Luz da Rosa e Filhos,vieiras/a.com.br,Financeiro,SP,pequena,95,2023-08-22
+ACC-01414,Leão,campos.net.br,Educação,MG,media,301,2023-07-29
+ACC-01415,Alves Campos Ltda.,mendonçasale.com.br,Tecnologia,RJ,media,278,2023-05-22
+ACC-01416,Pacheco,azevedo.org.br,Tecnologia,SP,media,200,2023-10-25
+ACC-01417,da Luz,nunes.com.br,Varejo,RJ,media,344,2023-12-08
+ACC-01418,Freitas - EI,sales.com.br,Tecnologia,SP,pequena,145,2023-03-03
+ACC-01419,Casa Grande Ltda.,daluzs.a..com.br,Educação,DF,media,295,2023-03-30
+ACC-01420,Fogaça Castro S/A,sales.net.br,Varejo,outros,media,288,2023-01-08
+ACC-01421,Porto,fonseca.com.br,Varejo,GO,media,310,2023-11-23
+ACC-01422,da Rocha,aragão.com.br,Indústria,CE,,223,2023-01-04
+ACC-01423,Teixeira Brito - EI,moraess.a..com.br,Tecnologia,RJ,pequena,69,2023-11-21
+ACC-01424,da Mata,nogueiraduar.net.br,Tecnologia,RS,pequena,133,2024-05-05
+ACC-01425,Casa Grande,brito.net.br,Serviços,RJ,grande,391,2023-08-03
+ACC-01426,Freitas,carvalho-ei.com.br,Saúde,RS,pequena,121,2023-04-28
+ACC-01427,Castro,jesus.com.br,Agronegócio,PE,pequena,123,2024-02-18
+ACC-01428,Correia Vieira - EI,cunhas.a..org.br,Saúde,SP,pequena,54,2024-06-20
+ACC-01429,Camargo S.A.,leão-me.org.br,Serviços,SP,pequena,69,2023-09-24
+ACC-01430,Sales,mendesltda..net.br,Varejo,BA,pequena,90,2024-03-13
+ACC-01431,Peixoto,carvalho.org.br,Tecnologia,MG,pequena,123,2024-05-24
+ACC-01432,Alves,cavalcanti.com.br,Tecnologia,SP,media,224,2024-03-03
+ACC-01433,Sales da Conceição Ltda.,câmaras.a..net.br,Tecnologia,MG,media,303,2023-05-04
+ACC-01434,Sales,costelacardo.net.br,Educação,SP,grande,376,2024-06-02
+ACC-01435,Sá,barbosas/a.org.br,Tecnologia,RJ,pequena,83,2024-01-06
+ACC-01436,Caldeira Andrade e Filhos,aparecida.com.br,Varejo,MG,media,162,2023-08-26
+ACC-01437,Aparecida,melos/a.com.br,Indústria,RJ,media,235,2023-08-18
+ACC-01438,Sá S/A,darosaefilho.net.br,Varejo,SP,media,161,2024-01-26
+ACC-01439,Cirino Rios Ltda.,pereiras.a..net.br,Saúde,PR,media,297,2023-01-13
+ACC-01440,Pacheco,borgess.a..net.br,Indústria,DF,pequena,123,2023-02-05
+ACC-01441,Montenegro Vasconcelos e Filhos,fogaça.com.br,Tecnologia,RJ,pequena,52,2023-12-11
+ACC-01442,Pacheco S/A,montenegronu.org.br,Saúde,PR,media,291,2023-04-23
+ACC-01443,Sá Nascimento S/A,silvacorreia.com.br,Educação,outros,media,323,2023-04-29
+ACC-01444,Fonseca,cunha-ei.org.br,Serviços,RJ,pequena,67,2023-09-14
+ACC-01445,Fogaça Garcia - ME,macedorochas.com.br,Agronegócio,SP,media,199,2023-05-11
+ACC-01446,Teixeira Ltda.,moraesdaconc.com.br,Varejo,MG,media,261,2023-07-08
+ACC-01447,Monteiro Teixeira Ltda.,martinss/a.com.br,Indústria,RJ,media,278,2023-12-28
+ACC-01448,Barros Ltda.,novais.net.br,Serviços,RS,pequena,111,2024-05-03
+ACC-01449,da Paz,camargo.net.br,Tecnologia,MG,grande,425,2024-04-14
+ACC-01450,Rodrigues,peixoto.com.br,Educação,SP,pequena,103,2023-07-06
+ACC-01451,da Rocha,câmara.net.br,Financeiro,RS,pequena,74,2023-08-29
+ACC-01452,Melo e Filhos,correia.com.br,Indústria,PR,media,192,2023-04-15
+ACC-01453,Rocha - ME,cavalcanti.com.br,Serviços,PE,pequena,67,2023-11-04
+ACC-01454,Campos S.A.,gonçalves-me.com.br,Tecnologia,RJ,media,293,2023-05-20
+ACC-01455,Sousa S.A.,guerra.com.br,Tecnologia,RJ,media,243,2023-12-31
+ACC-01456,Costa,fonsecas.a..com.br,Indústria,BA,grande,377,2023-07-08
+ACC-01457,Lima Silveira - ME,campos.com.br,Educação,MG,pequena,150,2023-04-20
+ACC-01458,Sá,teixeira.com.br,Varejo,SP,pequena,117,2024-05-14
+ACC-01459,Rios,fogaça.com.br,Financeiro,CE,pequena,149,2024-01-28
+ACC-01460,Casa Grande,mendonça.com.br,Financeiro,MG,pequena,114,2023-02-15
+ACC-01461,da Cunha - ME,caldeira.net.br,Tecnologia,MG,grande,373,2024-04-28
+ACC-01462,Alves Brito e Filhos,daconceição.net.br,Varejo,SP,grande,362,2023-08-31
+ACC-01463,Cavalcanti - ME,azevedo-me.com.br,Varejo,MG,media,323,2023-12-08
+ACC-01464,Pinto,cassiano.org.br,Indústria,SP,pequena,57,2023-01-10
+ACC-01465,Vieira,teixeiras/a.org.br,Agronegócio,SP,pequena,81,2023-06-16
+ACC-01466,Ribeiro,costa.com.br,Serviços,MG,pequena,53,2023-02-26
+ACC-01467,Nogueira,mendonça.org.br,Tecnologia,CE,media,151,2023-12-15
+ACC-01468,Teixeira S/A,nogueira.com.br,Saúde,RS,pequena,85,2023-04-26
+ACC-01469,Machado,campos.com.br,Serviços,SP,media,156,2023-11-23
+ACC-01470,Marques,garcia.net.br,Varejo,SP,grande,429,2023-04-01
+ACC-01471,Santos,andrades.a..com.br,Varejo,RJ,pequena,78,2023-12-16
+ACC-01472,Silva,mendonçalope.com.br,Varejo,MG,media,179,2024-06-27
+ACC-01473,Nunes e Filhos,mendonça.net.br,Varejo,MG,media,283,2023-03-07
+ACC-01474,Melo,ribeiro.com.br,Serviços,RS,pequena,55,2023-09-06
+ACC-01475,Monteiro,montenegroar.com.br,Varejo,PR,pequena,102,2024-03-26
+ACC-01476,Vargas,pimenta.com.br,Financeiro,RS,pequena,103,2023-09-07
+ACC-01477,Alves - EI,duarte.com.br,Serviços,SP,media,196,2023-04-10
+ACC-01478,Sousa,cardosoltda..com.br,Varejo,SP,media,256,2024-03-28
+ACC-01479,Garcia,teixeiraefil.com.br,Serviços,PE,grande,381,2023-07-20
+ACC-01480,Jesus,limaltda..com.br,Varejo,SP,pequena,73,2024-01-14
+ACC-01481,da Cruz da Costa e Filhos,araújo.org.br,Varejo,RS,media,229,2024-06-02
+ACC-01482,Sales S/A,pastor.net.br,Tecnologia,MG,grande,384,2024-06-20
+ACC-01483,Cavalcante,camargo.net.br,Tecnologia,MG,media,214,2023-01-14
+ACC-01484,Marques e Filhos,nascimentolt.com.br,Financeiro,GO,pequena,79,2024-06-26
+ACC-01485,da Mata,nunes.com.br,Serviços,RJ,media,198,2023-04-20
+ACC-01486,Dias - ME,sampaio-me.com.br,,PR,grande,375,2023-02-12
+ACC-01487,Mendonça S/A,duarte.org.br,Tecnologia,SP,pequena,86,2024-02-19
+ACC-01488,Cavalcante,fernandesmon.org.br,Educação,PE,grande,462,2024-03-16
+ACC-01489,Costa,fonseca.com.br,Agronegócio,SP,media,165,2023-08-08
+ACC-01490,Nascimento S.A.,porto.org.br,Serviços,SP,media,231,2024-05-25
+ACC-01491,da Rosa - EI,daluz.com.br,Varejo,SP,grande,459,2024-04-16
+ACC-01492,Silva - EI,câmara.com.br,Financeiro,RJ,pequena,68,2023-07-10
+ACC-01493,Azevedo,pastorltda..com.br,Varejo,SP,pequena,85,2023-02-05
+ACC-01494,Ferreira Vieira S/A,lima.net.br,Varejo,PE,media,212,2024-01-18
+ACC-01495,Lopes,montenegro.net.br,Serviços,SP,grande,416,2024-03-11
+ACC-01496,Guerra,costa.org.br,Saúde,RS,pequena,58,2024-04-07
+ACC-01497,Rios,pinto.net.br,Indústria,SP,media,163,2023-05-12
+ACC-01498,Oliveira Monteiro S.A.,almeidapires.com.br,Tecnologia,SP,,395,2023-01-03
+ACC-01499,Nunes,damata.org.br,Varejo,RJ,media,206,2023-12-27
+ACC-01500,Martins,moreiras.a..org.br,Saúde,MG,media,279,2024-06-21
+ACC-01501,Lopes,dacostacassi.org.br,Educação,SP,grande,408,2023-06-25
+ACC-01502,Porto S.A.,dias.org.br,,SP,pequena,125,2023-10-04
+ACC-01503,Ramos,damata.com.br,Tecnologia,SP,media,162,2023-10-17
+ACC-01504,Guerra da Costa S/A,dacunharodri.com.br,Tecnologia,RS,media,168,2023-07-19
+ACC-01505,Martins,correiaalves.com.br,Varejo,PR,media,314,2024-01-14
+ACC-01506,Lima,novais.com.br,Tecnologia,MG,media,283,2023-08-29
+ACC-01507,Carvalho,costas.a..com.br,,SP,pequena,134,2023-03-07
+ACC-01508,Ramos Aparecida e Filhos,daluzltda..com.br,,SP,pequena,111,2023-04-08
+ACC-01509,Araújo S/A,viana.com.br,Indústria,BA,media,202,2023-05-03
+ACC-01510,Azevedo,pereira.net.br,Financeiro,SP,pequena,94,2024-01-04
+ACC-01511,Gonçalves e Filhos,fonseca.org.br,Varejo,SP,pequena,128,2023-01-03
+ACC-01512,Moreira e Filhos,dacostacamar.com.br,Serviços,SP,pequena,142,2023-09-12
+ACC-01513,da Costa - EI,monteiro.com.br,Serviços,SP,media,205,2024-03-09
+ACC-01514,Pacheco,vargasltda..org.br,Varejo,RJ,pequena,135,2023-02-10
+ACC-01515,Lima Cunha S.A.,souza.com.br,Varejo,SP,pequena,150,2023-12-16
+ACC-01516,Macedo,cavalcantis..net.br,Tecnologia,SP,pequena,89,2023-08-13
+ACC-01517,Mendonça - EI,dacunha.com.br,Varejo,MG,pequena,145,2023-12-26
+ACC-01518,Dias - EI,sampaio.com.br,Serviços,PE,,65,2024-01-22
+ACC-01519,da Mota Viana S.A.,melo.com.br,Financeiro,SP,pequena,59,2024-05-20
+ACC-01520,das Neves,melo.org.br,Varejo,SC,pequena,75,2024-01-03
+ACC-01521,Sousa e Filhos,ramos-ei.com.br,Tecnologia,SP,pequena,146,2023-12-19
+ACC-01522,da Cunha Novaes - ME,salesefilhos.com.br,Financeiro,GO,,125,2023-03-26
+ACC-01523,Rodrigues,porto.com.br,Agronegócio,MG,media,337,2024-03-26
+ACC-01524,Gomes,nascimentos..com.br,Tecnologia,RS,pequena,143,2024-05-01
+ACC-01525,Borges,gonçalvesltd.org.br,Serviços,SC,media,252,2023-06-24
+ACC-01526,Pires,darosacostel.com.br,Tecnologia,SP,pequena,139,2023-08-03
+ACC-01527,Vieira,vargas.com.br,,MG,pequena,114,2023-10-19
+ACC-01528,Melo,damotas/a.com.br,Indústria,PR,pequena,148,2023-09-10
+ACC-01529,Brito,farias.net.br,Serviços,SP,pequena,74,2024-04-24
+ACC-01530,Fogaça - ME,sampaiodaluz.net.br,Financeiro,SP,grande,466,2023-11-18
+ACC-01531,Teixeira S/A,marques.com.br,Varejo,MG,,281,2023-05-12
+ACC-01532,Abreu Guerra S.A.,piresmacedoe.com.br,Saúde,RS,media,349,2023-12-05
+ACC-01533,Camargo S.A.,dias.net.br,Serviços,RJ,pequena,74,2023-09-08
+ACC-01534,Peixoto Rodrigues - ME,moreirasilva.com.br,Varejo,MG,pequena,51,2024-03-07
+ACC-01535,Sousa,machado.com.br,Varejo,MG,grande,438,2023-07-03
+ACC-01536,da Paz,daluzcavalca.com.br,Varejo,SP,pequena,134,2024-01-11
+ACC-01537,Gonçalves Garcia - EI,barrosleãolt.com.br,Indústria,PR,grande,443,2024-03-30
+ACC-01538,Borges Martins S.A.,almeidaalmei.com.br,Tecnologia,SP,pequena,79,2023-07-31
+ACC-01539,Aragão Guerra - EI,sampaio.com.br,Varejo,RS,pequena,86,2023-09-20
+ACC-01540,Cassiano,peixoto.org.br,Tecnologia,SP,pequena,53,2023-05-03
+ACC-01541,Albuquerque e Filhos,freitass.a..org.br,Financeiro,SP,media,155,2023-01-24
+ACC-01542,Rocha,vargas.com.br,Saúde,RS,pequena,114,2024-01-08
+ACC-01543,Silva Costela S.A.,campos.com.br,Educação,PE,pequena,50,2023-03-12
+ACC-01544,Garcia,dapaz.com.br,Indústria,RS,media,281,2024-05-08
+ACC-01545,da Paz Siqueira e Filhos,lopescostela.com.br,,RJ,media,291,2023-10-13
+ACC-01546,Alves da Rocha Ltda.,leãocirino-m.net.br,Indústria,RJ,pequena,113,2024-01-25
+ACC-01547,Pacheco,pintomachado.com.br,Financeiro,RS,pequena,114,2023-01-13
+ACC-01548,Melo S.A.,barros.org.br,Varejo,RS,pequena,67,2023-09-16
+ACC-01549,Rodrigues,sales.com.br,Saúde,PE,pequena,78,2023-11-09
+ACC-01550,Sousa,silvagomesef.com.br,Varejo,GO,media,195,2023-08-25
+ACC-01551,Novais S/A,barbosa.org.br,Financeiro,RS,media,263,2023-04-06
+ACC-01552,Fogaça,fariass.a..org.br,Varejo,MG,grande,384,2023-10-08
+ACC-01553,da Rosa,abreultda..com.br,Varejo,SP,media,282,2023-12-31
+ACC-01554,Cardoso,rios.com.br,Indústria,DF,pequena,137,2024-06-07
+ACC-01555,Cavalcante,pachecos.a..com.br,Financeiro,MG,grande,489,2024-03-16
+ACC-01556,Cardoso,fernandes.com.br,Saúde,SP,pequena,145,2023-08-27
+ACC-01557,Casa Grande,diasefilhos.com.br,Varejo,RJ,pequena,115,2024-05-29
+ACC-01558,Aparecida,camargo.com.br,Tecnologia,SP,,57,2023-07-25
+ACC-01559,Lopes,monteirodamo.net.br,Educação,BA,pequena,78,2023-07-29
+ACC-01560,Moreira,daluz.net.br,Serviços,RS,pequena,135,2023-08-28
+ACC-01561,Dias Sousa - ME,lopes.net.br,Varejo,SP,media,287,2023-06-25
+ACC-01562,Aragão,novaisribeir.com.br,Varejo,RS,pequena,50,2023-01-09
+ACC-01563,Andrade Melo Ltda.,cassianoarag.org.br,Tecnologia,RJ,pequena,59,2023-07-05
+ACC-01564,Monteiro S/A,santosmartin.com.br,Varejo,SP,media,299,2023-10-06
+ACC-01565,Marques,fogaça.org.br,Agronegócio,SP,media,327,2024-05-02
+ACC-01566,Campos Ferreira S/A,camargo.com.br,Varejo,RS,pequena,139,2023-08-11
+ACC-01567,Nunes,dapazcirinos.net.br,,SP,grande,398,2023-11-29
+ACC-01568,Leão Barbosa S.A.,pachecoabreu.com.br,Indústria,SP,pequena,58,2023-10-21
+ACC-01569,Farias S/A,rocha.org.br,Tecnologia,PE,media,308,2023-01-01
+ACC-01570,Gonçalves Ltda.,rodrigues.com.br,Saúde,PR,media,276,2023-05-07
+ACC-01571,Barros - ME,duartes.a..com.br,Indústria,SP,,235,2023-04-23
+ACC-01572,Peixoto,marques.com.br,Varejo,RS,,234,2023-06-01
+ACC-01573,Duarte,fariass/a.net.br,Varejo,RS,media,236,2024-03-14
+ACC-01574,Duarte,cunhaaragãoe.com.br,Financeiro,SP,media,298,2023-08-27
+ACC-01575,Borges,souzas/a.com.br,Financeiro,PR,pequena,121,2023-05-31
+ACC-01576,da Costa Vargas - ME,dacunha.com.br,Tecnologia,SP,pequena,67,2023-07-16
+ACC-01577,Gomes Vasconcelos - ME,almeidas.a..com.br,,SP,media,346,2023-01-26
+ACC-01578,Campos da Rosa - ME,ramos.net.br,Educação,SP,grande,469,2023-08-16
+ACC-01579,Rodrigues,sousa.com.br,Serviços,SC,pequena,128,2024-05-14
+ACC-01580,Moraes,fogaçarioss/.com.br,Tecnologia,RJ,pequena,74,2023-05-07
+ACC-01581,da Mata,mendonçamach.com.br,Financeiro,SP,grande,477,2023-11-26
+ACC-01582,Freitas,borges.net.br,Serviços,DF,pequena,125,2023-12-15
+ACC-01583,Aparecida - EI,lopespires-m.com.br,Educação,GO,pequena,83,2023-04-12
+ACC-01584,Ramos Rodrigues e Filhos,martins.com.br,Tecnologia,SC,media,176,2024-04-16
+ACC-01585,da Rocha - ME,monteiromour.com.br,Financeiro,DF,pequena,77,2023-11-15
+ACC-01586,da Rosa,barros.com.br,Serviços,MG,grande,442,2023-03-15
+ACC-01587,Moreira Lima Ltda.,cardosorodri.com.br,Varejo,MG,pequena,93,2023-09-24
+ACC-01588,Moraes S/A,novaess/a.com.br,Tecnologia,DF,media,320,2023-04-08
+ACC-01589,Martins e Filhos,jesus.com.br,Tecnologia,SP,media,220,2023-04-30
+ACC-01590,Pacheco,fogaça.com.br,,SC,pequena,87,2024-01-16
+ACC-01591,Camargo e Filhos,vargas-ei.com.br,Agronegócio,SP,media,284,2024-05-22
+ACC-01592,Gonçalves Aparecida S/A,cavalcanti.org.br,Varejo,SP,grande,497,2024-06-13
+ACC-01593,Dias,santos.com.br,Tecnologia,RJ,media,240,2023-05-25
+ACC-01594,Pinto,sá.net.br,Indústria,MG,media,245,2023-03-10
+ACC-01595,Cunha Cirino S/A,fernandes.com.br,Serviços,SP,pequena,128,2024-01-07
+ACC-01596,Lopes - EI,rocha.com.br,Serviços,SP,grande,416,2024-03-14
+ACC-01597,Albuquerque S.A.,abreu-me.com.br,Financeiro,SP,,298,2023-11-05
+ACC-01598,Ribeiro,marques.net.br,Indústria,PR,pequena,118,2023-08-18
+ACC-01599,Sales,darosa.com.br,Indústria,RS,pequena,144,2023-04-16
+ACC-01600,Cardoso S.A.,darosa.com.br,Indústria,SP,pequena,107,2023-08-18
+ACC-01601,Sampaio S.A.,correias/a.com.br,Agronegócio,MG,pequena,114,2023-10-04
+ACC-01602,Rezende da Costa - ME,costela-me.com.br,,SP,media,307,2024-02-16
+ACC-01603,Melo Lima S/A,borgesdarosa.com.br,Serviços,RJ,,111,2024-06-11
+ACC-01604,Mendonça,cavalcantes..com.br,Varejo,RJ,pequena,123,2023-11-11
+ACC-01605,Pacheco,almeida.net.br,,MG,media,235,2023-08-21
+ACC-01606,Aragão,costadarocha.com.br,Serviços,outros,pequena,78,2023-04-30
+ACC-01607,Pires e Filhos,albuquerque.net.br,Serviços,DF,pequena,104,2023-07-28
+ACC-01608,Sousa,leão.com.br,Saúde,SP,pequena,53,2024-05-16
+ACC-01609,Guerra,andrade.org.br,Saúde,PR,pequena,60,2023-07-23
+ACC-01610,da Conceição,moraes.com.br,Indústria,MG,grande,410,2023-03-16
+ACC-01611,Oliveira,mouras/a.com.br,Saúde,RJ,pequena,145,2023-04-19
+ACC-01612,da Mata e Filhos,novaes.com.br,Financeiro,SP,media,265,2024-05-05
+ACC-01613,Monteiro - EI,melo.org.br,Varejo,SP,grande,377,2024-06-15
+ACC-01614,Almeida,machado.org.br,Indústria,SP,pequena,76,2023-06-04
+ACC-01615,Ferreira,dapazsilveir.com.br,Serviços,GO,grande,449,2023-08-28
+ACC-01616,Pastor Rodrigues Ltda.,daconceição.com.br,Indústria,SP,media,290,2024-01-22
+ACC-01617,Silveira,cardoso.com.br,,SP,media,220,2023-11-15
+ACC-01618,Vieira,leão.org.br,Financeiro,RJ,pequena,105,2023-09-24
+ACC-01619,da Paz Sales e Filhos,castro.net.br,Indústria,GO,,241,2024-06-03
+ACC-01620,Cavalcanti Costa S.A.,rios-me.net.br,Agronegócio,CE,pequena,98,2024-05-05
+ACC-01621,Monteiro,brito.com.br,Financeiro,RS,pequena,133,2023-07-08
+ACC-01622,Novais Aragão S/A,dacosta.org.br,Financeiro,CE,media,288,2023-10-12
+ACC-01623,Rocha,daluz.com.br,Financeiro,MG,pequena,132,2024-04-05
+ACC-01624,Fernandes - ME,cavalcantimo.com.br,Agronegócio,PE,pequena,103,2023-02-20
+ACC-01625,Novais S.A.,pintos.a..com.br,Tecnologia,SC,pequena,142,2024-03-15
+ACC-01626,Viana,daluz.com.br,Varejo,RJ,media,312,2024-04-03
+ACC-01627,Vargas - EI,vargas.com.br,Agronegócio,RJ,media,253,2023-10-08
+ACC-01628,Santos S/A,cassiano.com.br,Financeiro,SP,pequena,118,2024-02-08
+ACC-01629,Caldeira - EI,marques.net.br,Serviços,RS,media,185,2023-08-24
+ACC-01630,Cavalcante e Filhos,novaiss/a.net.br,Indústria,PR,pequena,64,2023-09-13
+ACC-01631,Siqueira da Rocha e Filhos,costelaltda..com.br,Serviços,SP,pequena,80,2023-09-15
+ACC-01632,Siqueira,teixeira.com.br,Agronegócio,RJ,media,303,2023-12-31
+ACC-01633,Farias,cassianoefil.com.br,Educação,SP,media,269,2023-04-22
+ACC-01634,Vargas,camposcosta-.org.br,Tecnologia,RS,pequena,108,2023-09-16
+ACC-01635,da Paz,dacruz-me.net.br,Serviços,RJ,grande,430,2023-11-12
+ACC-01636,Fonseca,barrosdamata.com.br,Saúde,SP,media,163,2024-06-08
+ACC-01637,Viana,cassianosá-e.net.br,Indústria,GO,pequena,117,2024-06-13
+ACC-01638,Marques,carvalholima.net.br,Saúde,DF,media,290,2023-10-31
+ACC-01639,Casa Grande,alves.com.br,Saúde,RS,pequena,50,2023-05-07
+ACC-01640,Barros Ltda.,silva-ei.net.br,Tecnologia,RS,pequena,64,2023-03-15
+ACC-01641,Lopes Araújo - ME,guerra.com.br,Varejo,PR,media,261,2024-06-25
+ACC-01642,Oliveira Araújo e Filhos,ribeiroefilh.com.br,Varejo,SP,pequena,79,2024-03-11
+ACC-01643,Rodrigues,leão.com.br,Financeiro,RJ,grande,379,2023-11-10
+ACC-01644,Ferreira,silveira.org.br,Serviços,PR,media,236,2024-04-28
+ACC-01645,Sampaio Guerra - ME,damota-ei.com.br,Saúde,DF,grande,456,2023-09-20
+ACC-01646,Sampaio,nogueirapint.com.br,Tecnologia,SP,media,164,2023-09-30
+ACC-01647,Vasconcelos,viana.com.br,Saúde,SP,media,307,2023-08-11
+ACC-01648,Gomes,darosabarros.net.br,Educação,MG,media,263,2023-09-04
+ACC-01649,Borges Moraes - EI,moreiranogue.com.br,Serviços,SP,pequena,84,2023-12-02
+ACC-01650,Sá,moreira.com.br,Indústria,SP,pequena,51,2024-01-23
+ACC-01651,da Costa,almeidaalves.com.br,Educação,PR,media,166,2023-12-01
+ACC-01652,Montenegro,silveira.com.br,Financeiro,SP,grande,356,2023-09-18
+ACC-01653,da Luz,siqueiras/a.org.br,,PR,pequena,113,2024-05-28
+ACC-01654,Sá e Filhos,campos.com.br,Serviços,SC,media,305,2024-02-29
+ACC-01655,Marques Ltda.,machadoltda..net.br,Tecnologia,MG,media,261,2023-04-08
+ACC-01656,Ferreira da Rosa Ltda.,souzapacheco.net.br,Agronegócio,SP,grande,423,2024-06-11
+ACC-01657,Caldeira Duarte - EI,silvagarcia-.com.br,Indústria,RJ,pequena,107,2023-05-17
+ACC-01658,Casa Grande e Filhos,vasconcelosf.com.br,Tecnologia,MG,pequena,53,2024-02-02
+ACC-01659,Borges S/A,jesus.org.br,Serviços,RJ,media,192,2023-09-22
+ACC-01660,Cunha,cardoso.com.br,,RS,grande,388,2023-02-07
+ACC-01661,Rocha,barbosa.net.br,Agronegócio,CE,media,343,2023-10-13
+ACC-01662,da Luz,pastor.com.br,Tecnologia,BA,grande,378,2023-01-31
+ACC-01663,Macedo,porto.net.br,Varejo,SP,media,256,2023-11-16
+ACC-01664,Castro,siqueira.net.br,Tecnologia,SP,media,338,2023-01-21
+ACC-01665,Cardoso,montenegroca.com.br,Financeiro,SP,media,175,2023-05-25
+ACC-01666,Melo,saless.a..net.br,Serviços,MG,pequena,68,2023-12-04
+ACC-01667,Campos,souzas.a..com.br,Serviços,SP,media,243,2023-01-23
+ACC-01668,Freitas - EI,camargo.net.br,Tecnologia,SP,media,166,2024-05-30
+ACC-01669,Campos Freitas Ltda.,aparecida.net.br,Tecnologia,GO,media,153,2023-04-28
+ACC-01670,Mendonça,darosa.net.br,Serviços,RJ,media,310,2023-03-15
+ACC-01671,Viana Pastor - ME,vieiras.a..com.br,Tecnologia,RS,media,172,2024-01-10
+ACC-01672,Cirino Sousa - ME,dasnevesltda.com.br,,RJ,pequena,127,2024-01-25
+ACC-01673,Azevedo,campos-ei.net.br,Financeiro,SP,grande,432,2023-09-06
+ACC-01674,Nunes,leão-me.com.br,Indústria,RJ,pequena,150,2023-04-19
+ACC-01675,Melo,fernandes.net.br,Saúde,GO,media,294,2024-04-15
+ACC-01676,Teixeira,teixeiracarv.com.br,Tecnologia,SP,pequena,135,2023-01-13
+ACC-01677,Cassiano,rios.org.br,,PR,grande,404,2023-06-13
+ACC-01678,Gomes,borges.com.br,Tecnologia,RJ,pequena,66,2024-06-14
+ACC-01679,Rios - ME,gonçalvesfer.org.br,Varejo,RS,media,340,2024-05-22
+ACC-01680,Cavalcante e Filhos,ramos.net.br,Agronegócio,RJ,,448,2023-11-24
+ACC-01681,Novais,oliveiraefil.com.br,Serviços,SP,media,178,2024-01-27
+ACC-01682,Correia - EI,ramos-ei.com.br,Agronegócio,SP,grande,434,2023-03-18
+ACC-01683,Sá Melo - EI,nunes-ei.com.br,Serviços,PR,pequena,140,2023-03-09
+ACC-01684,Almeida da Mota S.A.,camposefilho.com.br,Indústria,RJ,grande,488,2023-10-19
+ACC-01685,Nascimento - EI,santospachec.net.br,Educação,SP,media,248,2023-09-10
+ACC-01686,Mendonça S/A,guerra.org.br,Financeiro,DF,grande,405,2023-02-21
+ACC-01687,Leão Alves - EI,lopes.net.br,Educação,CE,pequena,145,2023-04-13
+ACC-01688,Borges,garcia.com.br,Serviços,MG,grande,370,2023-08-09
+ACC-01689,da Paz Casa Grande S.A.,brito-ei.com.br,Agronegócio,SP,pequena,93,2023-11-29
+ACC-01690,Cassiano Ltda.,vargas.com.br,Indústria,SP,pequena,103,2023-07-05
+ACC-01691,Araújo Pimenta Ltda.,rocha.net.br,Tecnologia,SP,pequena,94,2024-06-29
+ACC-01692,Gomes,alvessilvas/.org.br,Indústria,SC,pequena,122,2023-01-22
+ACC-01693,Duarte,diass.a..net.br,Serviços,SP,grande,378,2024-03-14
+ACC-01694,Aragão S.A.,garcia.com.br,Varejo,MG,media,299,2024-03-02
+ACC-01695,Monteiro Moraes - EI,sápeixoto-ei.org.br,Saúde,DF,media,307,2023-06-07
+ACC-01696,Araújo,camargo.org.br,Varejo,RJ,media,231,2023-08-12
+ACC-01697,Azevedo,martins.com.br,Tecnologia,SC,media,255,2023-01-12
+ACC-01698,Porto,alves.org.br,Tecnologia,RJ,grande,407,2023-03-13
+ACC-01699,da Cruz - EI,almeidadamat.com.br,Serviços,CE,media,231,2024-04-07
+ACC-01700,Barros,darosanunes-.com.br,Indústria,BA,media,208,2023-12-30
+ACC-01701,Viana da Cruz - EI,vianacasagra.com.br,Varejo,RJ,pequena,73,2024-04-21
+ACC-01702,Aparecida,novais.com.br,Tecnologia,SP,grande,383,2023-01-26
+ACC-01703,Rezende,martins-ei.net.br,Tecnologia,GO,pequena,55,2023-07-08
+ACC-01704,Peixoto,abreuaraújo-.com.br,Educação,BA,pequena,89,2023-08-16
+ACC-01705,Ferreira,rodrigues.net.br,Varejo,PR,media,155,2023-05-05
+ACC-01706,Castro e Filhos,pachecomorae.net.br,Financeiro,outros,pequena,69,2023-04-05
+ACC-01707,Sampaio,darosas/a.org.br,Indústria,RS,media,326,2023-05-10
+ACC-01708,Lopes,carvalhoefil.com.br,Varejo,SP,media,314,2024-05-16
+ACC-01709,Porto,pimentamonte.net.br,Indústria,SP,media,332,2024-04-18
+ACC-01710,da Mata,sá.com.br,Tecnologia,RJ,pequena,93,2024-01-04
+ACC-01711,Marques Peixoto Ltda.,ribeiroduart.com.br,Serviços,RJ,pequena,146,2023-07-18
+ACC-01712,Pereira - ME,saless.a..com.br,Indústria,CE,pequena,105,2023-09-26
+ACC-01713,Jesus Novais e Filhos,albuquerquee.com.br,Varejo,SP,media,339,2023-05-12
+ACC-01714,Nascimento,teixeira.com.br,Agronegócio,GO,grande,468,2023-07-18
+ACC-01715,Nascimento S/A,vianaefilhos.net.br,Tecnologia,SP,media,169,2023-01-15
+ACC-01716,Fogaça - ME,rocha.com.br,Varejo,SP,media,160,2023-07-07
+ACC-01717,Vargas Sampaio S/A,gomes.net.br,Varejo,BA,pequena,135,2024-05-09
+ACC-01718,Macedo Albuquerque S.A.,martinsltda..org.br,Financeiro,PE,,69,2023-10-31
+ACC-01719,Correia,teixeiraltda.org.br,Agronegócio,SP,media,235,2024-03-06
+ACC-01720,Silva,pimentaefilh.net.br,Indústria,RJ,media,342,2024-03-29
+ACC-01721,da Mota - ME,daconceiçãom.com.br,Tecnologia,BA,pequena,98,2023-12-05
+ACC-01722,Camargo,abreucostaef.com.br,Serviços,SP,pequena,144,2023-01-06
+ACC-01723,Cavalcante,nunes.com.br,Indústria,SP,media,181,2023-11-30
+ACC-01724,Azevedo Pastor S.A.,ribeirosousa.com.br,Financeiro,MG,pequena,59,2024-04-28
+ACC-01725,Moreira Siqueira Ltda.,cardosoltda..net.br,Serviços,SP,media,302,2024-03-19
+ACC-01726,Rodrigues,rochaalmeida.org.br,Varejo,SP,pequena,81,2023-07-18
+ACC-01727,Ramos,abreu.com.br,Financeiro,SP,pequena,87,2023-12-21
+ACC-01728,da Mota,duarte-me.net.br,Tecnologia,RS,media,200,2023-09-04
+ACC-01729,Monteiro,rodrigues-ei.net.br,Varejo,MG,media,259,2024-02-09
+ACC-01730,Silveira S.A.,moreira.com.br,Varejo,SP,media,298,2023-11-14
+ACC-01731,Dias,damota-me.com.br,Serviços,SP,pequena,136,2023-09-25
+ACC-01732,Barros,gonçalvess.a.com.br,Tecnologia,RJ,pequena,128,2024-03-12
+ACC-01733,Barbosa,sousas.a..net.br,Serviços,BA,pequena,122,2023-11-03
+ACC-01734,Azevedo,costacavalca.com.br,Varejo,RS,media,163,2023-05-03
+ACC-01735,Alves,alves-me.com.br,Tecnologia,SP,grande,358,2023-04-22
+ACC-01736,Caldeira Melo S.A.,dacunha.net.br,Serviços,SP,pequena,62,2023-05-18
+ACC-01737,Moreira,aragão.com.br,Saúde,PE,pequena,85,2024-06-08
+ACC-01738,Teixeira,barbosavasco.com.br,Tecnologia,MG,pequena,134,2024-06-21
+ACC-01739,Barros S/A,pires-me.org.br,Agronegócio,RJ,media,209,2023-12-17
+ACC-01740,Viana S.A.,garcialtda..org.br,,SP,media,320,2024-06-21
+ACC-01741,Pimenta,macedos/a.com.br,Serviços,SP,media,341,2023-11-03
+ACC-01742,Rocha S/A,azevedo.com.br,Varejo,SP,media,220,2023-12-18
+ACC-01743,Brito,darocha-me.org.br,,RS,pequena,69,2023-07-06
+ACC-01744,Marques - ME,daconceição.com.br,Indústria,RJ,,495,2024-06-11
+ACC-01745,Pinto,vieira.com.br,Tecnologia,SP,media,253,2023-10-05
+ACC-01746,Marques - EI,fernandesefi.net.br,Varejo,RJ,media,216,2023-02-06
+ACC-01747,Caldeira Caldeira S/A,pastor.net.br,Educação,SP,pequena,109,2023-08-17
+ACC-01748,Porto Moraes Ltda.,pastors.a..com.br,Serviços,SP,grande,374,2024-03-05
+ACC-01749,Silveira,leão.com.br,Agronegócio,PE,pequena,97,2023-12-09
+ACC-01750,Carvalho Aparecida S/A,cirino.com.br,Saúde,RJ,pequena,113,2024-03-21
+ACC-01751,das Neves,dasnevespach.com.br,Varejo,MG,grande,369,2023-06-14
+ACC-01752,da Rocha,casagrandeme.com.br,Serviços,SP,media,189,2024-03-03
+ACC-01753,Araújo da Costa - EI,albuquerque.org.br,Varejo,RJ,pequena,127,2023-07-03
+ACC-01754,Costa Porto S.A.,limaltda..com.br,Indústria,RS,media,325,2023-09-01
+ACC-01755,Sales,fernandess.a.com.br,Indústria,MG,pequena,80,2023-04-05
+ACC-01756,Pacheco,peixoto.com.br,Serviços,SP,pequena,87,2023-04-19
+ACC-01757,Leão,pimenta.org.br,Educação,RJ,media,279,2024-02-24
+ACC-01758,Marques S/A,castro.com.br,Varejo,SP,media,295,2024-03-16
+ACC-01759,Porto S.A.,câmara.com.br,,SP,pequena,121,2024-04-29
+ACC-01760,Mendes Sousa Ltda.,martinspinto.com.br,Serviços,SP,media,320,2023-08-23
+ACC-01761,Cirino,costela.com.br,Tecnologia,SP,,109,2023-05-27
+ACC-01762,Fogaça S/A,fonsecas/a.org.br,Tecnologia,RJ,media,308,2023-07-06
+ACC-01763,Correia,casagrandelt.net.br,Varejo,SP,media,221,2023-01-12
+ACC-01764,Costa S.A.,aparecida.com.br,Serviços,MG,pequena,50,2023-12-02
+ACC-01765,da Luz Silveira S.A.,cavalcanti.org.br,Serviços,PR,pequena,69,2024-03-21
+ACC-01766,Cavalcanti Costa S/A,novaes.com.br,Varejo,SP,pequena,53,2024-02-17
+ACC-01767,Garcia Rezende S/A,daluzbritos/.net.br,Saúde,SP,media,244,2023-12-07
+ACC-01768,Marques,costela.net.br,Educação,SP,,428,2023-01-07
+ACC-01769,Moura Pinto - ME,freitasfreit.com.br,,SP,pequena,90,2024-01-15
+ACC-01770,Vieira Correia S.A.,camposs.a..com.br,Tecnologia,RJ,media,257,2024-06-28
+ACC-01771,Dias,sales.com.br,Tecnologia,SC,media,249,2023-01-02
+ACC-01772,Aparecida Teixeira - EI,porto.com.br,Indústria,SP,pequena,150,2024-01-08
+ACC-01773,da Cruz,nascimentoda.com.br,Tecnologia,SP,,170,2023-08-09
+ACC-01774,Moraes Pacheco - ME,piresltda..net.br,Saúde,RS,pequena,140,2024-05-12
+ACC-01775,Cavalcante - EI,siqueirabarr.com.br,Varejo,SP,pequena,130,2024-02-02
+ACC-01776,Monteiro,sá.com.br,Financeiro,SC,media,183,2023-12-22
+ACC-01777,Silva,cavalcanti.com.br,Tecnologia,SP,media,310,2023-11-18
+ACC-01778,Silva,moura.net.br,Saúde,SP,media,177,2024-05-26
+ACC-01779,Pacheco,melo.com.br,Educação,SC,media,337,2023-11-20
+ACC-01780,Costela S.A.,porto.net.br,Varejo,RJ,pequena,69,2024-01-25
+ACC-01781,das Neves Lima - ME,machadodacos.net.br,Saúde,GO,grande,457,2023-06-26
+ACC-01782,Carvalho S/A,freitasdacun.com.br,Varejo,MG,media,217,2023-05-24
+ACC-01783,da Conceição,macedo.org.br,Tecnologia,PR,grande,375,2024-06-14
+ACC-01784,Lima,martins-ei.net.br,Serviços,GO,pequena,71,2024-02-25
+ACC-01785,Jesus,martins.org.br,Tecnologia,SP,media,300,2024-01-25
+ACC-01786,da Mata,monteiro.net.br,Educação,SP,pequena,76,2023-07-02
+ACC-01787,Macedo da Conceição Ltda.,alves.com.br,Varejo,SP,pequena,78,2023-10-13
+ACC-01788,Montenegro,fogaças/a.com.br,Tecnologia,SP,pequena,64,2023-11-20
+ACC-01789,Brito Campos S/A,vianaltda..com.br,Serviços,SP,media,156,2024-03-24
+ACC-01790,Farias Costa e Filhos,andrade.com.br,Indústria,RJ,media,215,2023-04-26
+ACC-01791,Souza,dacunha.com.br,Serviços,GO,media,227,2024-01-23
+ACC-01792,Sá Silva e Filhos,correia.com.br,Serviços,MG,media,166,2023-04-22
+ACC-01793,da Paz,albuquerque.net.br,Tecnologia,RJ,media,266,2023-08-19
+ACC-01794,Guerra,viana.com.br,Indústria,MG,pequena,71,2023-12-29
+ACC-01795,Gonçalves da Conceição S.A.,meloefilhos.net.br,Serviços,RS,pequena,137,2023-07-31
+ACC-01796,Silveira,melodaconcei.net.br,Serviços,RJ,media,328,2023-04-01
+ACC-01797,Dias S.A.,fernandes.org.br,Varejo,PE,pequena,88,2023-06-11
+ACC-01798,Costela,vargas.org.br,Serviços,CE,grande,411,2023-03-09
+ACC-01799,Freitas S.A.,machado.net.br,Tecnologia,SP,media,233,2023-12-25
+ACC-01800,Ribeiro,dasnevessous.com.br,Tecnologia,RS,media,203,2024-05-05
+ACC-01801,Leão Lima e Filhos,fernandes.com.br,Tecnologia,RJ,media,307,2023-04-23
+ACC-01802,Duarte,teixeira.net.br,Varejo,MG,media,255,2023-02-17
+ACC-01803,Cassiano Farias - EI,nuness/a.com.br,Tecnologia,SP,media,321,2024-04-19
+ACC-01804,Gonçalves Azevedo - EI,garcia.com.br,,MG,media,347,2023-05-13
+ACC-01805,Caldeira,correia.com.br,Serviços,SP,media,246,2024-01-18
+ACC-01806,Porto,nunes.org.br,Varejo,GO,media,343,2023-01-04
+ACC-01807,Caldeira Rocha - EI,borges.com.br,Financeiro,outros,media,217,2023-08-20
+ACC-01808,Alves,andradesales.net.br,Tecnologia,SP,pequena,141,2023-12-07
+ACC-01809,Costela,costaazevedo.com.br,Indústria,RS,media,234,2024-01-01
+ACC-01810,Marques S/A,darocharibei.com.br,Indústria,RJ,pequena,80,2023-09-12
+ACC-01811,Cavalcante Ltda.,moreira.com.br,Varejo,SP,media,153,2024-02-16
+ACC-01812,Camargo Cardoso - EI,gonçalves.com.br,,SP,media,252,2023-11-07
+ACC-01813,Gomes S.A.,mendes.com.br,Tecnologia,RJ,grande,465,2023-01-25
+ACC-01814,Castro,costeladasne.net.br,Varejo,SP,media,278,2023-02-14
+ACC-01815,Montenegro Silva e Filhos,pastor.com.br,Indústria,MG,media,320,2023-04-07
+ACC-01816,Abreu Casa Grande - ME,damota.com.br,Varejo,PR,pequena,84,2024-04-28
+ACC-01817,Moura Farias - EI,guerra-ei.com.br,Indústria,RJ,media,292,2023-11-30
+ACC-01818,Oliveira,marques.com.br,Serviços,outros,grande,495,2023-01-03
+ACC-01819,Ramos,sousas/a.com.br,Tecnologia,PR,pequena,147,2023-09-05
+ACC-01820,Gonçalves,ferreira.com.br,Financeiro,RJ,pequena,116,2023-12-31
+ACC-01821,Marques,leãodacruzs..org.br,Varejo,RJ,pequena,138,2023-11-13
+ACC-01822,Sampaio Nunes S/A,ribeiro.org.br,Agronegócio,SP,media,256,2023-11-26
+ACC-01823,da Costa S.A.,sampaio.com.br,Serviços,PR,media,255,2023-09-21
+ACC-01824,Rios,pires.org.br,Varejo,SP,pequena,55,2024-01-28
+ACC-01825,Monteiro Jesus - EI,sampaioefilh.com.br,Tecnologia,RJ,media,227,2023-12-03
+ACC-01826,Montenegro Ltda.,freitass/a.com.br,Saúde,MG,pequena,134,2024-03-29
+ACC-01827,da Cunha Costela - EI,machado.com.br,,RS,pequena,72,2023-11-29
+ACC-01828,Porto e Filhos,martinss/a.net.br,Saúde,SP,pequena,88,2024-01-23
+ACC-01829,Souza,garcia.com.br,Indústria,SP,grande,465,2023-06-21
+ACC-01830,Andrade,correia.com.br,Varejo,SP,,310,2023-07-05
+ACC-01831,Duarte Rios e Filhos,dacunhas/a.net.br,Varejo,SP,pequena,120,2023-05-20
+ACC-01832,Azevedo,mendonça.net.br,Serviços,SP,pequena,92,2023-09-08
+ACC-01833,Silva Macedo S.A.,novaesefilho.com.br,Serviços,SC,media,216,2024-05-02
+ACC-01834,Cavalcante Almeida - EI,damota.org.br,Saúde,MG,media,348,2024-04-02
+ACC-01835,Nascimento e Filhos,cavalcantilt.com.br,Financeiro,SP,media,341,2024-02-15
+ACC-01836,Rios S/A,cavalcante.com.br,Financeiro,PR,media,300,2023-06-05
+ACC-01837,Fogaça,cassiano.com.br,Agronegócio,outros,media,185,2024-05-04
+ACC-01838,Macedo Sampaio S/A,cunhasilvas/.com.br,Serviços,SP,pequena,104,2023-06-14
+ACC-01839,Macedo,gomesefilhos.com.br,Serviços,SC,media,252,2023-08-28
+ACC-01840,Vargas - ME,peixotos/a.com.br,Saúde,PR,media,349,2023-02-23
+ACC-01841,Borges Almeida - ME,dacruzfreita.org.br,Serviços,SP,pequena,52,2024-02-16
+ACC-01842,Rodrigues Rios S/A,albuquerquel.net.br,Tecnologia,SP,media,295,2024-03-19
+ACC-01843,Aparecida Leão - EI,britorioss.a.net.br,Tecnologia,SP,pequena,150,2023-05-12
+ACC-01844,Pinto Costela - EI,duarteltda..com.br,Serviços,RJ,pequena,139,2023-01-26
+ACC-01845,da Conceição S.A.,lima.com.br,Varejo,MG,pequena,113,2024-05-27
+ACC-01846,Albuquerque Guerra e Filhos,fogaçaltda..com.br,Tecnologia,PR,pequena,136,2023-10-29
+ACC-01847,Cunha,albuquerque.com.br,Indústria,SP,media,273,2023-07-13
+ACC-01848,Ribeiro Ltda.,câmara.com.br,Tecnologia,PR,grande,389,2023-02-12
+ACC-01849,Cunha - ME,aparecida.com.br,Agronegócio,SP,pequena,100,2023-08-02
+ACC-01850,Caldeira,vargas.com.br,,RJ,pequena,109,2023-11-25
+ACC-01851,Pires,dacunhabrito.com.br,Indústria,SP,grande,383,2023-09-18
+ACC-01852,Farias Cavalcanti e Filhos,rocha.org.br,Financeiro,SP,pequena,113,2024-03-21
+ACC-01853,Azevedo,rios.net.br,Financeiro,PR,media,219,2023-02-07
+ACC-01854,Garcia,almeida.com.br,Financeiro,SP,media,175,2023-11-30
+ACC-01855,da Conceição S/A,montenegropa.net.br,Varejo,PE,pequena,70,2023-08-28
+ACC-01856,Sá,dasnevess.a..net.br,Tecnologia,SP,media,332,2023-01-25
+ACC-01857,Freitas Monteiro Ltda.,pintobarross.org.br,Tecnologia,CE,pequena,106,2023-04-02
+ACC-01858,da Costa e Filhos,cassianogarc.com.br,Varejo,SP,pequena,121,2023-01-10
+ACC-01859,Carvalho,sousa.com.br,Educação,GO,pequena,101,2023-08-03
+ACC-01860,Moreira - ME,dias.com.br,Agronegócio,MG,media,286,2024-01-19
+ACC-01861,da Conceição e Filhos,sá.net.br,Serviços,SP,pequena,111,2023-06-09
+ACC-01862,Costela Nogueira S/A,fernandes.com.br,Varejo,MG,grande,409,2024-02-08
+ACC-01863,Pereira Garcia - EI,rodriguessam.com.br,Indústria,RS,media,347,2023-12-19
+ACC-01864,Pires,cirino.com.br,Serviços,RS,pequena,51,2023-06-07
+ACC-01865,Correia S/A,azevedo-me.com.br,Tecnologia,SP,media,294,2023-02-09
+ACC-01866,Pastor Novaes S.A.,costelacardo.com.br,Educação,PR,grande,380,2024-06-23
+ACC-01867,das Neves,montenegroba.com.br,Agronegócio,SP,media,166,2023-04-07
+ACC-01868,Cavalcanti,silveiracost.net.br,Serviços,SC,media,254,2024-01-12
+ACC-01869,Porto,darosadapaz-.org.br,Saúde,SP,pequena,145,2023-07-31
+ACC-01870,Fonseca - ME,damataviana-.org.br,Serviços,GO,pequena,69,2023-03-31
+ACC-01871,Macedo,cavalcante.com.br,Varejo,SP,,159,2024-01-26
+ACC-01872,Teixeira,montenegro.com.br,Varejo,SP,media,276,2023-09-24
+ACC-01873,Lima,vieiramendes.com.br,Tecnologia,SC,media,185,2023-10-11
+ACC-01874,Novaes Siqueira S.A.,teixeiraltda.com.br,Tecnologia,BA,pequena,146,2024-03-01
+ACC-01875,das Neves,garcia.com.br,Saúde,MG,,351,2023-12-11
+ACC-01876,Novais,dapaz.com.br,Varejo,MG,pequena,67,2023-06-07
+ACC-01877,Carvalho,barbosa.com.br,Tecnologia,SP,pequena,106,2023-03-21
+ACC-01878,Correia Abreu S/A,costa.com.br,Financeiro,GO,media,321,2023-05-29
+ACC-01879,Leão,mendonça.org.br,Tecnologia,PR,pequena,88,2023-03-22
+ACC-01880,Gomes,souza.com.br,Serviços,RJ,pequena,137,2023-09-29
+ACC-01881,Jesus S/A,dasneves.com.br,Financeiro,RS,media,180,2024-01-23
+ACC-01882,Correia Teixeira - ME,gomes-ei.com.br,Serviços,MG,grande,352,2023-03-22
+ACC-01883,Moraes,vargas.com.br,Varejo,RS,grande,471,2024-05-07
+ACC-01884,Sampaio,porto.org.br,Indústria,RJ,pequena,127,2024-04-02
+ACC-01885,Sousa,rezende-me.org.br,Serviços,RJ,media,245,2023-10-16
+ACC-01886,Pires,dacruzmendes.net.br,,GO,pequena,126,2024-02-23
+ACC-01887,da Luz Pereira - ME,sampaioefilh.org.br,Financeiro,RJ,pequena,111,2023-09-13
+ACC-01888,Albuquerque Camargo S/A,dacunhadacru.com.br,Serviços,SP,pequena,60,2023-01-29
+ACC-01889,Moreira S.A.,gonçalves.com.br,Tecnologia,RJ,pequena,85,2024-02-06
+ACC-01890,da Cunha,cavalcante.org.br,Indústria,CE,pequena,103,2023-12-31
+ACC-01891,Pastor,montenegro.com.br,Varejo,PE,media,180,2024-02-25
+ACC-01892,Sá,siqueira.net.br,Tecnologia,MG,media,294,2023-08-13
+ACC-01893,Casa Grande,caldeiraefil.net.br,Varejo,RJ,pequena,104,2023-03-26
+ACC-01894,Souza Gonçalves e Filhos,souza.net.br,Tecnologia,SC,pequena,117,2024-05-24
+ACC-01895,Mendonça Abreu S/A,abreu.net.br,Serviços,RS,pequena,51,2023-09-21
+ACC-01896,Moura,vasconcelose.com.br,Serviços,RJ,grande,430,2023-07-27
+ACC-01897,Siqueira,rezende.net.br,Tecnologia,SP,pequena,68,2023-11-17
+ACC-01898,Freitas Cirino e Filhos,cavalcante.com.br,Indústria,SP,media,204,2023-02-25
+ACC-01899,Machado - EI,costamendonç.net.br,Serviços,RJ,media,171,2023-12-05
+ACC-01900,Teixeira Correia Ltda.,cirinocostas.com.br,Saúde,SP,pequena,138,2023-09-02
+ACC-01901,Porto S.A.,macedo.com.br,Agronegócio,MG,media,185,2023-09-10
+ACC-01902,Campos,darochas/a.com.br,Tecnologia,outros,grande,491,2023-04-26
+ACC-01903,Alves,azevedo.com.br,Indústria,PE,grande,385,2024-05-04
+ACC-01904,Albuquerque S/A,mendesmendon.com.br,Agronegócio,SP,pequena,73,2023-08-31
+ACC-01905,Rios - EI,sá.com.br,Varejo,SP,grande,396,2024-03-01
+ACC-01906,Garcia - EI,britos.a..com.br,Tecnologia,SP,media,306,2023-07-19
+ACC-01907,Sá,mendonça.com.br,Financeiro,PR,pequena,85,2023-10-11
+ACC-01908,Fernandes,pereira.com.br,Tecnologia,SP,pequena,87,2024-01-28
+ACC-01909,Dias,rodrigues.org.br,Indústria,RS,pequena,120,2024-05-25
+ACC-01910,Pimenta,fonsecarios-.org.br,Indústria,PR,media,280,2024-02-02
+ACC-01911,Abreu - ME,fogaçaltda..com.br,Educação,MG,grande,483,2023-01-02
+ACC-01912,Alves Pereira S/A,silveira.com.br,Serviços,SP,pequena,80,2024-02-25
+ACC-01913,Freitas Machado - EI,sampaio.org.br,Educação,SC,pequena,55,2023-05-23
+ACC-01914,Ribeiro,moraes.com.br,Serviços,SP,pequena,122,2024-03-14
+ACC-01915,Porto Ltda.,abreuportolt.com.br,Indústria,RJ,pequena,130,2023-05-04
+ACC-01916,da Conceição,sousaltda..org.br,Saúde,SP,pequena,111,2023-08-31
+ACC-01917,Ferreira - ME,guerra.com.br,Serviços,RJ,grande,374,2023-05-05
+ACC-01918,Siqueira - ME,ribeiro.org.br,Tecnologia,SP,pequena,131,2023-12-14
+ACC-01919,Silva Casa Grande - EI,pereira.net.br,Varejo,RS,pequena,126,2023-04-27
+ACC-01920,da Rosa e Filhos,cardoso-me.com.br,Indústria,MG,media,157,2023-05-03
+ACC-01921,Camargo,cavalcante.org.br,Saúde,PR,media,315,2023-02-15
+ACC-01922,da Cruz Cunha S.A.,ribeiro.com.br,Serviços,SP,grande,378,2023-09-26
+ACC-01923,Castro Ltda.,caldeira-me.com.br,Saúde,RJ,media,174,2024-05-16
+ACC-01924,Câmara,vargas.org.br,Financeiro,SP,pequena,72,2023-08-10
+ACC-01925,Rios,rios.com.br,,RS,media,216,2024-04-11
+ACC-01926,Borges,rioss.a..com.br,Financeiro,RS,media,202,2024-06-11
+ACC-01927,Ramos Ltda.,câmara.com.br,Varejo,PE,pequena,138,2023-10-29
+ACC-01928,Rezende,silva.com.br,Financeiro,MG,pequena,65,2024-01-28
+ACC-01929,da Luz Camargo Ltda.,daconceição.com.br,Tecnologia,CE,media,286,2023-06-18
+ACC-01930,Sousa,camargos/a.com.br,Indústria,MG,pequena,136,2023-01-16
+ACC-01931,Cardoso,souzacamargo.com.br,Financeiro,SP,media,194,2023-04-19
+ACC-01932,das Neves S/A,garcia.com.br,Indústria,PE,media,226,2024-05-22
+ACC-01933,Rocha,gomeslimaltd.net.br,Indústria,SP,pequena,101,2023-05-27
+ACC-01934,Caldeira Gonçalves S/A,moreiraribei.org.br,Varejo,SP,pequena,85,2023-07-29
+ACC-01935,da Rocha Câmara - ME,dias.com.br,Agronegócio,MG,media,172,2023-05-17
+ACC-01936,Casa Grande,casagrande.com.br,Tecnologia,SP,media,346,2023-05-14
+ACC-01937,Montenegro,peixotoltda..com.br,Indústria,RJ,pequena,91,2023-02-02
+ACC-01938,Pires,damotaefilho.net.br,Agronegócio,SP,media,279,2024-04-19
+ACC-01939,Araújo,monteirodaro.net.br,Serviços,RS,media,322,2023-08-03
+ACC-01940,Siqueira Câmara e Filhos,cassiano.org.br,Varejo,MG,media,182,2023-08-14
+ACC-01941,Siqueira,vasconceloss.com.br,Indústria,RS,pequena,147,2023-03-11
+ACC-01942,Almeida Novaes - ME,darosa.net.br,Serviços,DF,pequena,106,2023-11-28
+ACC-01943,Ferreira,lima.com.br,Indústria,RJ,grande,460,2023-11-15
+ACC-01944,Moura e Filhos,gonçalves.com.br,Tecnologia,CE,media,298,2024-04-11
+ACC-01945,Sampaio Novaes - ME,dapaz.com.br,Varejo,RJ,media,295,2023-10-15
+ACC-01946,Santos Ltda.,cardosoltda..com.br,Tecnologia,GO,pequena,82,2023-12-12
+ACC-01947,Oliveira Carvalho - ME,rezende.com.br,Serviços,SP,pequena,115,2024-02-20
+ACC-01948,Costela Cunha e Filhos,darocha.com.br,Varejo,PE,media,245,2023-08-04
+ACC-01949,Silveira,sousarezende.com.br,Serviços,RJ,media,174,2023-04-19
+ACC-01950,Lima,rochas.a..com.br,Agronegócio,PE,pequena,92,2023-07-08
+ACC-01951,Cavalcanti,araújobritol.org.br,Varejo,SP,pequena,53,2023-12-24
+ACC-01952,Pastor,campos-ei.com.br,Varejo,SP,pequena,81,2023-03-08
+ACC-01953,da Cruz,cassiano.net.br,Varejo,MG,media,192,2023-06-14
+ACC-01954,Mendonça,camposs.a..net.br,Saúde,PR,media,253,2024-05-05
+ACC-01955,Rezende Souza - ME,sales.com.br,Financeiro,SP,media,239,2024-01-01
+ACC-01956,da Mota,vasconcelos-.com.br,Tecnologia,MG,pequena,65,2023-09-20
+ACC-01957,Campos S/A,freitas.org.br,Varejo,RS,pequena,52,2023-10-12
+ACC-01958,Almeida Pastor - EI,campos-me.com.br,Varejo,DF,pequena,79,2023-03-02
+ACC-01959,Vieira - EI,damota.net.br,Indústria,PE,pequena,144,2023-12-21
+ACC-01960,da Rosa,gomesmendese.org.br,Financeiro,SP,grande,480,2023-03-21
+ACC-01961,Guerra Sampaio S/A,britoduartes.net.br,Agronegócio,MG,pequena,67,2023-04-23
+ACC-01962,Azevedo,novais.org.br,Tecnologia,SP,pequena,135,2023-05-18
+ACC-01963,Cirino - EI,sás.a..net.br,Varejo,SP,grande,364,2024-03-11
+ACC-01964,Campos,abreunovais-.net.br,Saúde,RJ,media,232,2024-03-25
+ACC-01965,Rezende Castro S/A,cardoso-ei.com.br,Varejo,SP,pequena,79,2023-11-26
+ACC-01966,Barros S/A,sá.com.br,,SP,media,290,2024-04-26
+ACC-01967,Lima Ribeiro S/A,fonseca.com.br,Financeiro,MG,pequena,89,2024-02-06
+ACC-01968,Ribeiro,darosaaparec.com.br,Financeiro,PR,media,218,2023-01-18
+ACC-01969,Sales,carvalho.com.br,Serviços,MG,pequena,138,2023-04-16
+ACC-01970,Pereira,moreira.com.br,Indústria,MG,grande,434,2023-10-17
+ACC-01971,da Costa S/A,salesbritoef.com.br,Varejo,PE,grande,384,2024-05-17
+ACC-01972,Pereira Novaes S.A.,casagrandeda.com.br,Varejo,SP,pequena,116,2023-10-23
+ACC-01973,Siqueira Pinto - ME,damota.com.br,Tecnologia,SP,media,219,2023-04-15
+ACC-01974,Garcia,novaesltda..net.br,Saúde,SP,grande,449,2023-07-15
+ACC-01975,Rocha,guerramarque.net.br,Serviços,SP,pequena,79,2023-03-27
+ACC-01976,Nascimento Costela S/A,sales.com.br,Serviços,MG,grande,394,2023-01-19
+ACC-01977,Silva Freitas - EI,porto.net.br,,PR,media,252,2023-08-22
+ACC-01978,Garcia,leãocassiano.org.br,Educação,SP,,121,2024-06-11
+ACC-01979,da Mata S/A,pereiras.a..com.br,Varejo,MG,media,187,2023-11-06
+ACC-01980,Azevedo,rodrigues-ei.net.br,Indústria,SP,grande,375,2024-02-02
+ACC-01981,Fonseca Ltda.,porto.org.br,Agronegócio,PR,pequena,124,2023-01-14
+ACC-01982,da Mota Albuquerque S/A,casagrande.com.br,Varejo,SP,media,310,2023-09-21
+ACC-01983,Caldeira,câmara.com.br,Saúde,SP,grande,360,2024-04-08
+ACC-01984,Pastor,cavalcanti-e.com.br,Financeiro,SP,media,241,2023-01-10
+ACC-01985,Sampaio,brito.com.br,Tecnologia,SP,media,179,2024-03-07
+ACC-01986,Pereira,novaes.net.br,Educação,BA,pequena,129,2023-05-27
+ACC-01987,Sá,aragãos.a..com.br,Varejo,SP,media,191,2023-06-06
+ACC-01988,Sousa,cirino.net.br,Serviços,SP,media,337,2023-10-02
+ACC-01989,da Luz Albuquerque e Filhos,mendes.org.br,Varejo,SP,pequena,122,2024-06-02
+ACC-01990,Nunes,ribeirocardo.com.br,Indústria,MG,media,166,2023-07-18
+ACC-01991,Santos,aragão.com.br,Tecnologia,PR,pequena,85,2023-06-26
+ACC-01992,Cirino,rochapereira.com.br,Indústria,RJ,media,240,2023-11-09
+ACC-01993,Montenegro,fogaça.com.br,Tecnologia,SP,media,343,2023-08-01
+ACC-01994,Moreira,damota.org.br,Tecnologia,RJ,pequena,142,2024-03-24
+ACC-01995,Jesus,dasnevesport.com.br,Indústria,RJ,media,185,2024-02-24
+ACC-01996,Barbosa e Filhos,borges.com.br,Varejo,SP,pequena,70,2023-06-25
+ACC-01997,Barros e Filhos,borgescavalc.com.br,Varejo,RJ,pequena,137,2024-01-01
+ACC-01998,Albuquerque,novaes.com.br,Varejo,MG,media,194,2024-06-27
+ACC-01999,Mendes Monteiro - EI,rocha.com.br,Varejo,RJ,media,298,2023-04-30
+ACC-02000,Souza Abreu e Filhos,guerras/a.com.br,Saúde,BA,pequena,69,2023-05-08

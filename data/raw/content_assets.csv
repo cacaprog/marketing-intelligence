@@ -1,0 +1,22 @@
+asset_id,asset_type,asset_name,url_path,publish_date,topic_cluster
+AST-0001,blog,Blog: Gestão de Vendas B2B,/blog/gestao-vendas-b2b,2023-02-02,Gestão de Vendas
+AST-0002,blog,Blog: CRM para Indústria,/blog/crm-para-industria,2023-01-10,CRM
+AST-0003,blog,Blog: Integração ERP,/blog/integracao-erp-sistemas,2023-01-16,ERP & Integração
+AST-0004,blog,Blog: Automação Marketing,/blog/automacao-marketing-b2b,2023-01-20,Automação
+AST-0005,blog,Blog: Churn em SaaS,/blog/churn-saas-brasil,2023-01-13,Geral
+AST-0006,blog,Blog: Funil de Vendas Complexas,/blog/funil-vendas-complexas,2023-01-27,Gestão de Vendas
+AST-0007,blog,Blog: Leads Qualificados,/blog/leads-qualificados-b2b,2023-02-18,Geral
+AST-0008,ebook,Ebook: CRM para Varejo,/ebook/crm-para-varejo,2023-02-14,CRM
+AST-0009,ebook,Ebook: Gestão de Pipeline,/ebook/gestao-pipeline-vendas,2023-02-25,Gestão de Vendas
+AST-0010,ebook,Ebook: ROI em Tecnologia,/ebook/roi-tecnologia-empresas,2023-02-20,ROI & Valor
+AST-0011,ebook,Ebook: Guia de Integração,/ebook/integracao-sistemas-guia,2023-01-19,ERP & Integração
+AST-0012,webinar,Webinar: Integração ERP ao Vivo,/webinar/integracao-erp-ao-vivo,2023-01-04,ERP & Integração
+AST-0013,webinar,Webinar: CRM para Gestores,/webinar/crm-para-gestores,2023-01-10,CRM
+AST-0014,webinar,Webinar: Demo Automação de Vendas,/webinar/automacao-vendas-demo,2023-02-17,Gestão de Vendas
+AST-0015,landing_page,LP: Demo Grátis,/lp/demo-gratis,2023-01-21,Conversão
+AST-0016,landing_page,LP: Trial 30 Dias,/lp/trial-30-dias,2023-02-13,Conversão
+AST-0017,landing_page,LP: Comparativo ERP,/lp/comparativo-erp,2023-01-28,ERP & Integração
+AST-0018,landing_page,LP: Calculadora ROI,/lp/roi-calculator,2023-02-23,ROI & Valor
+AST-0019,produto,Produto: CRM Integration,/produto/crm-integracao,2023-01-31,ERP & Integração
+AST-0020,produto,Produto: ERP Connector,/produto/erp-connector,2023-02-24,ERP & Integração
+AST-0021,produto,Produto: API Marketplace,/produto/api-marketplace,2023-01-16,Geral
