@@ -19,6 +19,18 @@ class BenchmarkResult:
 
 
 @dataclass
+class AllocationRecommendation:
+    channel: str
+    current_spend_brl: float
+    channel_efficiency: float
+    recommended_spend_brl: float
+    expected_revenue_brl: float
+    expected_roas: float | None
+    budget_input_brl: float
+    subpopulation_caveat: bool = True
+
+
+@dataclass
 class RoasResult:
     model_name: str
     channel: str

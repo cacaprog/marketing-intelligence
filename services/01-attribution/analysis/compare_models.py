@@ -7,11 +7,13 @@ for _p in [str(_SVC_DIR), str(_REPO_DIR)]:
     if _p not in sys.path:
         sys.path.insert(0, _p)
 
+import functools
 import pandas as pd
 from models import last_touch, first_touch, linear, time_decay, position_based, engagement_weighted
+from models import data_driven
 from result_types import AttributionResult
 
-MODEL_REGISTRY: dict = {
+HEURISTIC_REGISTRY: dict = {
     "last_touch": last_touch,
     "first_touch": first_touch,
     "linear": linear,
@@ -21,9 +23,15 @@ MODEL_REGISTRY: dict = {
 }
 
 
-def run_all_models(spine: pd.DataFrame) -> dict[str, pd.DataFrame]:
-    """Run all six attribution models; returns dict of model_name → weighted spine."""
-    return {name: mod.compute(spine) for name, mod in MODEL_REGISTRY.items()}
+def run_all_models(spine: pd.DataFrame, model_artifact: dict | None = None) -> dict[str, pd.DataFrame]:
+    """Run all attribution models; returns dict of model_name → weighted spine.
+
+    Pass model_artifact to include the data-driven model alongside the six heuristics.
+    """
+    results = {name: mod.compute(spine) for name, mod in HEURISTIC_REGISTRY.items()}
+    if model_artifact is not None:
+        results["data_driven"] = data_driven.compute(spine, model_artifact)
+    return results
 
 
 def to_channel_table(weighted_spine: pd.DataFrame, model_name: str) -> list[AttributionResult]:
