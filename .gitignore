@@ -11,3 +11,22 @@ wheels/
 
 # Generated outputs (re-created by running main.py)
 data/processed/
+
+# data/raw (can be regenerated)
+data/raw/*.db
+data/raw/*.csv
+
+# Environment variables
+.env
+
+# Claude files for project
+.claude/
+
+#speckit project files
+.specify/
+specs/
+
+# uv project files
+.uv/
+uv.lock
+
