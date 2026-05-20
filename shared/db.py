@@ -22,7 +22,8 @@ def get_attribution_spine() -> pd.DataFrame:
                 t.is_first_touch,
                 t.is_last_touch,
                 t.true_marginal_contribution,
-                o.amount_brl
+                o.amount_brl,
+                o.created_date AS opp_created_date
             FROM touchpoints t
             JOIN opportunities o ON t.opp_id = o.opp_id
             WHERE o.is_won = 1
@@ -75,3 +76,32 @@ def get_won_opps() -> pd.DataFrame:
         )
     finally:
         conn.close()
+
+
+def get_cohort_data() -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Leads and opportunities for cohort analysis.
+
+    Returns (leads_df, opps_df) with date columns parsed as datetime64[ns].
+    Callers are responsible for filling null first_touch_channel with 'unknown'.
+    """
+    conn = sqlite3.connect(DB_PATH)
+    try:
+        leads_df = pd.read_sql_query(
+            """
+            SELECT lead_id, first_touch_channel, lead_date, is_mql
+            FROM leads
+            """,
+            conn,
+            parse_dates=["lead_date"],
+        )
+        opps_df = pd.read_sql_query(
+            """
+            SELECT opp_id, lead_id, amount_brl, close_date, is_won, created_date
+            FROM opportunities
+            """,
+            conn,
+            parse_dates=["close_date", "created_date"],
+        )
+    finally:
+        conn.close()
+    return leads_df, opps_df
